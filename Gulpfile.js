@@ -6,6 +6,7 @@
 // -----------------------------------------------------------------------------
 
 var gulp = require('gulp');
+var data = require('gulp-data');
 var sass = require('gulp-sass');
 var autoprefixer = require('gulp-autoprefixer');
 var sassdoc = require('sassdoc');
@@ -28,6 +29,7 @@ var inputTemplates = './pages/*.html';
 var sassOptions = { outputStyle: 'expanded' };
 var autoprefixerOptions = { browsers: ['last 2 versions', '> 5%', 'Firefox ESR'] };
 var sassdocOptions = { dest: siteOutput + '/sassdoc' };
+var samosEvents = require('./data/events');
 
 
 // -----------------------------------------------------------------------------
@@ -63,10 +65,17 @@ gulp.task('scripts', function() {
 // Templating
 // -----------------------------------------------------------------------------
 
+const getDataForFile = function(file) {
+  return {
+    'events': samosEvents.events,
+  }
+}
+
 gulp.task('nunjucks', function() {
   nunjucksRender.nunjucks.configure(['./templates/']);
   // Gets .html and .nunjucks files in pages
   return gulp.src(inputTemplates)
+  .pipe(data(getDataForFile))
   // Renders template with nunjucks
   .pipe(nunjucksRender())
   // output files in dist folder

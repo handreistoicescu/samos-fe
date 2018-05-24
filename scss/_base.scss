@@ -1,7 +1,112 @@
 // base.scss
+@import 'vars';
 
-html, body {
-	height: 100%;
+
+body {
+	background-color: $bg-color;
+	color: $color-grey-dark;
+}
+
+///
+/// Functional classes
+///
+
+.font-oswald {
+	font-family: 'Oswald', sans-serif;
+}
+
+.font-garamond {
+	font-family: 'EB Garamond', serif;
+}
+
+.font-extralight {
+	font-weight: 200;
+} 
+
+.font-bold {
+	font-weight: 700;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.no-underline {
+	text-decoration: none;
+}
+
+.text-18px {
+	font-size: 18px;
+}
+
+.text-24px {
+	font-size: 24px;
+}
+
+.text-grey-dark {
+	color: $color-grey-dark;
+}
+
+.text-white {
+	color: $color-white;
+}
+
+.flex {
+	display: flex;
+}
+
+.justify-between {
+	justify-content: space-between;
+}
+
+.items-center {
+	align-items: center;
+}
+
+.m-0 {
 	margin: 0;
-	padding: 0;
+}
+
+.mt-0 {
+	margin-top: 0;
+}
+
+.m-12px {
+	margin: 12px;
+}
+
+.mb-12px {
+	margin-bottom: 6px;
+}
+
+.mt-12px {
+	margin-top: 6px;
+}
+
+.mb-24px {
+	margin-bottom: 24px;
+}
+
+.p-12px {
+	padding: 12px;
+}
+
+.bg-grey-dark {
+	background-color: $color-grey-dark;
+}
+
+.bg-gradient-01 {
+	background: #6ebfba;
+	background: -moz-linear-gradient(top, #6ebfba 0%, #eab7d2 52%, #f9d864 100%);
+	background: -webkit-linear-gradient(top, #6ebfba 0%,#eab7d2 52%,#f9d864 100%);
+	background: linear-gradient(to bottom, #6ebfba 0%,#eab7d2 52%,#f9d864 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6ebfba', endColorstr='#f9d864',GradientType=0 );
+}
+
+svg {
+	fill: currentColor;
+}
+
+.height-96px {
+	height: 96px;
 }
