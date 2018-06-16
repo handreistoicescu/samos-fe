@@ -29,7 +29,7 @@ var inputTemplates = './pages/*.html';
 var sassOptions = { outputStyle: 'expanded' };
 var autoprefixerOptions = { browsers: ['last 2 versions', '> 5%', 'Firefox ESR'] };
 var sassdocOptions = { dest: siteOutput + '/sassdoc' };
-var samosEvents = require('./data/events');
+var samosEvents = require('./data/data');
 
 
 // -----------------------------------------------------------------------------

@@ -3,11 +3,15 @@
 
 {% include "partials/head.html" %}
 
-<body class="font-garamond text-18px text-grey-dark">
+<body>
+  <section class="mx-20px">
+    <header class="my-24px bg-color">
+      <div>Samoș.</div>
+      <div>21 ianuarie - 4 februarie 2018</div>
+    </header>
+    {% block content %}{% endblock %}
 
-  {% block content %}{% endblock %}
-
-  {% include "partials/end.html" %}
-
+    {% include "partials/end.html" %}
+  <section>
 </body>
 </html>
