@@ -9,12 +9,12 @@
       <section>
         <span class="font-bold">{{ event.type }}</span>
         <h2 class="text-normal font-normal">
-          <a class="text-normal font-normal" href="{{ event.url }}">{{ event.act }}</a>
+          <a class="text-normal font-normal color-violet" href="{{ event.url }}">{{ event.act }}</a>
         </h2>
         <span>{{ event.date.dayName }}, {{ event.date.dayNumber }} - </span>
         <span>
           <span> la </span>
-          <a href="{{ event.venue.link }}">{{ event.venue.name }}</a>
+          <a class="color-violet" href="{{ event.venue.link }}">{{ event.venue.name }}</a>
         </span>
       </section>
     </header>

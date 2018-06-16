@@ -17,8 +17,20 @@ p {
   margin: 0;
 }
 
+.color-violet {
+  color: #9A14CC;
+}
+
 .mb-24px {
   margin-bottom: 24px;
+}
+
+.mb-12px {
+  margin-bottom: 12px;
+}
+
+.mt-16px {
+  margin-top: 16px;
 }
 
 .my-24px {
@@ -29,6 +41,10 @@ p {
 .mx-20px {
   margin-left: 20px;
   margin-right: 20px;
+}
+
+.mt-8px {
+  margin-top: 8px;
 }
 
 .py-24px {
@@ -53,11 +69,17 @@ p {
   font-weight: 700;
 }
 
-.bg-color {
+.bg-color-lime {
   background-color: lime;
 }
 
+.height-64px {
+  height: 64px;
+}
 
+.fill-violet {
+  fill: #9A14CC;
+}
 
 ///////////////
 
