@@ -4,7 +4,7 @@
 @import '../node_modules/normalize.css/normalize';
 
 html {
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
 }
 
@@ -19,6 +19,10 @@ p {
 
 .color-violet {
   color: #9A14CC;
+}
+
+.color-dark-green {
+  color: #4a5a4a;
 }
 
 .mb-24px {
@@ -61,12 +65,24 @@ p {
   font-size: 1rem;
 }
 
+.text-small {
+  font-size: 0.6rem;
+}
+
 .font-normal {
   font-weight: normal;
 }
 
 .font-bold {
   font-weight: 700;
+}
+
+.font-family-slab {
+  font-family: 'Roboto Slab', serif;
+}
+
+.no-underline {
+  text-decoration: none;
 }
 
 .bg-color-lime {
@@ -81,6 +97,18 @@ p {
   fill: #9A14CC;
 }
 
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
 ///////////////
 
 .item-container .item-container__item {
@@ -90,4 +118,26 @@ p {
   &:nth-child(2n) {
     background-color: #e0e0e0;
   }
+}
+
+.date-elem {
+  //border: 4px solid white;
+  border-radius: 6px;
+  color: gray;
+  flex-basis: 3rem; // TODO: replace magic number
+  margin-right: 10px;
+  text-align: center;
+}
+
+  .date-elem__day-number {
+    // font-family: monospace;
+    font-size: 24px;
+  }
+
+  .date-elem__day-name {
+    font-size: 10px;
+  }
+
+.info-elem {
+  flex: 1;
 }

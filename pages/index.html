@@ -5,17 +5,20 @@
 <section class="item-container">
   {% for event in events %}
   <article class="py-24px px-6px item-container__item">
-    <header>      
-      <section>
+    <header class="flex">
+      <section class="date-elem">
+        <div class="date-elem__day-number">{{ event.date.dayNumber }},</div>
+        <div class="date-elem__day-name">{{ event.date.dayName }}</div>
+      </section>   
+      <section class="info-elem">
         <span class="font-bold">{{ event.type }}</span>
-        <h2 class="text-normal font-normal">
-          <a class="text-normal font-normal color-violet" href="{{ event.url }}">{{ event.act }}</a>
+        <h2 class="text-normal font-normal mb-12px">
+          <a class="text-normal font-normal color-violet font-family-slab no-underline" href="{{ event.url }}">{{ event.act }}</a>
         </h2>
-        <span>{{ event.date.dayName }}, {{ event.date.dayNumber }} - </span>
-        <span>
-          <span> la </span>
-          <a class="color-violet" href="{{ event.venue.link }}">{{ event.venue.name }}</a>
-        </span>
+        <div class="text-small">
+          <span>la </span>
+          <a class="color-violet no-underline" href="{{ event.venue.link }}">{{ event.venue.name }}</a>
+        </div>
       </section>
     </header>
   </article>

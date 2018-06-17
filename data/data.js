@@ -3,10 +3,10 @@ exports.events = [
     act: "Madball",
     date: {
       dayNumber: 21,
-      dayName: "Luni",
+      dayName: "luni",
       month: "Ianuarie",
       year: "2018"},
-    type: "concert",
+    type: "Concert:",
     url: "http://www.facebook.com",
     venue: {
       name: "Form Space",
@@ -15,14 +15,14 @@ exports.events = [
     // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt.",
   },
   {
-    act: "Thy Art is Murderr",
+    act: "Thy Art is Murder",
     date: {
-      dayNumber: 21,
-      dayName: "Miercuri",
+      dayNumber: 15,
+      dayName: "miercuri",
       month: "Ianuarie",
       year: "2018"
     },
-    type: "concert",
+    type: "Concert:",
     url: "http://www.facebook.com",
     venue: {
       name: "Shelter",
@@ -33,12 +33,12 @@ exports.events = [
   {
     act: "Craii de Curtea-Veche au titlu lung care intră pe două rânduri cel puțin",
     date: {
-      dayNumber: 21,
-      dayName: "Sâmbătă",
+      dayNumber: 11,
+      dayName: "sâmbătă",
       month: "Ianuarie",
       year: "2018"
     },
-    type: "teatru",
+    type: "Teatru:",
     url: "http://www.facebook.com",
     venue: {
       name: "Teatrul Național Cluj",
@@ -50,11 +50,11 @@ exports.events = [
     act: "Cancer Bats",
     date: {
       dayNumber: 21,
-      dayName: "Luni",
+      dayName: "luni",
       month: "Ianuarie",
       year: "2018"
     },
-    type: "concert",
+    type: "Concert:",
     url: "http://www.facebook.com",
     venue: {
       name: "Bonțida - Electric Castle",
@@ -65,12 +65,12 @@ exports.events = [
   {
     act: "Robert Glasper Experience",
     date: {
-      dayNumber: 21,
-      dayName: "Luni",
+      dayNumber: 3,
+      dayName: "luni",
       month: "Ianuarie",
       year: "2018"
     },
-    type: "concert",
+    type: "Concert:",
     url: "http://www.facebook.com",
     venue: {
       name: "Casa Radio",
