@@ -6,7 +6,7 @@ exports.events = [
       dayName: "luni",
       month: "Ianuarie",
       year: "2018"},
-    type: "Concert:",
+    type: "Concert",
     url: "http://www.facebook.com",
     venue: {
       name: "Form Space",
@@ -22,7 +22,7 @@ exports.events = [
       month: "Ianuarie",
       year: "2018"
     },
-    type: "Concert:",
+    type: "Concert",
     url: "http://www.facebook.com",
     venue: {
       name: "Shelter",
@@ -38,7 +38,7 @@ exports.events = [
       month: "Ianuarie",
       year: "2018"
     },
-    type: "Teatru:",
+    type: "Teatru",
     url: "http://www.facebook.com",
     venue: {
       name: "Teatrul Național Cluj",
@@ -54,7 +54,7 @@ exports.events = [
       month: "Ianuarie",
       year: "2018"
     },
-    type: "Concert:",
+    type: "Concert",
     url: "http://www.facebook.com",
     venue: {
       name: "Bonțida - Electric Castle",
@@ -70,7 +70,7 @@ exports.events = [
       month: "Ianuarie",
       year: "2018"
     },
-    type: "Concert:",
+    type: "Concert",
     url: "http://www.facebook.com",
     venue: {
       name: "Casa Radio",
