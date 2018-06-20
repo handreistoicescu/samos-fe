@@ -55,6 +55,10 @@ p {
   margin-right: 20px;
 }
 
+.mb-8px {
+  margin-bottom: 8px;
+}
+
 .mt-8px {
   margin-top: 8px;
 }
@@ -205,4 +209,47 @@ p {
 
 .bg-salmon-01 {
   background-color: #F63700;
+}
+
+.border-stylish {
+  position: relative;
+
+  &:before {
+    content: '';
+    
+    display: block;
+    height: 1em;
+    
+    position: absolute;
+    bottom: -.5em;
+    left: 0;
+    right: 0;
+    
+    background-size: .7em 1em;
+    background-position: 0 -.5em;
+  }
+}
+
+.border-stylish--white-bottom {
+  &:before {
+    background-image: radial-gradient(circle, transparent 70%, #ffffff 70%);
+  }
+}
+
+.border-stylish--lightgray-bottom {
+  &:before {
+    background-image: radial-gradient(circle, transparent 70%, #f5f5f5 70%);
+  }
+}
+
+.border-stylish--darkgray-bottom {
+  &:before {
+    background-image: radial-gradient(circle, transparent 70%, #e0e0e0 70%);
+  }
+}
+
+.border-stylish--deepblue {
+  &:before {
+    background-image: radial-gradient(circle, transparent 70%, #004853 70%);
+  }
 }

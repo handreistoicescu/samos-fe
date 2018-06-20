@@ -4,7 +4,7 @@
 
 <section class="item-container">
   {% for event in events %}
-  <article class="py-24px px-6px item-container__item">
+  <article class="py-24px px-6px item-container__item{%if loop.last%} border-stylish border-stylish--deepblue{%endif%}">
     <header class="flex">
       <section class="date-elem">
         <div class="date-elem__day-number">{{ event.date.dayNumber }}</div>
