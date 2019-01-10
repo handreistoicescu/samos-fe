@@ -4,7 +4,8 @@
   "description": "svmic",
   "main": "index.html",
   "scripts": {
-    "test": "ok"
+    "test": "ok",
+    "start": "gulp"
   },
   "repository": {
     "type": "git",

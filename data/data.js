@@ -31,7 +31,7 @@ exports.events = [
     // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt. Curabitur in ornare felis. Sed vitae tristique amet.",
   },
   {
-    act: "Craii de Curtea-Veche au titlu lung care intră pe două rânduri cel puțin",
+    act: "Poppy Ackroyd",
     date: {
       dayNumber: 11,
       dayName: "sâmbătă",
@@ -47,7 +47,7 @@ exports.events = [
     // description: "Lorem ipsum dolor sit amet.",
   },
   {
-    act: "Cancer Bats",
+    act: "Hot Water Music",
     date: {
       dayNumber: 21,
       dayName: "luni",
@@ -64,6 +64,38 @@ exports.events = [
   },
   {
     act: "Robert Glasper Experience",
+    date: {
+      dayNumber: 3,
+      dayName: "luni",
+      month: "Ianuarie",
+      year: "2018"
+    },
+    type: "Concert",
+    url: "http://www.facebook.com",
+    venue: {
+      name: "Casa Radio",
+      link: "http://www.facebook.com"
+    },
+    // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt. Curabitur in ornare felis. Sed vitae tristique amet.",
+  },
+  {
+    act: "The Hold Steady",
+    date: {
+      dayNumber: 3,
+      dayName: "luni",
+      month: "Ianuarie",
+      year: "2018"
+    },
+    type: "Concert",
+    url: "http://www.facebook.com",
+    venue: {
+      name: "Casa Radio",
+      link: "http://www.facebook.com"
+    },
+    // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt. Curabitur in ornare felis. Sed vitae tristique amet.",
+  },
+  {
+    act: "Alkaline Trio",
     date: {
       dayNumber: 3,
       dayName: "luni",
