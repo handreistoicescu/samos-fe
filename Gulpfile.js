@@ -157,3 +157,4 @@ gulp.task('browser-sync', function() {
 // -----------------------------------------------------------------------------
 
 gulp.task('default', ['sass', 'nunjucks', 'img', 'scripts', 'watch', 'browser-sync']);
+gulp.task('build', ['sass', 'nunjucks', 'img', 'scripts']);
