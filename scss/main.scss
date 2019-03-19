@@ -3,8 +3,15 @@
 // Imports
 @import '../node_modules/normalize.css/normalize';
 
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
 html {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'system', sans-serif;
   font-size: 18px;
 }
 
@@ -106,10 +113,6 @@ p {
 
 .font-bold {
   font-weight: 700;
-}
-
-.font-family-slab {
-  font-family: 'Roboto Slab', serif;
 }
 
 .no-underline {
@@ -216,15 +219,15 @@ p {
 
   &:before {
     content: '';
-    
+
     display: block;
     height: 1em;
-    
+
     position: absolute;
     bottom: -.5em;
     left: 0;
     right: 0;
-    
+
     background-size: .7em 1em;
     background-position: 0 -.5em;
   }
