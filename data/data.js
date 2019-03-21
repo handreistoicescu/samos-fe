@@ -3,7 +3,7 @@ exports.events = [
     act: "Madball",
     date: {
       dayNumber: 21,
-      dayName: "luni",
+      dayName: "Monday",
       month: "Ianuarie",
       year: "2018"},
     type: "Concert",
@@ -18,7 +18,7 @@ exports.events = [
     act: "Thy Art is Murder",
     date: {
       dayNumber: 15,
-      dayName: "miercuri",
+      dayName: "Wednesday",
       month: "Ianuarie",
       year: "2018"
     },
@@ -34,11 +34,11 @@ exports.events = [
     act: "Poppy Ackroyd",
     date: {
       dayNumber: 11,
-      dayName: "sâmbătă",
+      dayName: "Saturday",
       month: "Ianuarie",
       year: "2018"
     },
-    type: "Teatru",
+    type: "Theatre",
     url: "http://www.facebook.com",
     venue: {
       name: "Teatrul Național Cluj",
@@ -50,7 +50,7 @@ exports.events = [
     act: "Hot Water Music",
     date: {
       dayNumber: 21,
-      dayName: "luni",
+      dayName: "Monday",
       month: "Ianuarie",
       year: "2018"
     },
@@ -66,7 +66,7 @@ exports.events = [
     act: "Robert Glasper Experience",
     date: {
       dayNumber: 3,
-      dayName: "luni",
+      dayName: "Monday",
       month: "Ianuarie",
       year: "2018"
     },
@@ -82,7 +82,7 @@ exports.events = [
     act: "The Hold Steady",
     date: {
       dayNumber: 3,
-      dayName: "luni",
+      dayName: "Monday",
       month: "Ianuarie",
       year: "2018"
     },
@@ -98,7 +98,7 @@ exports.events = [
     act: "Alkaline Trio",
     date: {
       dayNumber: 3,
-      dayName: "luni",
+      dayName: "Monday",
       month: "Ianuarie",
       year: "2018"
     },
