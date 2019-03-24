@@ -1,5 +1,12 @@
 'use strict';
 
+// -----------------------------------------------------------------------------
+// Environment variables
+// -----------------------------------------------------------------------------
+
+if (process.env.NODE_ENV !== 'production') {
+  require('dotenv').config();
+}
 
 // -----------------------------------------------------------------------------
 // Dependencies
@@ -7,12 +14,13 @@
 
 var gulp = require('gulp');
 var data = require('gulp-data');
+var axios = require('axios');
 var sass = require('gulp-sass');
 var autoprefixer = require('gulp-autoprefixer');
 var sassdoc = require('sassdoc');
 var browserSync = require('browser-sync').create();
 var nunjucksRender = require('gulp-nunjucks-render');
-var concat      = require('gulp-concat');
+var concat = require('gulp-concat');
 var imagemin = require('gulp-imagemin');
 var pngquant = require('imagemin-pngquant');
 var siteOutput = './dist';
@@ -29,7 +37,6 @@ var inputTemplates = './pages/*.html';
 var sassOptions = { outputStyle: 'expanded' };
 var autoprefixerOptions = { browsers: ['last 2 versions', '> 5%', 'Firefox ESR'] };
 var sassdocOptions = { dest: siteOutput + '/sassdoc' };
-var samosEvents = require('./data/data');
 
 
 // -----------------------------------------------------------------------------
@@ -66,9 +73,25 @@ gulp.task('scripts', function() {
 // -----------------------------------------------------------------------------
 
 const getDataForFile = function(file) {
-  return {
-    'events': samosEvents.events,
-  }
+  axios.get(`${process.env.BACKEND_BASE_URL}:${process.env.BACKEND_PORT}/events`, {
+    params: {
+      status: 'published',
+      startDate: '2019-01-01',
+      endDate: '2019-12-01'
+    }
+  })
+  .then(function (response) {
+    console.log(response.data.events)
+    return {
+      'events': response.data.events,
+    }
+  })
+  .catch(function (error) {
+    console.log(error);
+  })
+  .then(function () {
+    // always executed
+  });  
 }
 
 gulp.task('nunjucks', function() {

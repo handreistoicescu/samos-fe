@@ -11,8 +11,7 @@ exports.events = [
     venue: {
       name: "Form Space",
       link: "http://www.facebook.com"
-    },
-    // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt.",
+    }
   },
   {
     act: "Thy Art is Murder",
@@ -27,8 +26,7 @@ exports.events = [
     venue: {
       name: "Shelter",
       link: "http://www.facebook.com"
-    },
-    // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt. Curabitur in ornare felis. Sed vitae tristique amet.",
+    }
   },
   {
     act: "Poppy Ackroyd",
@@ -43,8 +41,7 @@ exports.events = [
     venue: {
       name: "Teatrul Național Cluj",
       link: "http://www.facebook.com"
-    },
-    // description: "Lorem ipsum dolor sit amet.",
+    }
   },
   {
     act: "Hot Water Music",
@@ -59,8 +56,7 @@ exports.events = [
     venue: {
       name: "Bonțida - Electric Castle",
       link: "http://www.facebook.com"
-    },
-    // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt. Curabitur in ornare felis. Sed vitae tristique amet.",
+    }
   },
   {
     act: "Robert Glasper Experience",
@@ -75,8 +71,7 @@ exports.events = [
     venue: {
       name: "Casa Radio",
       link: "http://www.facebook.com"
-    },
-    // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt. Curabitur in ornare felis. Sed vitae tristique amet.",
+    }
   },
   {
     act: "The Hold Steady",
@@ -91,8 +86,7 @@ exports.events = [
     venue: {
       name: "Casa Radio",
       link: "http://www.facebook.com"
-    },
-    // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt. Curabitur in ornare felis. Sed vitae tristique amet.",
+    }
   },
   {
     act: "Alkaline Trio",
@@ -107,7 +101,6 @@ exports.events = [
     venue: {
       name: "Casa Radio",
       link: "http://www.facebook.com"
-    },
-    // description: "Lorem ipsum dolor sit amet., consectetur adipiscing elit. Vestibulum fermentum risus non placerat tincidunt. Curabitur in ornare felis. Sed vitae tristique amet.",
+    }
   }
 ]
