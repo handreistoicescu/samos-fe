@@ -1,6 +1,5 @@
 'use strict';
 
-
 // -----------------------------------------------------------------------------
 // Dependencies
 // -----------------------------------------------------------------------------
@@ -12,7 +11,8 @@ var autoprefixer = require('gulp-autoprefixer');
 var sassdoc = require('sassdoc');
 var browserSync = require('browser-sync').create();
 var nunjucksRender = require('gulp-nunjucks-render');
-var concat      = require('gulp-concat');
+var dateFilter = require('nunjucks-date-filter');
+var concat = require('gulp-concat');
 var imagemin = require('gulp-imagemin');
 var pngquant = require('imagemin-pngquant');
 var siteOutput = './dist';
@@ -45,7 +45,6 @@ gulp.task('sass', function() {
     .pipe(browserSync.stream());
 });
 
-
 // -----------------------------------------------------------------------------
 // Javascript
 // -----------------------------------------------------------------------------
@@ -67,17 +66,23 @@ gulp.task('scripts', function() {
 
 const getDataForFile = function(file) {
   return {
-    'events': samosEvents.events,
+    'events': samosEvents.events
   }
 }
 
 gulp.task('nunjucks', function() {
-  nunjucksRender.nunjucks.configure(['./templates/']);
+  var manageEnvironment = function(environment) {
+    environment.addFilter('date', dateFilter);
+  }
+  
   // Gets .html and .nunjucks files in pages
   return gulp.src(inputTemplates)
   .pipe(data(getDataForFile))
   // Renders template with nunjucks
-  .pipe(nunjucksRender())
+  .pipe(nunjucksRender({
+    path: ['./templates/'], 
+    manageEnv: manageEnvironment 
+  }))
   // output files in dist folder
   .pipe(gulp.dest(siteOutput))
 });

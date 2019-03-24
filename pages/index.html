@@ -7,8 +7,8 @@
   <article class="py-24px px-6px item-container__item{%if loop.last%} border-stylish border-stylish--deepblue{%endif%}">
     <header class="flex">
       <section class="date-elem">
-        <div class="date-elem__day-number">{{ event.date.dayNumber }}</div>
-        <div class="date-elem__day-name">{{ event.date.dayName }}</div>
+        <div class="date-elem__day-number">{{ event.date | date("D")}}</div>
+        <div class="date-elem__day-name">{{ event.date | date("ddd") }}</div>
       </section>
       <section class="info-elem">
         <span class="color-deepblue">{{ event.type }}</span>
@@ -16,7 +16,7 @@
           <a class="text-normal font-normal color-orange-01 font-bold no-underline" href="{{ event.url }}">{{ event.act }}</a>
         </h2>
         <div class="text-small">
-          <a class="color-deepblue no-underline" href="{{ event.venue.link }}">{{ event.venue.name }}</a>
+          <span class="color-deepblue no-underline">{{ event.venueName }}</span>
         </div>
       </section>
     </header>
