@@ -4,23 +4,25 @@
 
 <section class="item-container">
   {% for event in events %}
-  <article class="py-24px px-6px item-container__item{%if loop.last%} border-stylish border-stylish--deepblue{%endif%}">
-    <header class="flex">
-      <section class="date-elem">
-        <div class="date-elem__day-number">{{ event.date | date("D")}}</div>
-        <div class="date-elem__day-name">{{ event.date | date("ddd") }}</div>
-      </section>
-      <section class="info-elem">
-        <span class="color-deepblue">{{ event.type }}</span>
-        <h2 class="text-normal font-normal mb-12px">
-          <a class="text-normal font-normal color-orange-01 font-bold no-underline" href="{{ event.eventUrl }}">{{ event.act }}</a>
-        </h2>
-        <div class="text-small">
-          <span class="color-deepblue no-underline">{{ event.venueName }}</span>
-        </div>
-      </section>
-    </header>
-  </article>
+    <article class="py-24px px-6px item-container__item{%if loop.last%} border-stylish border-stylish--deepblue{%endif%}">
+      <header>
+        <a class="flex no-underline" href="{{ event.eventUrl }}">
+          <section class="date-elem">
+            <div class="date-elem__day-number">{{ event.date | date("D")}}</div>
+            <div class="date-elem__day-name">{{ event.date | date("ddd") }}</div>
+          </section>
+          <section class="info-elem">
+            <span class="color-deepblue">{{ event.type }}</span>
+            <h2 class="text-normal font-normal mb-12px">
+              <span class="text-normal font-normal color-orange-01 font-bold">{{ event.act }}</span>
+            </h2>
+            <div class="text-small">
+              <span class="color-deepblue">{{ event.venueName }}</span>
+            </div>
+          </section>
+        </a>
+      </header>
+    </article>
   {% endfor %}
 </section>
 
