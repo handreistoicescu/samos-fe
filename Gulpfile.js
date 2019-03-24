@@ -73,7 +73,7 @@ gulp.task('scripts', function() {
 // -----------------------------------------------------------------------------
 
 const getDataForFile = function(file) {
-  axios.get(`${process.env.BACKEND_BASE_URL}:${process.env.BACKEND_PORT}/events`, {
+  return axios.get(`${process.env.BACKEND_BASE_URL}:${process.env.BACKEND_PORT}/events`, {
     params: {
       status: 'published',
       startDate: '2019-01-01',
@@ -81,17 +81,14 @@ const getDataForFile = function(file) {
     }
   })
   .then(function (response) {
-    console.log(response.data.events)
-    return {
-      'events': response.data.events,
-    }
+    // console.log(response.data.events);
   })
   .catch(function (error) {
     console.log(error);
   })
   .then(function () {
     // always executed
-  });  
+  });
 }
 
 gulp.task('nunjucks', function() {
