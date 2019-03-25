@@ -74,19 +74,28 @@ gulp.task('nunjucks', function() {
   var manageEnvironment = function(environment) {
     environment.addFilter('date', dateFilter);
   }
-  
+
   // Gets .html and .nunjucks files in pages
   return gulp.src(inputTemplates)
   .pipe(data(getDataForFile))
   // Renders template with nunjucks
   .pipe(nunjucksRender({
-    path: ['./templates/'], 
-    manageEnv: manageEnvironment 
+    path: ['./templates/'],
+    manageEnv: manageEnvironment
   }))
   // output files in dist folder
   .pipe(gulp.dest(siteOutput))
 });
 
+
+// -----------------------------------------------------------------------------
+// Netlify CMS
+// -----------------------------------------------------------------------------
+
+gulp.task('netlifyCms', function() {
+  return gulp.src('./admin')
+    .pipe(gulp.dest(siteOutput));
+});
 
 // -----------------------------------------------------------------------------
 // Imagemin
