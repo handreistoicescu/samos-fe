@@ -93,8 +93,8 @@ gulp.task('nunjucks', function() {
 // -----------------------------------------------------------------------------
 
 gulp.task('netlifyCms', function() {
-  return gulp.src('./admin')
-    .pipe(gulp.dest(siteOutput));
+  return gulp.src('./admin/**/*')
+    .pipe(gulp.dest(siteOutput + '/admin'));
 });
 
 // -----------------------------------------------------------------------------
@@ -170,5 +170,5 @@ gulp.task('browser-sync', function() {
 // Default task
 // -----------------------------------------------------------------------------
 
-gulp.task('default', ['sass', 'nunjucks', 'img', 'scripts', 'watch', 'browser-sync']);
-gulp.task('build', ['sass', 'nunjucks', 'img', 'scripts']);
+gulp.task('default', ['sass', 'nunjucks', 'img', 'scripts', 'netlifyCms', 'watch', 'browser-sync']);
+gulp.task('build', ['sass', 'nunjucks', 'img', 'scripts', 'netlifyCms']);
