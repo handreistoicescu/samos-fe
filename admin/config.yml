@@ -1,0 +1,13 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+collections:
+  - name: "events"
+    label: "Events"
+    folder: "data"
+    create: true
+    slug: "data.js"
+    fields:
+      - {label: "Act Name", name: "act", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
