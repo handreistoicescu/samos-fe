@@ -73,7 +73,7 @@ gulp.task('scripts', function() {
 // -----------------------------------------------------------------------------
 
 const getDataForFile = function(file) {
-  return axios.get(`${process.env.BACKEND_BASE_URL}:${process.env.BACKEND_PORT}/events`, {
+  axios.get(`${process.env.BACKEND_BASE_URL}:${process.env.BACKEND_PORT}/events`, {
     params: {
       status: 'published',
       startDate: '2019-01-01',
@@ -81,7 +81,8 @@ const getDataForFile = function(file) {
     }
   })
   .then(function (response) {
-    // console.log(response.data.events);
+    console.log(response.data.events);
+    // return response.data;
   })
   .catch(function (error) {
     console.log(error);
