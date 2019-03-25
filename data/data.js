@@ -14,13 +14,6 @@ exports.events = [
     "venueName": "ZUG.zone"
   },
   {
-    "act": "Chiritza în concert",
-    "date": "2019-03-26",
-    "type": "Theatre",
-    "eventUrl": "https://www.facebook.com/events/768223580243211",
-    "venueName": "Teatrul Naţional Cluj-Napoca"
-  },
-  {
     "act": "If a Tree Were to Fall",
     "date": "2019-03-26",
     "type": "Art Performance",
@@ -68,13 +61,6 @@ exports.events = [
     "type": "Vernissage",
     "eventUrl": "https://www.facebook.com/matcaartspace",
     "venueName": "Matca Artspace"
-  },
-  {
-    "act": "Stefan Geiger",
-    "date": "2019-03-29",
-    "type": "Concert",
-    "eventUrl": "https://www.facebook.com/events/404580056967222",
-    "venueName": "Filarmonica de Stat Transilvania"
   },
   {
     "act": "Taraf de Caliu",
