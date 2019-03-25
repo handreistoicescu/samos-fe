@@ -16,7 +16,7 @@ exports.events = [
   {
     "act": "If a Tree Were to Fall",
     "date": "2019-03-26",
-    "type": "Art Performance",
+    "type": "Performance Art",
     "eventUrl": "https://www.facebook.com/events/632368963853934",
     "venueName": "Fabrica de Pensule"
   },
@@ -51,7 +51,7 @@ exports.events = [
   {
     "act": "Povești din mileniul trecut",
     "date": "2019-03-29",
-    "type": "Art Installation",
+    "type": "Installation Art",
     "eventUrl": "https://www.facebook.com/events/2120630374844274",
     "venueName": "REACTOR de creație și experiment"
   },
@@ -59,7 +59,7 @@ exports.events = [
     "act": "From the belly of a circle comes out a square",
     "date": "2019-03-29",
     "type": "Vernissage",
-    "eventUrl": "https://www.facebook.com/matcaartspace",
+    "eventUrl": "https://www.facebook.com/events/2349278148662887/",
     "venueName": "Matca Artspace"
   },
   {
