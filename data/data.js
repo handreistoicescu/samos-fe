@@ -1,12 +1,5 @@
 exports.events = [
   {
-    "act": "If a Tree Were to Fall",
-    "date": "2019-03-26",
-    "type": "Performance Art",
-    "eventUrl": "https://www.facebook.com/events/632368963853934",
-    "venueName": "Fabrica de Pensule"
-  },
-  {
     "act": "Rândul 3, aproape de margine",
     "date": "2019-03-27",
     "type": "Theatre",
