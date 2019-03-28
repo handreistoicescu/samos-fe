@@ -245,12 +245,6 @@ p {
   }
 }
 
-.border-stylish--white-bottom {
-  &:before {
-    background-image: radial-gradient(circle, transparent 70%, #ffffff 70%);
-  }
-}
-
 .border-stylish--lightgray-bottom {
   &:before {
     background-image: radial-gradient(circle, transparent 70%, #f5f5f5 70%);
