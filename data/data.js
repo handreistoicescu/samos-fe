@@ -1,40 +1,5 @@
 exports.events = [
   {
-    "act": "OMG! Organisme Modificate Genetic",
-    "date": "2019-03-25",
-    "type": "Theatre",
-    "eventUrl": "https://www.facebook.com/events/674627602995115",
-    "venueName": "Casa Tranzit"
-  },
-  {
-    "act": "Románia 100",
-    "date": "2019-03-25",
-    "type": "Theatre",
-    "eventUrl": "https://www.facebook.com/events/820285381640385",
-    "venueName": "ZUG.zone"
-  },
-  {
-    "act": "If a Tree Were to Fall",
-    "date": "2019-03-26",
-    "type": "Performance Art",
-    "eventUrl": "https://www.facebook.com/events/632368963853934",
-    "venueName": "Fabrica de Pensule"
-  },
-  {
-    "act": "Rândul 3, aproape de margine",
-    "date": "2019-03-27",
-    "type": "Theatre",
-    "eventUrl": "https://www.facebook.com/events/235288567305262",
-    "venueName": "REACTOR de creație și experiment"
-  },
-  {
-    "act": "Sense",
-    "date": "2019-03-27",
-    "type": "Concert",
-    "eventUrl": "https://www.facebook.com/events/2291649627782100",
-    "venueName": "Sisters"
-  },
-  {
     "act": "Odious painting for odious times",
     "date": "2019-03-28",
     "type": "Vernissage",
@@ -47,6 +12,13 @@ exports.events = [
     "type": "DJ Set",
     "eventUrl": "https://www.facebook.com/events/213982196151697",
     "venueName": "Gazette"
+  },
+  {
+    "act": "Critical Mass",
+    "date": "2019-03-29",
+    "type": "Gathering",
+    "eventUrl": "https://www.facebook.com/events/401313647093262",
+    "venueName": "Piața Unirii"
   },
   {
     "act": "Povești din mileniul trecut",
@@ -70,6 +42,13 @@ exports.events = [
     "venueName": "Form Space"
   },
   {
+    "act": "Te Doare",
+    "date": "2019-03-29",
+    "type": "DJ Set",
+    "eventUrl": "https://www.facebook.com/events/258691768341759/",
+    "venueName": "Colectiva Gazette"
+  },
+  {
     "act": "Alci",
     "date": "2019-03-29",
     "type": "DJ Set",
@@ -82,20 +61,6 @@ exports.events = [
     "type": "DJ Set",
     "eventUrl": "https://www.facebook.com/events/1998941073537830",
     "venueName": "Gazette"
-  },
-  {
-    "act": "Dragutesku",
-    "date": "2019-03-29",
-    "type": "DJ Set",
-    "eventUrl": "https://www.facebook.com/events/432395370835935",
-    "venueName": "SubForm"
-  },
-  {
-    "act": "Simina Grigoriu",
-    "date": "2019-03-29",
-    "type": "DJ Set",
-    "eventUrl": "https://www.facebook.com/events/413324292771511",
-    "venueName": "Cluj Arena"
   },
   {
     "act": "99,6%",
@@ -154,11 +119,25 @@ exports.events = [
     "venueName": "ZUG.zone"
   },
   {
+    "act": "Sense",
+    "date": "2019-03-31",
+    "type": "Concert",
+    "eventUrl": "https://www.facebook.com/events/259851024891754",
+    "venueName": "Atelier Cafe"
+  },
+  {
     "act": "ZÉRÓ",
     "date": "2019-04-01",
     "type": "Theatre",
     "eventUrl": "https://www.facebook.com/events/508225239583941",
     "venueName": "ZUG.zone"
+  },
+  {
+    "act": "Nu am un plan B",
+    "date": "2019-04-01",
+    "type": "Vernissage",
+    "eventUrl": "https://www.facebook.com/events/367967574050756/",
+    "venueName": "Atelier Patru"
   },
   {
     "act": "Window",
@@ -187,5 +166,47 @@ exports.events = [
     "type": "DJ Set",
     "eventUrl": "https://www.facebook.com/events/543573479461536",
     "venueName": "SubForm"
+  },
+  {
+    "act": "Du Levande",
+    "date": "2019-04-06",
+    "type": "Movie",
+    "eventUrl": "https://www.facebook.com/events/399985757222379/",
+    "venueName": "Colectiva Gazette"
+  },
+  {
+    "act": "Dungaree",
+    "date": "2019-04-10",
+    "type": "Concert",
+    "eventUrl": "https://www.facebook.com/events/853344068342544/",
+    "venueName": "Flying Circus"
+  },
+  {
+    "act": "Space of Variations",
+    "date": "2019-04-11",
+    "type": "Concert",
+    "eventUrl": "https://www.facebook.com/events/391297141670958",
+    "venueName": "Hardward Pub"
+  },
+  {
+    "act": "Matteo Islandezu",
+    "date": "2019-04-12",
+    "type": "Party",
+    "eventUrl": "https://www.facebook.com/events/342602879707171/",
+    "venueName": "Flying Circus"
+  },
+  {
+    "act": "Anaid",
+    "date": "2019-04-13",
+    "type": "DJ Set",
+    "eventUrl": "https://www.facebook.com/events/668188046949732/",
+    "venueName": "Cotton"
+  },
+  {
+    "act": "Alandala",
+    "date": "2019-04-13",
+    "type": "DJ Set",
+    "eventUrl": "https://www.facebook.com/events/340469389925861/",
+    "venueName": "Aroma Cluj"
   }
 ]
