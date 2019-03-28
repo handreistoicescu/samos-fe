@@ -1,19 +1,5 @@
 exports.events = [
   {
-    "act": "Rândul 3, aproape de margine",
-    "date": "2019-03-27",
-    "type": "Theatre",
-    "eventUrl": "https://www.facebook.com/events/235288567305262",
-    "venueName": "REACTOR de creație și experiment"
-  },
-  {
-    "act": "Sense",
-    "date": "2019-03-27",
-    "type": "Concert",
-    "eventUrl": "https://www.facebook.com/events/2291649627782100",
-    "venueName": "Sisters"
-  },
-  {
     "act": "Odious painting for odious times",
     "date": "2019-03-28",
     "type": "Vernissage",
