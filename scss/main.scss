@@ -166,21 +166,23 @@ p {
   }
 }
 
-.date-elem {
-  //border: 4px solid white;
-  border-radius: 6px;
-  color: gray;
+.badge {
   flex-basis: 3rem; // TODO: replace magic number
   margin-right: 10px;
   text-align: center;
 }
 
-  .date-elem__day-number {
-    // font-family: monospace;
+  .badge__day-number {
     font-size: 24px;
   }
 
-  .date-elem__day-name {
+  .badge__day-name {
+    font-size: 10px;
+  }
+
+  .badge__canceled {
+    background-color: red;
+    color: white;
     font-size: 10px;
   }
 
@@ -200,6 +202,10 @@ p {
 
 .color-deepblue {
   color: #004853;
+}
+
+.color-gray {
+  color: gray;
 }
 
 .color-lightestblue {

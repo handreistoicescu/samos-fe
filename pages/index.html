@@ -4,20 +4,23 @@
 
 <section class="item-container">
   {% for event in events %}
-    <article class="py-24px px-6px item-container__item{%if loop.last%} border-stylish border-stylish--deepblue{%endif%}">
+    <article class="py-24px px-6px item-container__item{%if loop.last%} border-stylish border-stylish--deepblue{%endif%} {% if event.canceled === 'TRUE' %}item-container--canceled-event{% endif %}">
       <header>
         <a class="flex no-underline" href="{{ event.eventUrl }}">
-          <section class="date-elem">
-            <div class="date-elem__day-number">{{ event.date | date("D")}}</div>
-            <div class="date-elem__day-name">{{ event.date | date("ddd") }}</div>
+          <section class="badge">
+            <div class="badge__day-number color-gray">{{ event.date | date("D")}}</div>
+            <div class="badge__day-name color-gray">{{ event.date | date("ddd") }}</div>
+            {% if event.canceled === 'TRUE' %}
+            <div class="badge__canceled">CANCELED</div>
+            {% endif %}
           </section>
           <section class="info-elem">
-            <span class="color-deepblue">{{ event.type }}</span>
+            <span class="{{'color-deepblue' if event.canceled !== 'TRUE' else 'color-gray'}}">{{ event.type }}</span>
             <h2 class="text-normal font-normal mb-12px">
-              <span class="text-normal font-normal color-orange-01 font-bold">{{ event.act }}</span>
+              <span class="text-normal {{'color-orange-01 font-bold' if event.canceled !== 'TRUE' else 'color-gray font-normal'}}">{{ event.act }}</span>
             </h2>
             <div class="text-small">
-              <span class="color-deepblue">{{ event.venueName }}</span>
+              <span class="{{'color-deepblue' if event.canceled !== 'TRUE' else 'color-gray'}}">{{ event.venueName }}</span>
             </div>
           </section>
         </a>
