@@ -1,21 +1,5 @@
 exports.events = [
   {
-    "act": "Odious painting for odious times",
-    "date": "2019-03-28",
-    "type": "Vernissage",
-    "eventUrl": "https://www.facebook.com/events/161588834749211",
-    "venueName": "White Cuib",
-    "canceled": ""
-  },
-  {
-    "act": "Ted Amber",
-    "date": "2019-03-28",
-    "type": "DJ Set",
-    "eventUrl": "https://www.facebook.com/events/213982196151697",
-    "venueName": "Gazette",
-    "canceled": ""
-  },
-  {
     "act": "Critical Mass",
     "date": "2019-03-29",
     "type": "Gathering",
@@ -200,6 +184,14 @@ exports.events = [
     "canceled": ""
   },
   {
+    "act": "Baladele memoriei",
+    "date": "2019-04-07",
+    "type": "Performance Art",
+    "eventUrl": "https://www.facebook.com/events/2204213076559188/",
+    "venueName": "REACTOR de creație și experiment",
+    "canceled": ""
+  },
+  {
     "act": "Dungaree",
     "date": "2019-04-10",
     "type": "Concert",
@@ -216,19 +208,19 @@ exports.events = [
     "canceled": ""
   },
   {
+    "act": "Lift - boys will be boys",
+    "date": "2019-04-11",
+    "type": "Performance Art",
+    "eventUrl": "https://www.facebook.com/events/360372481353428/",
+    "venueName": "Fabrica de Pensule",
+    "canceled": ""
+  },
+  {
     "act": "Matteo Islandezu",
     "date": "2019-04-12",
     "type": "Party",
     "eventUrl": "https://www.facebook.com/events/342602879707171/",
     "venueName": "Flying Circus",
-    "canceled": ""
-  },
-  {
-    "act": "Anaid",
-    "date": "2019-04-13",
-    "type": "DJ Set",
-    "eventUrl": "https://www.facebook.com/events/668188046949732/",
-    "venueName": "Cotton",
     "canceled": ""
   },
   {
