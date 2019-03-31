@@ -1,54 +1,6 @@
 exports.events = [
 	{
 		act: '99,6%',
-		date: '2019-03-30',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2200514626876985',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Clasa noastră',
-		date: '2019-03-30',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/1931325953663819',
-		venueName: 'Teatrul Naţional Cluj-Napoca',
-		canceled: ''
-	},
-	{
-		act: 'Mihai Viteazul // Tranziții',
-		date: '2019-03-30',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/364525007728012',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
-		act: 'Skyharbor',
-		date: '2019-03-30',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/1051550408365029',
-		venueName: 'Flying Circus',
-		canceled: 'TRUE'
-	},
-	{
-		act: 'Bondax',
-		date: '2019-03-30',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/550531965468174',
-		venueName: 'Sala Polivalentă',
-		canceled: ''
-	},
-	{
-		act: 'Nick Curly',
-		date: '2019-03-30',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/111699946514565',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: '99,6%',
 		date: '2019-03-31',
 		type: 'Theatre',
 		eventUrl: 'https://www.facebook.com/events/2200514626876985',
