@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: '99,6%',
-		date: '2019-03-31',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2200514626876985',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'ZÉRÓ',
-		date: '2019-03-31',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2392535474309119',
-		venueName: 'ZUG.zone',
-		canceled: ''
-	},
-	{
-		act: 'Sense',
-		date: '2019-03-31',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/259851024891754',
-		venueName: 'Atelier Cafe',
-		canceled: ''
-	},
-	{
 		act: 'ZÉRÓ',
 		date: '2019-04-01',
 		type: 'Theatre',
