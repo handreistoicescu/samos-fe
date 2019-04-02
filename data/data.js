@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'ZÉRÓ',
-		date: '2019-04-01',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/508225239583941',
-		venueName: 'ZUG.zone',
-		canceled: ''
-	},
-	{
-		act: 'Nu am un plan B',
-		date: '2019-04-01',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/367967574050756/',
-		venueName: 'Atelier Patru',
-		canceled: ''
-	},
-	{
 		act: 'Window',
 		date: '2019-04-04',
 		type: 'Concert',
