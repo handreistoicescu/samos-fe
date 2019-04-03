@@ -1,5 +1,21 @@
 exports.events = [
 	{
+		act: 'Pepo Salazar',
+		date: '2019-04-03',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/1071645389694059/',
+		venueName: 'SABOT',
+		canceled: ''
+	},
+	{
+		act: 'Mihai Plătică',
+		date: '2019-04-03',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/263808734497463/',
+		venueName: 'Baril',
+		canceled: ''
+	},
+	{
 		act: 'Window',
 		date: '2019-04-04',
 		type: 'Concert',
