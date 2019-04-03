@@ -161,7 +161,7 @@ exports.events = [
 	},
 	{
 		act: 'Románia 100',
-		date: '2019-04-11',
+		date: '2019-04-13',
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/514576809074047/',
 		venueName: 'ZUG.zone',
