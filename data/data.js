@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Alexandra Mereuți',
-		date: '2019-04-04',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/337042190283897/',
-		venueName: 'Quadro 21 Gallery',
-		canceled: ''
-	},
-	{
-		act: 'Window',
-		date: '2019-04-04',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/399616073938964',
-		venueName: 'Atelier Cafe',
-		canceled: ''
-	},
-	{
 		act: 'Chrysta Bell',
 		date: '2019-04-05',
 		type: 'Concert',
