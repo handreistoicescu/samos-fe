@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Chrysta Bell',
-		date: '2019-04-05',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/240114326935956',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Paramida',
-		date: '2019-04-05',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/2274396012608761',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Prichindel',
-		date: '2019-04-05',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/543573479461536',
-		venueName: 'SubForm',
-		canceled: ''
-	},
-	{
 		act: 'Ștefan Ungureanu',
 		date: '2019-04-06',
 		type: 'Vernissage',
