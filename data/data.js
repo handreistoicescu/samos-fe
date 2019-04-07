@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Ștefan Ungureanu',
-		date: '2019-04-06',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/316694385716539/',
-		venueName: 'Invitro',
-		canceled: ''
-	},
-	{
-		act: 'Marcus Aburelius',
-		date: '2019-04-06',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/265051481114846',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Du Levande',
-		date: '2019-04-06',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/399985757222379/',
-		venueName: 'Colectiva Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Baladele memoriei',
 		date: '2019-04-07',
 		type: 'Performance Art',
