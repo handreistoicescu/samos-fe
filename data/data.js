@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Baladele memoriei',
-		date: '2019-04-07',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/2204213076559188/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
 		act: "Nora • A Doll's House",
 		date: '2019-04-08',
 		type: 'Performance Art',
