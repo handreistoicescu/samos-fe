@@ -64,6 +64,14 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Neverdogs',
+		date: '2019-04-12',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/1582304881872471/',
+		venueName: 'Cluj Arena',
+		canceled: ''
+	},
+	{
 		act: 'Románia 100',
 		date: '2019-04-13',
 		type: 'Performance Art',
@@ -101,6 +109,78 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/2406335719586171/',
 		venueName: 'SubForm',
+		canceled: ''
+	},
+	{
+		act: "Nora • A Doll's House",
+		date: '2019-04-17',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/2147368292043156/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'ZAUM',
+		date: '2019-04-18',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/1114935475344875/',
+		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Am Fost La Munte Și Mi-a Plăcut',
+		date: '2019-04-18',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/766024517130480/',
+		venueName: 'SubForm',
+		canceled: ''
+	},
+	{
+		act: '(In)vizibil',
+		date: '2019-04-18',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/576186972856887/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'Ada Kaleh',
+		date: '2019-04-19',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/397282764397309/',
+		venueName: 'Cluj Arena',
+		canceled: ''
+	},
+	{
+		act: 'Alice Clark',
+		date: '2019-04-19',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/302182130464135/',
+		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'United And Strong',
+		date: '2019-04-20',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/816292515374621/',
+		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'High Contrast',
+		date: '2019-04-20',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/300975850568113/',
+		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: '(In)vizibil',
+		date: '2019-04-23',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/576186972856887/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
 		canceled: ''
 	}
 ];
