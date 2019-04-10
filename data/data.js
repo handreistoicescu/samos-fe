@@ -88,6 +88,22 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Magdalena',
+		date: '2019-04-12',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/599287493830437/',
+		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Neverdogs',
+		date: '2019-04-12',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/1582304881872471/',
+		venueName: 'Cluj Arena',
+		canceled: ''
+	},
+	{
 		act: 'Románia 100',
 		date: '2019-04-13',
 		type: 'Performance Art',
