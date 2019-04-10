@@ -8,6 +8,14 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Oana Maria Pop',
+		date: '2019-04-11',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/1067087843478050/',
+		venueName: 'IAGA Contemporary Art',
+		canceled: ''
+	},
+	{
 		act: 'Lift - boys will be boys',
 		date: '2019-04-11',
 		type: 'Performance Art',
@@ -21,6 +29,14 @@ exports.events = [
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/316526655729995/',
 		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
+		act: 'Space of Variations',
+		date: '2019-04-11',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/391297141670958/',
+		venueName: 'Hardward Pub',
 		canceled: ''
 	},
 	{
@@ -40,11 +56,27 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Naked',
+		date: '2019-04-12',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/383249198939889/',
+		venueName: 'Atelier Cafe',
+		canceled: ''
+	},
+	{
 		act: 'Matteo Islandezu',
 		date: '2019-04-12',
-		type: 'Party',
+		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/342602879707171/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Sheldon Drake',
+		date: '2019-04-12',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/2267752096618625/',
+		venueName: 'unknown location',
 		canceled: ''
 	},
 	{
@@ -53,22 +85,6 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/2282446078636759/',
 		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Magdalena',
-		date: '2019-04-12',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/599287493830437/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Neverdogs',
-		date: '2019-04-12',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/1582304881872471/',
-		venueName: 'Cluj Arena',
 		canceled: ''
 	},
 	{
@@ -112,10 +128,74 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Baladele memoriei',
+		date: '2019-04-14',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/2501924386485734/',
+		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
+		act: 'Vârsta 4. Pe ritm de Lambada',
+		date: '2019-04-16',
+		type: 'Movie',
+		eventUrl: 'https://www.facebook.com/events/343903709577172/',
+		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
+		act: 'WASTED! The Story of Food Waste',
+		date: '2019-04-17',
+		type: 'Movie',
+		eventUrl: 'https://www.facebook.com/events/418153968985162/',
+		venueName: 'Casa Tranzit',
+		canceled: ''
+	},
+	{
+		act: 90,
+		date: '2019-04-17',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/2453625394670765/',
+		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
 		act: "Nora • A Doll's House",
 		date: '2019-04-17',
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/2147368292043156/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: "Mike Parker's Trio Theory",
+		date: '2019-04-17',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/290234321873075/',
+		venueName: 'Atelier Cafe',
+		canceled: ''
+	},
+	{
+		act: 'Anda Bercu și Nicolas Friess',
+		date: '2019-04-18',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/583451992174603/',
+		venueName: 'Institutul Francez Cluj-Napoca',
+		canceled: ''
+	},
+	{
+		act: 'Micul nostru centenar',
+		date: '2019-04-18',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/441362393073088/',
+		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
+		act: '(In)vizibil',
+		date: '2019-04-18',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/576186972856887/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
 		canceled: ''
 	},
@@ -136,11 +216,11 @@ exports.events = [
 		canceled: ''
 	},
 	{
-		act: '(In)vizibil',
+		act: 'Danaga',
 		date: '2019-04-18',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/576186972856887/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/339008060062873/',
+		venueName: 'Gazette',
 		canceled: ''
 	},
 	{
