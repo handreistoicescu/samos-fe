@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Dungaree',
-		date: '2019-04-10',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/853344068342544/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
 		act: 'Oana Maria Pop',
 		date: '2019-04-11',
 		type: 'Vernissage',
@@ -85,14 +77,6 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/2282446078636759/',
 		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Magdalena',
-		date: '2019-04-12',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/599287493830437/',
-		venueName: 'Form Space',
 		canceled: ''
 	},
 	{
@@ -272,11 +256,35 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Heion',
+		date: '2019-04-20',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/2312471485635476',
+		venueName: 'Cotton Club',
+		canceled: ''
+	},
+	{
 		act: '(In)vizibil',
 		date: '2019-04-23',
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/576186972856887/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'Zapruder',
+		date: '2019-04-25',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/746194879095759/',
+		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'Óperentzia',
+		date: '2019-04-25',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2250997314957010/',
+		venueName: 'Gazette',
 		canceled: ''
 	}
 ];
