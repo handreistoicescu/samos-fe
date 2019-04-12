@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'Oana Maria Pop',
-		date: '2019-04-11',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/1067087843478050/',
-		venueName: 'IAGA Contemporary Art',
-		canceled: ''
-	},
-	{
-		act: 'Lift - boys will be boys',
-		date: '2019-04-11',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/360372481353428/',
-		venueName: 'Fabrica de Pensule',
-		canceled: ''
-	},
-	{
-		act: 'Noi nu, niciodată',
-		date: '2019-04-11',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/316526655729995/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Space of Variations',
-		date: '2019-04-11',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/391297141670958/',
-		venueName: 'Hardward Pub',
-		canceled: ''
-	},
-	{
 		act: 'Love me tinder',
 		date: '2019-04-12',
 		type: 'Performance Art',
@@ -285,6 +253,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/2250997314957010/',
 		venueName: 'Gazette',
+		canceled: ''
+	},
+	{
+		act: 'Vulture Industries',
+		date: '2019-04-26',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/301977777122769/',
+		venueName: 'Flying Circus',
 		canceled: ''
 	}
 ];
