@@ -1,61 +1,5 @@
 exports.events = [
 	{
-		act: 'Love me tinder',
-		date: '2019-04-12',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/346433852644163/',
-		venueName: 'reACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Flatsharks',
-		date: '2019-04-12',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/617917438635139/',
-		venueName: 'Wine Notes',
-		canceled: ''
-	},
-	{
-		act: 'Naked',
-		date: '2019-04-12',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/383249198939889/',
-		venueName: 'Atelier Cafe',
-		canceled: ''
-	},
-	{
-		act: 'Matteo Islandezu',
-		date: '2019-04-12',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/342602879707171/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
-		act: 'Sheldon Drake',
-		date: '2019-04-12',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/2267752096618625/',
-		venueName: 'unknown location',
-		canceled: ''
-	},
-	{
-		act: 'TC80',
-		date: '2019-04-12',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/2282446078636759/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Neverdogs',
-		date: '2019-04-12',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/1582304881872471/',
-		venueName: 'Cluj Arena',
-		canceled: ''
-	},
-	{
 		act: 'Románia 100',
 		date: '2019-04-13',
 		type: 'Performance Art',
@@ -261,6 +205,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/301977777122769/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Fishez',
+		date: '2019-04-27',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/840660082981047/',
+		venueName: 'ZUG.zone',
 		canceled: ''
 	}
 ];
