@@ -1,45 +1,5 @@
 exports.events = [
 	{
-		act: 'Románia 100',
-		date: '2019-04-13',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/514576809074047/',
-		venueName: 'ZUG.zone',
-		canceled: ''
-	},
-	{
-		act: 'Las Meninas',
-		date: '2019-04-13',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/465917407573026/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
-		act: 'Maayan Nidam',
-		date: '2019-04-13',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/340469389925861/',
-		venueName: 'Aroma Cluj',
-		canceled: ''
-	},
-	{
-		act: 'Rodion',
-		date: '2019-04-13',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/348622432414206/',
-		venueName: 'SubForm',
-		canceled: ''
-	},
-	{
-		act: 'Crihan',
-		date: '2019-04-13',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/2406335719586171/',
-		venueName: 'SubForm',
-		canceled: ''
-	},
-	{
 		act: 'Baladele memoriei',
 		date: '2019-04-14',
 		type: 'Performance Art',
