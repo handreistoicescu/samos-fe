@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Baladele memoriei',
-		date: '2019-04-14',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/2501924386485734/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
 		act: 'Vârsta 4. Pe ritm de Lambada',
 		date: '2019-04-16',
 		type: 'Movie',
@@ -173,6 +165,14 @@ exports.events = [
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/840660082981047/',
 		venueName: 'ZUG.zone',
+		canceled: ''
+	},
+	{
+		act: 'Las Meninas',
+		date: '2019-04-29',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/465917407573026/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
 		canceled: ''
 	}
 ];
