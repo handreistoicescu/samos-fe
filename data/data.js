@@ -40,6 +40,14 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Apparatus 22',
+		date: '2019-04-18',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/1820663728034263/',
+		venueName: 'Lateral ArtSpace',
+		canceled: ''
+	},
+	{
 		act: 'Anda Bercu și Nicolas Friess',
 		date: '2019-04-18',
 		type: 'Vernissage',
@@ -61,6 +69,14 @@ exports.events = [
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/576186972856887/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'Dedalus Ensemble',
+		date: '2019-04-18',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2262613590648102/',
+		venueName: 'Casa Tranzit',
 		canceled: ''
 	},
 	{
@@ -88,6 +104,22 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Dan Beudean și Matei Toșa',
+		date: '2019-04-19',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/1049083025286262/',
+		venueName: 'MATCA artspace',
+		canceled: ''
+	},
+	{
+		act: 'Bogman',
+		date: '2019-04-19',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/339008060062873',
+		venueName: 'Gazette',
+		canceled: ''
+	},
+	{
 		act: 'Ada Kaleh',
 		date: '2019-04-19',
 		type: 'DJ Set',
@@ -109,6 +141,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/816292515374621/',
 		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'Lisière Collectif',
+		date: '2019-04-20',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/339008060062873',
+		venueName: 'Gazette',
 		canceled: ''
 	},
 	{
