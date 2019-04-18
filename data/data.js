@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'WASTED! The Story of Food Waste',
-		date: '2019-04-17',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/418153968985162/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
-		act: 90,
-		date: '2019-04-17',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/2453625394670765/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: "Nora • A Doll's House",
-		date: '2019-04-17',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/2147368292043156/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
-		act: "Mike Parker's Trio Theory",
-		date: '2019-04-17',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/290234321873075/',
-		venueName: 'Atelier Cafe',
-		canceled: ''
-	},
-	{
 		act: 'Apparatus 22',
 		date: '2019-04-18',
 		type: 'Vernissage',
@@ -165,6 +133,22 @@ exports.events = [
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/576186972856887/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'Zapruder',
+		date: '2019-04-25',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/746194879095759/',
+		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'Óperentzia',
+		date: '2019-04-25',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2250997314957010/',
+		venueName: 'Gazette',
 		canceled: ''
 	}
 ];
