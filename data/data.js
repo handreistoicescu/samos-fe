@@ -1,69 +1,5 @@
 exports.events = [
 	{
-		act: 'Apparatus 22',
-		date: '2019-04-18',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/1820663728034263/',
-		venueName: 'Lateral ArtSpace',
-		canceled: ''
-	},
-	{
-		act: 'Anda Bercu și Nicolas Friess',
-		date: '2019-04-18',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/583451992174603/',
-		venueName: 'Institutul Francez Cluj-Napoca',
-		canceled: ''
-	},
-	{
-		act: 'Micul nostru centenar',
-		date: '2019-04-18',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/441362393073088/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: '(In)vizibil',
-		date: '2019-04-18',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/576186972856887/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
-		act: 'Dedalus Ensemble',
-		date: '2019-04-18',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2262613590648102/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
-		act: 'ZAUM',
-		date: '2019-04-18',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/1114935475344875/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
-		act: 'Am Fost La Munte Și Mi-a Plăcut',
-		date: '2019-04-18',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/766024517130480/',
-		venueName: 'SubForm',
-		canceled: ''
-	},
-	{
-		act: 'Danaga',
-		date: '2019-04-18',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/339008060062873/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Dan Beudean și Matei Toșa',
 		date: '2019-04-19',
 		type: 'Vernissage',
@@ -149,6 +85,30 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/2250997314957010/',
 		venueName: 'Gazette',
+		canceled: ''
+	},
+	{
+		act: 'Vulture Industries',
+		date: '2019-04-26',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/301977777122769/',
+		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Fishez',
+		date: '2019-04-27',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/840660082981047/',
+		venueName: 'ZUG.zone',
+		canceled: ''
+	},
+	{
+		act: 'Las Meninas',
+		date: '2019-04-29',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/465917407573026/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
 		canceled: ''
 	}
 ];
