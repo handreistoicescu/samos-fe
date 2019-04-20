@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'Dan Beudean și Matei Toșa',
-		date: '2019-04-19',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/1049083025286262/',
-		venueName: 'MATCA artspace',
-		canceled: ''
-	},
-	{
-		act: 'Bogman',
-		date: '2019-04-19',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/339008060062873',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Ada Kaleh',
-		date: '2019-04-19',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/397282764397309/',
-		venueName: 'Cluj Arena',
-		canceled: ''
-	},
-	{
-		act: 'Alice Clark',
-		date: '2019-04-19',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/302182130464135/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
 		act: 'United And Strong',
 		date: '2019-04-20',
 		type: 'Concert',
