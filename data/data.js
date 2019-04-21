@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'United And Strong',
-		date: '2019-04-20',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/816292515374621/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
-		act: 'Lisière Collectif',
-		date: '2019-04-20',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/339008060062873',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'High Contrast',
-		date: '2019-04-20',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/300975850568113/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Heion',
-		date: '2019-04-20',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/2312471485635476',
-		venueName: 'Cotton Club',
-		canceled: ''
-	},
-	{
 		act: '(In)vizibil',
 		date: '2019-04-23',
 		type: 'Performance Art',
