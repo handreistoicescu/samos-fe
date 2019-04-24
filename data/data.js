@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: '(In)vizibil',
-		date: '2019-04-23',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/576186972856887/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
 		act: 'Zapruder',
 		date: '2019-04-25',
 		type: 'Concert',
