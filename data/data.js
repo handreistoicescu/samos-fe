@@ -1,5 +1,13 @@
 exports.events = [
 	{
+		act: 'Just Push Play',
+		date: '2019-04-25',
+		type: 'Theatre',
+		eventUrl: 'https://www.facebook.com/events/428691904365349/',
+		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
 		act: 'Zapruder',
 		date: '2019-04-25',
 		type: 'Concert',
@@ -16,11 +24,27 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Critical Mass',
+		date: '2019-04-26',
+		type: 'Gathering',
+		eventUrl: 'https://www.facebook.com/events/2058346840930262/',
+		venueName: 'Piața Unirii',
+		canceled: ''
+	},
+	{
 		act: 'Vulture Industries',
 		date: '2019-04-26',
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/301977777122769/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Absolem',
+		date: '2019-04-26',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/2285450398361550/',
+		venueName: 'Gazette',
 		canceled: ''
 	},
 	{
@@ -61,6 +85,14 @@ exports.events = [
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/465917407573026/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'C’est bon • E ok • Rendben • This is just a story',
+		date: '2019-05-09',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/299419674304969/',
+		venueName: 'Fabrica de Pensule',
 		canceled: ''
 	}
 ];
