@@ -38,5 +38,29 @@ exports.events = [
 		eventUrl: 'https://www.facebook.com/events/465917407573026/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
 		canceled: ''
+	},
+	{
+		act: 'Jonathan Bree',
+		date: '2019-05-04',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2263043713984275/',
+		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Geniale Dilletanten',
+		date: '2019-05-08',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/310013176340441/',
+		venueName: 'P-ța Ștefan cel Mare 18',
+		canceled: ''
+	},
+	{
+		act: 'Las Meninas',
+		date: '2019-05-08',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/465917407573026/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
 	}
 ];
