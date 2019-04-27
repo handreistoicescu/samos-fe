@@ -1,53 +1,5 @@
 exports.events = [
 	{
-		act: 'Just Push Play',
-		date: '2019-04-25',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/428691904365349/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Zapruder',
-		date: '2019-04-25',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/746194879095759/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
-		act: 'Óperentzia',
-		date: '2019-04-25',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2250997314957010/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Critical Mass',
-		date: '2019-04-26',
-		type: 'Gathering',
-		eventUrl: 'https://www.facebook.com/events/2058346840930262/',
-		venueName: 'Piața Unirii',
-		canceled: ''
-	},
-	{
-		act: 'Vulture Industries',
-		date: '2019-04-26',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/301977777122769/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
-		act: 'Absolem',
-		date: '2019-04-26',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/2285450398361550/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Fishez',
 		date: '2019-04-27',
 		type: 'Performance Art',
