@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Tincuţa Marin',
-		date: '2019-05-03',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/1109449009258195/',
-		venueName: 'White Cuib',
-		canceled: ''
-	},
-	{
 		act: 'Jonathan Bree',
 		date: '2019-05-04',
 		type: 'Concert',
