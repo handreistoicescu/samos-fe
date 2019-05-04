@@ -8,6 +8,30 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Ehud Ettun Trio',
+		date: '2019-05-04',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2276120602603683',
+		venueName: 'Iulius Parc',
+		canceled: ''
+	},
+	{
+		act: 'Grace Kim & The Skittles',
+		date: '2019-05-04',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2276120602603683',
+		venueName: 'Iulius Parc',
+		canceled: ''
+	},
+	{
+		act: 'Grey Paris',
+		date: '2019-05-04',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2276120602603683',
+		venueName: 'SubForm',
+		canceled: ''
+	},
+	{
 		act: 'Sasha',
 		date: '2019-05-04',
 		type: 'DJ Set',
@@ -16,11 +40,43 @@ exports.events = [
 		canceled: ''
 	},
 	{
-		act: 'Solo / group exhibitions',
+		act: 'Grey Paris',
+		date: '2019-05-05',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2276120602603683',
+		venueName: 'Iulius Parc',
+		canceled: ''
+	},
+	{
+		act: 'Jean-Paul Estiévenart',
+		date: '2019-05-05',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2276120602603683',
+		venueName: 'Iulius Parc',
+		canceled: ''
+	},
+	{
+		act: 'JazzyBIT',
+		date: '2019-05-05',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2276120602603683',
+		venueName: 'Iulius Parc',
+		canceled: ''
+	},
+	{
+		act: 'Vanessa Singenzia',
+		date: '2019-05-07',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/272809343598448/',
+		venueName: 'Galeria Casa Matei Corvin',
+		canceled: ''
+	},
+	{
+		act: 'Alexandru Radvan',
 		date: '2019-05-07',
 		type: 'Vernissage',
 		eventUrl: 'https://www.facebook.com/events/2255034604557606/',
-		venueName: 'Centrul de Interes',
+		venueName: 'Bazis Contemporary',
 		canceled: ''
 	},
 	{
@@ -32,11 +88,35 @@ exports.events = [
 		canceled: ''
 	},
 	{
-		act: 'Geniale Dilletanten',
+		act: 'Alexandra Gavrilă',
+		date: '2019-05-08',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/379233289336745/',
+		venueName: 'Centrul Cultural German Cluj-Napoca',
+		canceled: ''
+	},
+	{
+		act: 'Mathilde Weh',
 		date: '2019-05-08',
 		type: 'Vernissage',
 		eventUrl: 'https://www.facebook.com/events/310013176340441/',
 		venueName: 'P-ța Ștefan cel Mare 18',
+		canceled: ''
+	},
+	{
+		act: 'Gudrun Gut',
+		date: '2019-05-08',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/849719605371846/',
+		venueName: 'P-ța Ștefan cel Mare 18',
+		canceled: ''
+	},
+	{
+		act: 'Mara Dobrescu',
+		date: '2019-05-08',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/844569449246705/',
+		venueName: 'Muzeul de Artă Cluj-Napoca',
 		canceled: ''
 	},
 	{
@@ -117,6 +197,38 @@ exports.events = [
 		type: 'Theatre',
 		eventUrl: 'https://www.facebook.com/events/2147368292043156/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'DJ Kentaro',
+		date: '2019-05-17',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/570930686716408/',
+		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Primărie',
+		date: '2019-05-17',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/341773153033942/',
+		venueName: 'SubForm',
+		canceled: ''
+	},
+	{
+		act: 'Ditzner Twintett',
+		date: '2019-05-18',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/315031169183001/',
+		venueName: 'Casa Tranzit',
+		canceled: ''
+	},
+	{
+		act: 'Mefjus',
+		date: '2019-05-18',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/305829573419954/',
+		venueName: 'Form Space',
 		canceled: ''
 	}
 ];
