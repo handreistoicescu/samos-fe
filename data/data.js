@@ -1,45 +1,5 @@
 exports.events = [
 	{
-		act: 'Jonathan Bree',
-		date: '2019-05-04',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2263043713984275/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Ehud Ettun Trio',
-		date: '2019-05-04',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2276120602603683',
-		venueName: 'Iulius Parc',
-		canceled: ''
-	},
-	{
-		act: 'Grace Kim & The Skittles',
-		date: '2019-05-04',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2276120602603683',
-		venueName: 'Iulius Parc',
-		canceled: ''
-	},
-	{
-		act: 'Grey Paris',
-		date: '2019-05-04',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2276120602603683',
-		venueName: 'SubForm',
-		canceled: ''
-	},
-	{
-		act: 'Sasha',
-		date: '2019-05-04',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/331372714396491/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
 		act: 'Grey Paris',
 		date: '2019-05-05',
 		type: 'Concert',
