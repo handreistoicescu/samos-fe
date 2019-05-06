@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Grey Paris',
-		date: '2019-05-05',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2276120602603683',
-		venueName: 'Iulius Parc',
-		canceled: ''
-	},
-	{
-		act: 'Jean-Paul Estiévenart',
-		date: '2019-05-05',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2276120602603683',
-		venueName: 'Iulius Parc',
-		canceled: ''
-	},
-	{
-		act: 'JazzyBIT',
-		date: '2019-05-05',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2276120602603683',
-		venueName: 'Iulius Parc',
-		canceled: ''
-	},
-	{
 		act: 'Vanessa Singenzia',
 		date: '2019-05-07',
 		type: 'Vernissage',
