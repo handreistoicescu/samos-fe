@@ -166,5 +166,13 @@ exports.events = [
 		eventUrl: 'https://www.facebook.com/events/305829573419954/',
 		venueName: 'Form Space',
 		canceled: ''
+	},
+	{
+		act: 'Alex Harding',
+		date: '2019-05-21',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/428265471279237/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
 	}
 ];
