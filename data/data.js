@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Vanessa Singenzia',
-		date: '2019-05-07',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/272809343598448/',
-		venueName: 'Galeria Casa Matei Corvin',
-		canceled: ''
-	},
-	{
-		act: 'Alexandru Radvan',
-		date: '2019-05-07',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/2255034604557606/',
-		venueName: 'Bazis Contemporary',
-		canceled: ''
-	},
-	{
-		act: 'La Plasticatta',
-		date: '2019-05-07',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/658142427959949/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
 		act: 'Alexandra Gavrilă',
 		date: '2019-05-08',
 		type: 'Vernissage',
