@@ -1,53 +1,5 @@
 exports.events = [
 	{
-		act: 'Alexandra Gavrilă',
-		date: '2019-05-08',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/379233289336745/',
-		venueName: 'Centrul Cultural German Cluj-Napoca',
-		canceled: ''
-	},
-	{
-		act: 'Mathilde Weh',
-		date: '2019-05-08',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/310013176340441/',
-		venueName: 'P-ța Ștefan cel Mare 18',
-		canceled: ''
-	},
-	{
-		act: 'Gudrun Gut',
-		date: '2019-05-08',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/849719605371846/',
-		venueName: 'P-ța Ștefan cel Mare 18',
-		canceled: ''
-	},
-	{
-		act: 'Mara Dobrescu',
-		date: '2019-05-08',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/844569449246705/',
-		venueName: 'Muzeul de Artă Cluj-Napoca',
-		canceled: ''
-	},
-	{
-		act: 'Baladele memoriei',
-		date: '2019-05-08',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/436876860411391/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Las Meninas',
-		date: '2019-05-08',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/465917407573026/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
 		act: 'C’est bon • E ok • Rendben • This is just a story',
 		date: '2019-05-09',
 		type: 'Performance Art',
