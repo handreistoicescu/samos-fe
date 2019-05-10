@@ -1,14 +1,6 @@
 exports.events = [
 	{
 		act: 'C’est bon • E ok • Rendben • This is just a story',
-		date: '2019-05-09',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/299419674304969/',
-		venueName: 'Fabrica de Pensule',
-		canceled: ''
-	},
-	{
-		act: 'C’est bon • E ok • Rendben • This is just a story',
 		date: '2019-05-10',
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/299419674304969/',
