@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'C’est bon • E ok • Rendben • This is just a story',
-		date: '2019-05-10',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/299419674304969/',
-		venueName: 'Fabrica de Pensule',
-		canceled: ''
-	},
-	{
-		act: 'Smallpeople',
-		date: '2019-05-10',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/2525009004239265/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Chaos In The CBD',
 		date: '2019-05-10',
 		type: 'DJ Set',
@@ -93,6 +77,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/428265471279237/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'The Underground Youth',
+		date: '2019-05-25',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/393110591424311/',
+		venueName: 'Form Space',
 		canceled: ''
 	}
 ];
