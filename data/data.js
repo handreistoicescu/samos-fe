@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Chaos In The CBD',
-		date: '2019-05-10',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/405702126645391/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Pœtrip',
-		date: '2019-05-11',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/433635474082593/',
-		venueName: 'Colectiva Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Lumière',
-		date: '2019-05-11',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/370423980237438/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Soul Glo',
 		date: '2019-05-14',
 		type: 'Concert',
