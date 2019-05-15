@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Soul Glo',
-		date: '2019-05-14',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/243328679880914/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
 		act: "Nora • A Doll's House",
 		date: '2019-05-16',
 		type: 'Theatre',
