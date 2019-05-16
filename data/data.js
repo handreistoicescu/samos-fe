@@ -54,5 +54,21 @@ exports.events = [
 		eventUrl: 'https://www.facebook.com/events/393110591424311/',
 		venueName: 'Form Space',
 		canceled: ''
+	},
+	{
+		act: 'Las Meninas',
+		date: '2019-05-27',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/465917407573026/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'Unpredicted',
+		date: '2019-05-30',
+		type: 'Theatre',
+		eventUrl: 'https://www.facebook.com/events/365507050729942/',
+		venueName: 'ZUG.zone',
+		canceled: ''
 	}
 ];
