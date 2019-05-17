@@ -3,7 +3,7 @@ node_modules
 bower_components
 
 # Compiled
-dist
-dist/**/*
+/dist
+/dist/**/*
 
 .env
