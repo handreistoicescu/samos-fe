@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: "Nora • A Doll's House",
-		date: '2019-05-16',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2147368292043156/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
 		act: 'DJ Kentaro',
 		date: '2019-05-17',
 		type: 'DJ Set',
