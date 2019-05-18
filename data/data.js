@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'DJ Kentaro',
-		date: '2019-05-17',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/570930686716408/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Primărie',
-		date: '2019-05-17',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/341773153033942/',
-		venueName: 'SubForm',
-		canceled: ''
-	},
-	{
-		act: 'Los Bastoneros',
-		date: '2019-05-17',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/464195047654473/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Underground in the 80s - Deutschland-Romania',
-		date: '2019-05-17',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/437078036864363/',
-		venueName: 'H33',
-		canceled: ''
-	},
-	{
 		act: 'Ditzner Twintett',
 		date: '2019-05-18',
 		type: 'Concert',
@@ -189,6 +157,30 @@ exports.events = [
 		type: 'Theatre',
 		eventUrl: 'https://www.facebook.com/events/365507050729942/',
 		venueName: 'ZUG.zone',
+		canceled: ''
+	},
+	{
+		act: 'Louis Habryn',
+		date: '2019-06-01',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/285031229051218/',
+		venueName: 'unknown yet',
+		canceled: ''
+	},
+	{
+		act: 'Matteo Islandezu',
+		date: '2019-06-01',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/1238836886280463/',
+		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Alfred Anders',
+		date: '2019-06-01',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/2352156951735489/',
+		venueName: 'Gazette',
 		canceled: ''
 	}
 ];
