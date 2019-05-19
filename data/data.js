@@ -1,53 +1,5 @@
 exports.events = [
 	{
-		act: 'Ditzner Twintett',
-		date: '2019-05-18',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/315031169183001/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
-		act: 'Mefjus',
-		date: '2019-05-18',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/305829573419954/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Kosta',
-		date: '2019-05-18',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/438512400246281/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Middlemist Red',
-		date: '2019-05-18',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/1772034009564142/',
-		venueName: 'Atelier Cafe',
-		canceled: ''
-	},
-	{
-		act: 'Ditzner Twintett',
-		date: '2019-05-18',
-		type: 'Ciné Concert',
-		eventUrl: 'https://www.facebook.com/events/315031169183001/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
-		act: 'Mircea Kiraly',
-		date: '2019-05-18',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/450581779042074/',
-		venueName: 'Colectiva Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Alex Harding',
 		date: '2019-05-21',
 		type: 'Concert',
