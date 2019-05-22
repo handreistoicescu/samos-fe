@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Alex Harding',
-		date: '2019-05-21',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/428265471279237/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
 		act: 'Laurențiu Ruță',
 		date: '2019-05-23',
 		type: 'Vernissage',
@@ -133,6 +125,22 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/2352156951735489/',
 		venueName: 'Gazette',
+		canceled: ''
+	},
+	{
+		act: 'Elder',
+		date: '2019-06-03',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2197189450498041/',
+		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Les Négresses Vertes',
+		date: '2019-06-04',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2283954961925720/',
+		venueName: 'Casa de cultură a studenților',
 		canceled: ''
 	}
 ];
