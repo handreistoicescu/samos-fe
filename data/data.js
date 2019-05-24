@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'Alexandra Mocan și Camilia Filipov',
-		date: '2019-05-24',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/356624115201380/',
-		venueName: 'Atelier Patru',
-		canceled: ''
-	},
-	{
-		act: 'Bucurie și fericire',
-		date: '2019-05-24',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/431249207652625/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
-		act: 'Zănatec',
-		date: '2019-05-24',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/320773101953251/',
-		venueName: 'Invitro',
-		canceled: ''
-	},
-	{
-		act: 'Voiron',
-		date: '2019-05-24',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/421629391721375/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Enikő Vincze',
 		date: '2019-05-25',
 		type: 'Debate',
