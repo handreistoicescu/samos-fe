@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'George Rosu',
-		date: '2019-05-23',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/2219452544815129/',
-		venueName: 'White Cuib',
-		canceled: ''
-	},
-	{
-		act: 'Laurențiu Ruță',
-		date: '2019-05-23',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/283660529251049/',
-		venueName: 'Quadro 21 Gallery',
-		canceled: ''
-	},
-	{
-		act: 'Paddy and The Rats',
-		date: '2019-05-23',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/711362022593708/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
 		act: 'Alexandra Mocan și Camilia Filipov',
 		date: '2019-05-24',
 		type: 'Vernissage',
