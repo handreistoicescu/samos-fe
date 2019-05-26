@@ -1,45 +1,5 @@
 exports.events = [
 	{
-		act: 'Enikő Vincze',
-		date: '2019-05-25',
-		type: 'Debate',
-		eventUrl: 'https://www.facebook.com/events/1225815240906244/',
-		venueName: 'Facultatea de Sociologie și Asistență Socială',
-		canceled: ''
-	},
-	{
-		act: 'Francesco Arecco',
-		date: '2019-05-25',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/2369382820052954/',
-		venueName: 'IAGA ContemporaryArt',
-		canceled: ''
-	},
-	{
-		act: 'The Underground Youth',
-		date: '2019-05-25',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/393110591424311/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Henry Saiz',
-		date: '2019-05-25',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/539432336584074/',
-		venueName: 'Casino Park',
-		canceled: ''
-	},
-	{
-		act: 'Andrey Pushkarev',
-		date: '2019-05-25',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/539432336584074/',
-		venueName: 'BT Arena',
-		canceled: ''
-	},
-	{
 		act: 'Miracolul de la Cluj',
 		date: '2019-05-26',
 		type: 'Theatre',
