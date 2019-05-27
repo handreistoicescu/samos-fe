@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Miracolul de la Cluj',
-		date: '2019-05-26',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2719168754824815/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
 		act: 'Las Meninas',
 		date: '2019-05-27',
 		type: 'Performance Art',
@@ -141,6 +133,22 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/2283954961925720/',
 		venueName: 'Casa de cultură a studenților',
+		canceled: ''
+	},
+	{
+		act: 'Calibre',
+		date: '2019-06-07',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/381082866059784',
+		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Mercenari – Atingerea tandră a lui Corneliu Seghedi',
+		date: '2019-06-09',
+		type: 'Theatre',
+		eventUrl: 'https://www.facebook.com/events/815065755535702/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
 		canceled: ''
 	}
 ];
