@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Las Meninas',
-		date: '2019-05-27',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/465917407573026/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
 		act: 'Taietzel Ticalos',
 		date: '2019-05-28',
 		type: 'Vernissage',
