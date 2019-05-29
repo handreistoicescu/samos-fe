@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'Taietzel Ticalos',
-		date: '2019-05-28',
-		type: 'Vernissage',
-		eventUrl: '',
-		venueName: 'Str. Horea nr. 5, ap. 22',
-		canceled: ''
-	},
-	{
-		act: 'Europeana',
-		date: '2019-05-28',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2275453599386593/',
-		venueName: 'Teatrul Naţional Cluj-Napoca',
-		canceled: ''
-	},
-	{
-		act: 'Love me tinder',
-		date: '2019-05-28',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/391142385062302/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'VAR',
-		date: '2019-05-28',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/406606590120625/',
-		venueName: 'SubForm',
-		canceled: ''
-	},
-	{
 		act: 'Banda',
 		date: '2019-05-29',
 		type: 'Theatre',
