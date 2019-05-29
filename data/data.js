@@ -1,45 +1,5 @@
 exports.events = [
 	{
-		act: 'Las Meninas',
-		date: '2019-05-27',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/465917407573026/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
-		act: 'Taietzel Ticalos',
-		date: '2019-05-28',
-		type: 'Vernissage',
-		eventUrl: '',
-		venueName: 'Str. Horea nr. 5, ap. 22',
-		canceled: ''
-	},
-	{
-		act: 'Europeana',
-		date: '2019-05-28',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2275453599386593/',
-		venueName: 'Teatrul Naţional Cluj-Napoca',
-		canceled: ''
-	},
-	{
-		act: 'Love me tinder',
-		date: '2019-05-28',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/391142385062302/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'VAR',
-		date: '2019-05-28',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/406606590120625/',
-		venueName: 'SubForm',
-		canceled: ''
-	},
-	{
 		act: 'Banda',
 		date: '2019-05-29',
 		type: 'Theatre',
@@ -53,6 +13,14 @@ exports.events = [
 		type: 'Debate',
 		eventUrl: 'https://www.facebook.com/events/319578258739251/',
 		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'Larisa Crunteanu',
+		date: '2019-05-30',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/447079532716680/',
+		venueName: 'Fabrica de pensule',
 		canceled: ''
 	},
 	{
