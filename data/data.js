@@ -143,7 +143,7 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/308722616483072/',
 		venueName: 'Urania Palace',
-		canceled: ''
+		canceled: 'TRUE'
 	},
 	{
 		act: 'Les Négresses Vertes',
