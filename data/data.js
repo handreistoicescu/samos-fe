@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Banda',
-		date: '2019-05-29',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2641889489178950/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
 		act: 'F. Peter Wagner',
 		date: '2019-05-30',
 		type: 'Debate',
@@ -183,6 +175,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/2315571748502218/',
 		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Mercenari – Atingerea tandră a lui Corneliu Seghedi',
+		date: '2019-06-13',
+		type: 'Theatre',
+		eventUrl: 'https://www.facebook.com/events/815065755535702/',
+		venueName: 'Teatrul Maghiar de Stat Cluj',
 		canceled: ''
 	}
 ];
