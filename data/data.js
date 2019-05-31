@@ -1,46 +1,5 @@
 exports.events = [
 	{
-		act: 'F. Peter Wagner',
-		date: '2019-05-30',
-		type: 'Debate',
-		eventUrl: 'https://www.facebook.com/events/319578258739251/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
-		act: 'Larisa Crunteanu',
-		date: '2019-05-30',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/447079532716680/',
-		venueName: 'Fabrica de pensule',
-		canceled: ''
-	},
-	{
-		act: 'One day in Gaza',
-		date: '2019-05-30',
-		type: 'Movie',
-		eventUrl:
-			'https://www.facebook.com/events/2010254429056158/?active_tab=discussion',
-		venueName: 'A.casă',
-		canceled: ''
-	},
-	{
-		act: 'Unpredicted',
-		date: '2019-05-30',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/365507050729942/',
-		venueName: 'ZUG.zone',
-		canceled: ''
-	},
-	{
-		act: 'Elmar Lemes',
-		date: '2019-05-30',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/2181415998590829/',
-		venueName: 'White Cuib',
-		canceled: ''
-	},
-	{
 		act: 'Critical Mass',
 		date: '2019-05-31',
 		type: 'Gathering',
