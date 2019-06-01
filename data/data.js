@@ -1,38 +1,5 @@
 exports.events = [
 	{
-		act: 'Critical Mass',
-		date: '2019-05-31',
-		type: 'Gathering',
-		eventUrl: '',
-		venueName: 'Piata Unirii',
-		canceled: ''
-	},
-	{
-		act: 'Lea Rasovszky',
-		date: '2019-05-31',
-		type: 'Vernissage',
-		eventUrl:
-			'https://www.facebook.com/events/684669771967226/?active_tab=about',
-		venueName: 'MATCA artspace',
-		canceled: ''
-	},
-	{
-		act: 'Alex Mirutziu',
-		date: '2019-05-31',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/2357414661249660/',
-		venueName: 'Sabot',
-		canceled: ''
-	},
-	{
-		act: 'Suspiria',
-		date: '2019-05-31',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/605808463221278/',
-		venueName: 'Colectiva Gazette',
-		canceled: ''
-	},
-	{
 		act: 'BabyBlues',
 		date: '2019-06-01',
 		type: 'Theatre',
