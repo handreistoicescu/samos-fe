@@ -1,50 +1,36 @@
 exports.events = [
 	{
-		act: 'BabyBlues',
-		date: '2019-06-01',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/309018230026605/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Mastemey',
-		date: '2019-06-01',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/259278748188478/',
-		venueName: 'Hardward Pub',
-		canceled: ''
-	},
-	{
-		act: 'A Thousand Details',
-		date: '2019-06-01',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/285031229051218/',
-		venueName: 'unknown yet',
-		canceled: ''
-	},
-	{
-		act: 'Matteo Islandezu',
-		date: '2019-06-01',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/1238836886280463/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
-		act: 'Alfred Anders',
-		date: '2019-06-01',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/2352156951735489/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: '2META+',
 		date: '2019-06-02',
 		type: 'Vernissage',
 		eventUrl: 'https://www.facebook.com/events/295183258029327/',
 		venueName: 'La Cave',
+		canceled: ''
+	},
+	{
+		act: 'Monos',
+		date: '2019-06-02',
+		type: 'Movie',
+		eventUrl: 'https://tiff.ro/program-TIFF-2019',
+		venueName: 'Cinema Victoria',
+		canceled: ''
+	},
+	{
+		act: 'Dolor y gloria',
+		date: '2019-06-02',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-durere-si-glorie-pain-and-glory',
+		venueName: 'Unirii Square Open Air',
+		canceled: ''
+	},
+	{
+		act: 'In Fabric',
+		date: '2019-06-02',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-rochia-bantuita-in-fabric',
+		venueName: 'Cinema City',
 		canceled: ''
 	},
 	{
@@ -64,6 +50,32 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Rojo',
+		date: '2019-06-03',
+		type: 'Movie',
+		eventUrl: 'https://tiff.eventbook.ro/film/bilete-tiff-2019-rojo-rojo',
+		venueName: 'Cinema Victoria',
+		canceled: ''
+	},
+	{
+		act: 'The Raft',
+		date: '2019-06-03',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-in-aceeasi-barca-the-raft',
+		venueName: 'Dacia - Mănăștur Cinema',
+		canceled: ''
+	},
+	{
+		act: 'A Faithful Man',
+		date: '2019-06-03',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-un-om-fidel-a-faithful-man',
+		venueName: 'Cinema Victoria',
+		canceled: ''
+	},
+	{
 		act: 'Crüel Night',
 		date: '2019-06-04',
 		type: 'Concert',
@@ -77,6 +89,32 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/2283954961925720/',
 		venueName: 'Casa de cultură a studenților',
+		canceled: ''
+	},
+	{
+		act: 'System Crasher',
+		date: '2019-06-04',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-copilul-problema-system-crasher',
+		venueName: 'Cinema Victoria',
+		canceled: ''
+	},
+	{
+		act: 'Clergy',
+		date: '2019-06-04',
+		type: 'Movie',
+		eventUrl: 'https://tiff.eventbook.ro/film/bilete-tiff-2019-cler-clergy',
+		venueName: 'Cinema City',
+		canceled: ''
+	},
+	{
+		act: 'Synonyms',
+		date: '2019-06-04',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-sinonime-synonyms',
+		venueName: 'Cinema Florin Piersic',
 		canceled: ''
 	},
 	{
@@ -109,6 +147,14 @@ exports.events = [
 		type: 'Theatre',
 		eventUrl: 'https://www.facebook.com/events/815065755535702/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'Dodo',
+		date: '2019-06-14',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/2447051932013083/',
+		venueName: 'Planetarium',
 		canceled: ''
 	}
 ];
