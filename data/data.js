@@ -60,7 +60,7 @@ exports.events = [
 	{
 		act: 'The Raft',
 		date: '2019-06-03',
-		type: 'Movie',
+		type: 'Documentary',
 		eventUrl:
 			'https://tiff.eventbook.ro/film/bilete-tiff-2019-in-aceeasi-barca-the-raft',
 		venueName: 'Dacia - Mănăștur Cinema',
@@ -118,6 +118,42 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Ruben Brandt, Collector',
+		date: '2019-06-05',
+		type: 'Animation',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-ruben-brandt-colectionar-ruben-brandt-collector',
+		venueName: 'Cinema Florin Piersic',
+		canceled: ''
+	},
+	{
+		act: 'The Spy Gone North',
+		date: '2019-06-05',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-dezertorul-the-spy-gone-north',
+		venueName: 'Iulius Park Open Air',
+		canceled: ''
+	},
+	{
+		act: 'Ray & Liz',
+		date: '2019-06-05',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-ray-si-liz-ray-liz',
+		venueName: 'Cinema Arta',
+		canceled: ''
+	},
+	{
+		act: 'Woman at War',
+		date: '2019-06-06',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-femeie-in-razboi-woman-at-war',
+		venueName: 'Someș Open Air',
+		canceled: ''
+	},
+	{
 		act: 'Calibre',
 		date: '2019-06-07',
 		type: 'Concert',
@@ -126,11 +162,65 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Magical Nights',
+		date: '2019-06-07',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-nopti-magice-magical-nights',
+		venueName: 'Unirii Square Open Air',
+		canceled: ''
+	},
+	{
+		act: 'What She Said: The Art of Pauline Kael',
+		date: '2019-06-07',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-ce-a-spus-pauline-kael-what-she-said-the-art-of-pauline-kael',
+		venueName: 'French Institute',
+		canceled: ''
+	},
+	{
+		act: 'The Realm',
+		date: '2019-06-08',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-jocuri-de-putere-the-realm',
+		venueName: 'Unirii Square Open Air',
+		canceled: ''
+	},
+	{
 		act: 'Mercenari – Atingerea tandră a lui Corneliu Seghedi',
 		date: '2019-06-09',
 		type: 'Theatre',
 		eventUrl: 'https://www.facebook.com/events/815065755535702/',
 		venueName: 'Teatrul Maghiar de Stat Cluj',
+		canceled: ''
+	},
+	{
+		act: 'Cold Case Hammarskjöld',
+		date: '2019-06-09',
+		type: 'Documentary',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-cazul-nerezolvat-hammarskjold-cold-case-hammarskjold',
+		venueName: 'Cinema Victoria',
+		canceled: ''
+	},
+	{
+		act: 'Never Look Away',
+		date: '2019-06-09',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-nu-ti-feri-privirea-never-look-away',
+		venueName: 'Cinema Florin Piersic',
+		canceled: ''
+	},
+	{
+		act: 'The Fall of the American Empire',
+		date: '2019-06-09',
+		type: 'Movie',
+		eventUrl:
+			'https://tiff.eventbook.ro/film/bilete-tiff-2019-caderea-imperiului-american-the-fall-of-the-american-empire',
+		venueName: 'Unirii Square Open Air',
 		canceled: ''
 	},
 	{
