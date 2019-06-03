@@ -1,39 +1,5 @@
 exports.events = [
 	{
-		act: '2META+',
-		date: '2019-06-02',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/295183258029327/',
-		venueName: 'La Cave',
-		canceled: ''
-	},
-	{
-		act: 'Monos',
-		date: '2019-06-02',
-		type: 'Movie',
-		eventUrl: 'https://tiff.ro/program-TIFF-2019',
-		venueName: 'Cinema Victoria',
-		canceled: ''
-	},
-	{
-		act: 'Dolor y gloria',
-		date: '2019-06-02',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-durere-si-glorie-pain-and-glory',
-		venueName: 'Unirii Square Open Air',
-		canceled: ''
-	},
-	{
-		act: 'In Fabric',
-		date: '2019-06-02',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-rochia-bantuita-in-fabric',
-		venueName: 'Cinema City',
-		canceled: ''
-	},
-	{
 		act: 'Cosmin Sandu',
 		date: '2019-06-03',
 		type: 'Vernissage',
