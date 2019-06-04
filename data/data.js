@@ -1,47 +1,5 @@
 exports.events = [
 	{
-		act: 'Cosmin Sandu',
-		date: '2019-06-03',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/1223078384527601/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
-		act: 'Elder',
-		date: '2019-06-03',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2197189450498041/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
-		act: 'Rojo',
-		date: '2019-06-03',
-		type: 'Movie',
-		eventUrl: 'https://tiff.eventbook.ro/film/bilete-tiff-2019-rojo-rojo',
-		venueName: 'Cinema Victoria',
-		canceled: ''
-	},
-	{
-		act: 'The Raft',
-		date: '2019-06-03',
-		type: 'Documentary',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-in-aceeasi-barca-the-raft',
-		venueName: 'Dacia - Mănăștur Cinema',
-		canceled: ''
-	},
-	{
-		act: 'A Faithful Man',
-		date: '2019-06-03',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-un-om-fidel-a-faithful-man',
-		venueName: 'Cinema Victoria',
-		canceled: ''
-	},
-	{
 		act: 'Crüel Night',
 		date: '2019-06-04',
 		type: 'Concert',
