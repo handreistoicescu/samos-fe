@@ -1,47 +1,5 @@
 exports.events = [
 	{
-		act: 'Crüel Night',
-		date: '2019-06-04',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/308722616483072/',
-		venueName: 'Urania Palace',
-		canceled: 'TRUE'
-	},
-	{
-		act: 'Les Négresses Vertes',
-		date: '2019-06-04',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2283954961925720/',
-		venueName: 'Casa de cultură a studenților',
-		canceled: ''
-	},
-	{
-		act: 'System Crasher',
-		date: '2019-06-04',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-copilul-problema-system-crasher',
-		venueName: 'Cinema Victoria',
-		canceled: ''
-	},
-	{
-		act: 'Clergy',
-		date: '2019-06-04',
-		type: 'Movie',
-		eventUrl: 'https://tiff.eventbook.ro/film/bilete-tiff-2019-cler-clergy',
-		venueName: 'Cinema City',
-		canceled: ''
-	},
-	{
-		act: 'Synonyms',
-		date: '2019-06-04',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-sinonime-synonyms',
-		venueName: 'Cinema Florin Piersic',
-		canceled: ''
-	},
-	{
 		act: 'Ruben Brandt, Collector',
 		date: '2019-06-05',
 		type: 'Animation',
