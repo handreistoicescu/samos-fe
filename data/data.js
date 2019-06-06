@@ -1,32 +1,5 @@
 exports.events = [
 	{
-		act: 'Ruben Brandt, Collector',
-		date: '2019-06-05',
-		type: 'Animation',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-ruben-brandt-colectionar-ruben-brandt-collector',
-		venueName: 'Cinema Florin Piersic',
-		canceled: ''
-	},
-	{
-		act: 'The Spy Gone North',
-		date: '2019-06-05',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-dezertorul-the-spy-gone-north',
-		venueName: 'Iulius Park Open Air',
-		canceled: ''
-	},
-	{
-		act: 'Ray & Liz',
-		date: '2019-06-05',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-ray-si-liz-ray-liz',
-		venueName: 'Cinema Arta',
-		canceled: ''
-	},
-	{
 		act: 'Woman at War',
 		date: '2019-06-06',
 		type: 'Movie',
