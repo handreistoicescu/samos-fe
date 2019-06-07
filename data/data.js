@@ -1,14 +1,5 @@
 exports.events = [
 	{
-		act: 'Woman at War',
-		date: '2019-06-06',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-femeie-in-razboi-woman-at-war',
-		venueName: 'Someș Open Air',
-		canceled: ''
-	},
-	{
 		act: 'Calibre',
 		date: '2019-06-07',
 		type: 'Concert',
