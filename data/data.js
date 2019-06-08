@@ -1,31 +1,5 @@
 exports.events = [
 	{
-		act: 'Calibre',
-		date: '2019-06-07',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/381082866059784',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Magical Nights',
-		date: '2019-06-07',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-nopti-magice-magical-nights',
-		venueName: 'Unirii Square Open Air',
-		canceled: ''
-	},
-	{
-		act: 'What She Said: The Art of Pauline Kael',
-		date: '2019-06-07',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-ce-a-spus-pauline-kael-what-she-said-the-art-of-pauline-kael',
-		venueName: 'French Institute',
-		canceled: ''
-	},
-	{
 		act: 'The Realm',
 		date: '2019-06-08',
 		type: 'Movie',
