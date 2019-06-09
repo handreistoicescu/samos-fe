@@ -1,14 +1,5 @@
 exports.events = [
 	{
-		act: 'The Realm',
-		date: '2019-06-08',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-jocuri-de-putere-the-realm',
-		venueName: 'Unirii Square Open Air',
-		canceled: ''
-	},
-	{
 		act: 'Mercenari – Atingerea tandră a lui Corneliu Seghedi',
 		date: '2019-06-09',
 		type: 'Theatre',
