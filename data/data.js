@@ -1,56 +1,5 @@
 exports.events = [
 	{
-		act: 'Mercenari – Atingerea tandră a lui Corneliu Seghedi',
-		date: '2019-06-09',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/815065755535702/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
-		act: 'Baladele memoriei',
-		date: '2019-06-09',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/443055066482159/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Cold Case Hammarskjöld',
-		date: '2019-06-09',
-		type: 'Documentary',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-cazul-nerezolvat-hammarskjold-cold-case-hammarskjold',
-		venueName: 'Cinema Victoria',
-		canceled: ''
-	},
-	{
-		act: 'Never Look Away',
-		date: '2019-06-09',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-nu-ti-feri-privirea-never-look-away',
-		venueName: 'Cinema Florin Piersic',
-		canceled: ''
-	},
-	{
-		act: 'The Fall of the American Empire',
-		date: '2019-06-09',
-		type: 'Movie',
-		eventUrl:
-			'https://tiff.eventbook.ro/film/bilete-tiff-2019-caderea-imperiului-american-the-fall-of-the-american-empire',
-		venueName: 'Unirii Square Open Air',
-		canceled: ''
-	},
-	{
-		act: '1000mods',
-		date: '2019-06-09',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/834344863625177/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
 		act: 'Eu sunt! Și?',
 		date: '2019-06-10',
 		type: 'Performance Art',
