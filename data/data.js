@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Eu sunt! Și?',
-		date: '2019-06-10',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/443469196217879/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
 		act: 'Being OKEY – when love is treated as a crime',
 		date: '2019-06-11',
 		type: 'Documentary',
