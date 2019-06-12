@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Being OKEY – when love is treated as a crime',
-		date: '2019-06-11',
-		type: 'Documentary',
-		eventUrl: 'https://www.facebook.com/events/322716128425150/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
-		act: '99,6%',
-		date: '2019-06-11',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/448235789310725/',
-		venueName: 'ZUG.zone',
-		canceled: ''
-	},
-	{
 		act: 'Cristina Lilienfeld',
 		date: '2019-06-12',
 		type: 'Performance Art',
