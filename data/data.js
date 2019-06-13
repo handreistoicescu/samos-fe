@@ -8,6 +8,14 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Fado de Coimbra',
+		date: '2019-06-13',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/693225304446257/',
+		venueName: 'Muzeul Etnografic Cluj',
+		canceled: ''
+	},
+	{
 		act: 'Martorii lui Putin',
 		date: '2019-06-14',
 		type: 'Movie',
@@ -37,14 +45,6 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/1158153994366003/',
 		venueName: 'Muzeul de Artă Cluj-Napoca',
-		canceled: ''
-	},
-	{
-		act: 'Fado de Coimbra',
-		date: '2019-06-14',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/693225304446257/',
-		venueName: 'Muzeul Etnografic Cluj',
 		canceled: ''
 	},
 	{
