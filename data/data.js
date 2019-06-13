@@ -8,22 +8,6 @@ exports.events = [
 		canceled: ''
 	},
 	{
-		act: 'Mercenari – Atingerea tandră a lui Corneliu Seghedi',
-		date: '2019-06-13',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/815065755535702/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
-		act: 'Fishez',
-		date: '2019-06-13',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/1059122394291501/',
-		venueName: 'ZUG.zone',
-		canceled: ''
-	},
-	{
 		act: 'Martorii lui Putin',
 		date: '2019-06-14',
 		type: 'Movie',
@@ -40,14 +24,6 @@ exports.events = [
 		canceled: ''
 	},
 	{
-		act: 'JFB',
-		date: '2019-06-14',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/1158153994366003/',
-		venueName: 'Muzeul de Artă Cluj-Napoca',
-		canceled: ''
-	},
-	{
 		act: 'Olga Korol',
 		date: '2019-06-14',
 		type: 'DJ Set',
@@ -56,11 +32,19 @@ exports.events = [
 		canceled: ''
 	},
 	{
-		act: 'RIEN, mais la j’ai envie de mourir',
-		date: '2019-06-15',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/366808637276277/',
-		venueName: 'Casa Tranzit',
+		act: 'JFB',
+		date: '2019-06-14',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/1158153994366003/',
+		venueName: 'Muzeul de Artă Cluj-Napoca',
+		canceled: ''
+	},
+	{
+		act: 'Fado de Coimbra',
+		date: '2019-06-14',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/693225304446257/',
+		venueName: 'Muzeul Etnografic Cluj',
 		canceled: ''
 	},
 	{
@@ -77,6 +61,30 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/611333876051575',
 		venueName: 'Club Midi',
+		canceled: ''
+	},
+	{
+		act: 'RIEN, mais la j’ai envie de mourir',
+		date: '2019-06-15',
+		type: 'Theatre',
+		eventUrl: 'https://www.facebook.com/events/366808637276277/',
+		venueName: 'Casa Tranzit',
+		canceled: ''
+	},
+	{
+		act: 'Hearts Beat Loud',
+		date: '2019-06-15',
+		type: 'Movie',
+		eventUrl: 'https://www.facebook.com/events/2446800448716432/',
+		venueName: 'Colectiva Gazette',
+		canceled: ''
+	},
+	{
+		act: 'Cluj Pride',
+		date: '2019-06-15',
+		type: 'Gathering',
+		eventUrl: 'https://www.facebook.com/events/284228679125641/',
+		venueName: 'Piața Unirii',
 		canceled: ''
 	},
 	{
@@ -104,11 +112,35 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Stradivaria – Ensemble Baroque de Nantes',
+		date: '2019-06-20',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/345102829528957/',
+		venueName: 'Academia de muzică "Gheorghe Dima',
+		canceled: ''
+	},
+	{
+		act: 'Marius Bercea',
+		date: '2019-06-21',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/302774257295974/',
+		venueName: 'White Cuib',
+		canceled: ''
+	},
+	{
 		act: 'Nionde Plågan',
 		date: '2019-06-23',
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/539255416562561/',
 		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'C’est bon • E ok • Rendben • This is just a story',
+		date: '2019-06-27',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/464846487605527/',
+		venueName: 'Fabrica de Pensule',
 		canceled: ''
 	}
 ];
