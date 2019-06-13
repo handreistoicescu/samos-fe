@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Cristina Lilienfeld',
-		date: '2019-06-12',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/845306795855393/',
-		venueName: 'Fabrica de Pensule',
-		canceled: ''
-	},
-	{
-		act: 'Cannibal Corpse',
-		date: '2019-06-12',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2315571748502218/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
 		act: 'Emilian Mocanu',
 		date: '2019-06-13',
 		type: 'Vernissage',
