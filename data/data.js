@@ -8,14 +8,6 @@ exports.events = [
 		canceled: ''
 	},
 	{
-		act: 'Niboowin',
-		date: '2019-06-14',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/1110752449132390/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
 		act: 'Olga Korol',
 		date: '2019-06-14',
 		type: 'DJ Set',
