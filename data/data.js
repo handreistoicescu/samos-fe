@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Emilian Mocanu',
-		date: '2019-06-13',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/348428515862479/',
-		venueName: 'Atelier Patru',
-		canceled: ''
-	},
-	{
-		act: 'Fado de Coimbra',
-		date: '2019-06-13',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/693225304446257/',
-		venueName: 'Muzeul Etnografic Cluj',
-		canceled: ''
-	},
-	{
 		act: 'Martorii lui Putin',
 		date: '2019-06-14',
 		type: 'Movie',
