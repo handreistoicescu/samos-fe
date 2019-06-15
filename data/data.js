@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Martorii lui Putin',
-		date: '2019-06-14',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/380413245902048/',
-		venueName: 'Fabrica de Pensule',
-		canceled: ''
-	},
-	{
-		act: 'Olga Korol',
-		date: '2019-06-14',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/611333876051575',
-		venueName: 'Club Midi',
-		canceled: ''
-	},
-	{
-		act: 'JFB',
-		date: '2019-06-14',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/1158153994366003/',
-		venueName: 'Muzeul de Artă Cluj-Napoca',
-		canceled: ''
-	},
-	{
 		act: 'Angata',
 		date: '2019-06-15',
 		type: 'Concert',
