@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Iona',
-		date: '2019-06-16',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/295302604709181/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
 		act: "Nora • A Doll's House",
 		date: '2019-06-18',
 		type: 'Performance Art',
