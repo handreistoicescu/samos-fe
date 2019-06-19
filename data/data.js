@@ -1,18 +1,26 @@
 exports.events = [
 	{
-		act: "Nora • A Doll's House",
-		date: '2019-06-18',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2147368292043156/',
-		venueName: 'Teatrul Maghiar de Stat Cluj',
-		canceled: ''
-	},
-	{
 		act: 'Ingested',
 		date: '2019-06-19',
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/2282404315160688/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Silviu Ciora',
+		date: '2019-06-20',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/445593362906115/',
+		venueName: 'Galeria Nano',
+		canceled: ''
+	},
+	{
+		act: 'Sopa Flora',
+		date: '2019-06-20',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/445593362906115/',
+		venueName: 'ATELIER INTACT',
 		canceled: ''
 	},
 	{
@@ -69,6 +77,14 @@ exports.events = [
 		type: 'Theatre',
 		eventUrl: 'https://www.facebook.com/events/675210389586988/',
 		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
+		act: 'Visând Glasuri',
+		date: '2019-06-23',
+		type: 'Theatre',
+		eventUrl: 'https://www.facebook.com/events/459054408213963/',
+		venueName: 'Casa Tranzit',
 		canceled: ''
 	},
 	{
