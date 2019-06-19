@@ -1,6 +1,6 @@
 exports.events = [
 	{
-		act: 'Ingested',
+		act: 'Inge555sted',
 		date: '2019-06-19',
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/2282404315160688/',
