@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Inge555sted',
-		date: '2019-06-19',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2282404315160688/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
 		act: 'Silviu Ciora',
 		date: '2019-06-20',
 		type: 'Vernissage',
@@ -117,6 +109,22 @@ exports.events = [
 		type: 'Theatre',
 		eventUrl: 'https://www.facebook.com/events/626112744553565/',
 		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
+		act: 'Irina Margareta Nistor',
+		date: '2019-06-28',
+		type: 'Debate',
+		eventUrl: 'https://www.facebook.com/events/2714619078612315',
+		venueName: 'ClujHub',
+		canceled: ''
+	},
+	{
+		act: 'Marcus Miller',
+		date: '2019-07-04',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/284142399053676/',
+		venueName: 'Parcul Central',
 		canceled: ''
 	}
 ];
