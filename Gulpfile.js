@@ -67,11 +67,14 @@ gulp.task('scripts', function() {
 // Templating
 // -----------------------------------------------------------------------------
 
-const getDataForFile = function(file) {
+function getData() {
 	return {
-		events: samosEvents.events
+		events:
+			process.env.env === 'local'
+				? samosEvents.events
+				: JSON.parse(process.env.INCOMING_HOOK_BODY)
 	};
-};
+}
 
 gulp.task('nunjucks', function() {
 	var manageEnvironment = function(environment) {
@@ -82,7 +85,7 @@ gulp.task('nunjucks', function() {
 	return (
 		gulp
 			.src(inputTemplates)
-			.pipe(data(getDataForFile))
+			.pipe(data(getData))
 			// Renders template with nunjucks
 			.pipe(
 				nunjucksRender({
