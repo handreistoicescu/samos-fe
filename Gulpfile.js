@@ -4,6 +4,10 @@
 // Dependencies
 // -----------------------------------------------------------------------------
 
+if (process.env.env === 'local') {
+	require('dotenv').config();
+}
+
 var gulp = require('gulp');
 var data = require('gulp-data');
 var sass = require('gulp-sass');
@@ -69,10 +73,7 @@ gulp.task('scripts', function() {
 
 function getData() {
 	return {
-		events:
-			process.env.env === 'local'
-				? samosEvents.events
-				: JSON.parse(process.env.INCOMING_HOOK_BODY)
+		events: JSON.parse(process.env.INCOMING_HOOK_BODY)
 	};
 }
 
