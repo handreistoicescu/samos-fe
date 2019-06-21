@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Silviu Ciora',
-		date: '2019-06-20',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/445593362906115/',
-		venueName: 'Galeria Nano',
-		canceled: ''
-	},
-	{
-		act: 'Sopa Flora',
-		date: '2019-06-20',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/445593362906115/',
-		venueName: 'ATELIER INTACT',
-		canceled: ''
-	},
-	{
-		act: 'Stradivaria – Ensemble Baroque de Nantes',
-		date: '2019-06-20',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/345102829528957/',
-		venueName: 'Academia de muzică "Gheorghe Dima',
-		canceled: ''
-	},
-	{
 		act: 'Marius Bercea',
 		date: '2019-06-21',
 		type: 'Vernissage',
@@ -120,10 +96,34 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Andrew Red Hand',
+		date: '2019-06-28',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/326415981586082/',
+		venueName: 'unknown location',
+		canceled: ''
+	},
+	{
 		act: 'Marcus Miller',
 		date: '2019-07-04',
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/284142399053676/',
+		venueName: 'Parcul Central',
+		canceled: ''
+	},
+	{
+		act: 'Zimbru',
+		date: '2019-07-05',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/371805763683973/',
+		venueName: 'Parcul Central',
+		canceled: ''
+	},
+	{
+		act: 'Ghost-Note',
+		date: '2019-07-05',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/395891447797812/',
 		venueName: 'Parcul Central',
 		canceled: ''
 	}
