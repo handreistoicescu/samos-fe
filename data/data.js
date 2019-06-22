@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'Marius Bercea',
-		date: '2019-06-21',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/302774257295974/',
-		venueName: 'White Cuib',
-		canceled: ''
-	},
-	{
-		act: 'I am here still',
-		date: '2019-06-21',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/1434259196713961/',
-		venueName: 'Fabrica de Pensule',
-		canceled: ''
-	},
-	{
-		act: 'Fata din Vestul Sălbatic',
-		date: '2019-06-21',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/594777420929988/',
-		venueName: 'Filarmonica de Stat Transilvania',
-		canceled: ''
-	},
-	{
-		act: 'Vass',
-		date: '2019-06-21',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/454094015135204/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Glorie',
 		date: '2019-06-22',
 		type: 'Theatre',
@@ -125,6 +93,30 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/395891447797812/',
 		venueName: 'Parcul Central',
+		canceled: ''
+	},
+	{
+		act: 'Chassol',
+		date: '2019-07-06',
+		type: 'Concert',
+		eventUrl: 'https://www.jazzinthepark.ro/lineup/chassol/',
+		venueName: 'Parcul Central',
+		canceled: ''
+	},
+	{
+		act: 'Ron Minis',
+		date: '2019-07-06',
+		type: 'Concert',
+		eventUrl: 'https://www.jazzinthepark.ro/lineup/ron-minis/',
+		venueName: 'Parcul Central',
+		canceled: ''
+	},
+	{
+		act: 'Artrax',
+		date: '2019-07-06',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/591651991344739/',
+		venueName: 'Form Space',
 		canceled: ''
 	}
 ];
