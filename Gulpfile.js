@@ -34,7 +34,6 @@ var autoprefixerOptions = {
 	browsers: ['last 2 versions', '> 5%', 'Firefox ESR']
 };
 var sassdocOptions = { dest: siteOutput + '/sassdoc' };
-var samosEvents = require('./data/data');
 
 // File where the favicon markups are stored
 var FAVICON_DATA_FILE = 'faviconData.json';
@@ -72,8 +71,11 @@ gulp.task('scripts', function() {
 // -----------------------------------------------------------------------------
 
 function getData() {
+	const { events, monthRange } = JSON.parse(process.env.INCOMING_HOOK_BODY);
+	console.log(events);
 	return {
-		events: JSON.parse(process.env.INCOMING_HOOK_BODY)
+		events: events,
+		monthRange: monthRange
 	};
 }
 
