@@ -16,14 +16,6 @@ exports.events = [
 		canceled: ''
 	},
 	{
-		act: 'Nionde Plågan',
-		date: '2019-06-23',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/539255416562561/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
 		act: 'Rândul 3, aproape de margine',
 		date: '2019-06-26',
 		type: 'Theatre',
