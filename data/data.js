@@ -1,14 +1,6 @@
 exports.events = [
 	{
 		act: 'Glorie',
-		date: '2019-06-22',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/482224092348703/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Glorie',
 		date: '2019-06-23',
 		type: 'Theatre',
 		eventUrl: 'https://www.facebook.com/events/675210389586988/',
@@ -117,6 +109,22 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/591651991344739/',
 		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Delvon Lamarr Organ Trio',
+		date: '2019-07-07',
+		type: 'Concert',
+		eventUrl: 'https://www.jazzinthepark.ro/lineup/delvon-lamarr-organ-trio/',
+		venueName: 'Parcul Central',
+		canceled: ''
+	},
+	{
+		act: 'Pianohooligan',
+		date: '2019-07-07',
+		type: 'Concert',
+		eventUrl: 'https://www.jazzinthepark.ro/lineup/pianohooligan/',
+		venueName: 'Parcul Central',
 		canceled: ''
 	}
 ];
