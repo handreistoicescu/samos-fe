@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Glorie',
-		date: '2019-06-23',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/675210389586988/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Visând Glasuri',
-		date: '2019-06-23',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/459054408213963/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
 		act: 'Rândul 3, aproape de margine',
 		date: '2019-06-26',
 		type: 'Theatre',
