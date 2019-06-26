@@ -71,8 +71,9 @@ gulp.task('scripts', function() {
 // -----------------------------------------------------------------------------
 
 function getData() {
-	const { events, monthRange } = JSON.parse(process.env.INCOMING_HOOK_BODY);
-	console.log(events);
+	const { events, monthRange } = JSON.parse(
+		decodeURIComponent(process.env.INCOMING_HOOK_BODY)
+	);
 	return {
 		events: events,
 		monthRange: monthRange
