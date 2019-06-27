@@ -1,5 +1,21 @@
 exports.events = [
 	{
+		act: 'Maria Surducan',
+		date: '2019-06-27',
+		type: 'Discussion',
+		eventUrl: 'https://www.facebook.com/events/409220106341983/',
+		venueName: 'Bookstory',
+		canceled: ''
+	},
+	{
+		act: 'Virgil Mleșniță',
+		date: '2019-06-27',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/613136985861099/',
+		venueName: 'Institut Français de Cluj',
+		canceled: ''
+	},
+	{
 		act: 'C’est bon • E ok • Rendben • This is just a story',
 		date: '2019-06-27',
 		type: 'Performance Art',
@@ -16,11 +32,27 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Against Prison Society',
+		date: '2019-06-27',
+		type: 'Documentary',
+		eventUrl: 'https://www.facebook.com/events/448314499052863/',
+		venueName: 'A-casă',
+		canceled: ''
+	},
+	{
 		act: 'Irina Margareta Nistor',
 		date: '2019-06-28',
-		type: 'Debate',
+		type: 'Discussion',
 		eventUrl: 'https://www.facebook.com/events/2714619078612315',
 		venueName: 'ClujHub',
+		canceled: ''
+	},
+	{
+		act: 'Critical Mass',
+		date: '2019-06-28',
+		type: 'Gathering',
+		eventUrl: 'https://www.facebook.com/events/434150113835724/',
+		venueName: 'Piața Unirii',
 		canceled: ''
 	},
 	{
@@ -29,6 +61,38 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/326415981586082/',
 		venueName: 'unknown location',
+		canceled: ''
+	},
+	{
+		act: 'Tzuc',
+		date: '2019-06-28',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/2070370463264681/',
+		venueName: 'Gazette',
+		canceled: ''
+	},
+	{
+		act: 'Ioana Sisea',
+		date: '2019-06-29',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/335574940447370/',
+		venueName: 'Jecza Gallery',
+		canceled: ''
+	},
+	{
+		act: 'Suzan Pitt',
+		date: '2019-06-29',
+		type: 'Animation',
+		eventUrl: 'https://www.facebook.com/events/341878766506844/',
+		venueName: 'Colectiva Gazette',
+		canceled: ''
+	},
+	{
+		act: 'Manglus',
+		date: '2019-06-29',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/467308780703684/',
+		venueName: 'Gazette',
 		canceled: ''
 	},
 	{
@@ -77,6 +141,14 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://www.facebook.com/events/591651991344739/',
 		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Louis Habryn',
+		date: '2019-07-06',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/421557398687609/',
+		venueName: 'Gazette',
 		canceled: ''
 	},
 	{
