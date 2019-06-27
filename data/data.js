@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Rândul 3, aproape de margine',
-		date: '2019-06-26',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/454990011996573/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
 		act: 'C’est bon • E ok • Rendben • This is just a story',
 		date: '2019-06-27',
 		type: 'Performance Art',
@@ -101,6 +93,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.jazzinthepark.ro/lineup/pianohooligan/',
 		venueName: 'Parcul Central',
+		canceled: ''
+	},
+	{
+		act: 'Enter Shikari',
+		date: '2019-07-10',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/409657539768988/',
+		venueName: 'Form Space',
 		canceled: ''
 	}
 ];
