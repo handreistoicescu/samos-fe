@@ -1,45 +1,5 @@
 exports.events = [
 	{
-		act: 'Maria Surducan',
-		date: '2019-06-27',
-		type: 'Discussion',
-		eventUrl: 'https://www.facebook.com/events/409220106341983/',
-		venueName: 'Bookstory',
-		canceled: ''
-	},
-	{
-		act: 'Virgil Mleșniță',
-		date: '2019-06-27',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/613136985861099/',
-		venueName: 'Institut Français de Cluj',
-		canceled: ''
-	},
-	{
-		act: 'C’est bon • E ok • Rendben • This is just a story',
-		date: '2019-06-27',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/464846487605527/',
-		venueName: 'Fabrica de Pensule',
-		canceled: ''
-	},
-	{
-		act: 'La Plasticatta',
-		date: '2019-06-27',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/626112744553565/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Against Prison Society',
-		date: '2019-06-27',
-		type: 'Documentary',
-		eventUrl: 'https://www.facebook.com/events/448314499052863/',
-		venueName: 'A-casă',
-		canceled: ''
-	},
-	{
 		act: 'Irina Margareta Nistor',
 		date: '2019-06-28',
 		type: 'Discussion',
