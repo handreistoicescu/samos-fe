@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'Irina Margareta Nistor',
-		date: '2019-06-28',
-		type: 'Discussion',
-		eventUrl: 'https://www.facebook.com/events/2714619078612315',
-		venueName: 'ClujHub',
-		canceled: ''
-	},
-	{
-		act: 'Critical Mass',
-		date: '2019-06-28',
-		type: 'Gathering',
-		eventUrl: 'https://www.facebook.com/events/434150113835724/',
-		venueName: 'Piața Unirii',
-		canceled: ''
-	},
-	{
-		act: 'Andrew Red Hand',
-		date: '2019-06-28',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/326415981586082/',
-		venueName: 'unknown location',
-		canceled: ''
-	},
-	{
-		act: 'Tzuc',
-		date: '2019-06-28',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/2070370463264681/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Ioana Sisea',
 		date: '2019-06-29',
 		type: 'Vernissage',
@@ -133,6 +101,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/409657539768988/',
 		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Frontierer',
+		date: '2019-07-12',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2393384950725833/',
+		venueName: 'Flying Circus',
 		canceled: ''
 	}
 ];
