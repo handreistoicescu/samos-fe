@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Ioana Sisea',
-		date: '2019-06-29',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/335574940447370/',
-		venueName: 'Jecza Gallery',
-		canceled: ''
-	},
-	{
-		act: 'Suzan Pitt',
-		date: '2019-06-29',
-		type: 'Animation',
-		eventUrl: 'https://www.facebook.com/events/341878766506844/',
-		venueName: 'Colectiva Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Manglus',
-		date: '2019-06-29',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/467308780703684/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Marcus Miller',
 		date: '2019-07-04',
 		type: 'Concert',
@@ -109,6 +85,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/2393384950725833/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Niboowin',
+		date: '2019-07-14',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/1110752449132390/',
+		venueName: 'Urania Palace',
 		canceled: ''
 	}
 ];
