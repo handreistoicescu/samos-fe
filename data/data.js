@@ -1,5 +1,13 @@
 exports.events = [
 	{
+		act: 'Cristi Avram',
+		date: '2019-07-04',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/2398120833805126',
+		venueName: 'Atelier Patru',
+		canceled: ''
+	},
+	{
 		act: 'Marcus Miller',
 		date: '2019-07-04',
 		type: 'Concert',
@@ -21,6 +29,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/395891447797812/',
 		venueName: 'Parcul Central',
+		canceled: ''
+	},
+	{
+		act: 'Gal Kadan',
+		date: '2019-07-05',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/312044103008609/',
+		venueName: 'Gazette',
 		canceled: ''
 	},
 	{
@@ -77,6 +93,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/409657539768988/',
 		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Flaviu Moldovan',
+		date: '2019-07-11',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/2870211539871043/',
+		venueName: 'Plankton Gallery',
 		canceled: ''
 	},
 	{
