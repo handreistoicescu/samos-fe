@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Cristi Avram',
-		date: '2019-07-04',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/2398120833805126',
-		venueName: 'Atelier Patru',
-		canceled: ''
-	},
-	{
-		act: 'Marcus Miller',
-		date: '2019-07-04',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/284142399053676/',
-		venueName: 'Parcul Central',
-		canceled: ''
-	},
-	{
 		act: 'Zimbru',
 		date: '2019-07-05',
 		type: 'Concert',
@@ -117,6 +101,38 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/1110752449132390/',
 		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'Grandmaster Flash',
+		date: '2019-07-17',
+		type: 'DJ Set',
+		eventUrl: 'https://electriccastle.ro/daily-schedule/',
+		venueName: 'Bonțida',
+		canceled: ''
+	},
+	{
+		act: 'Elderbrook',
+		date: '2019-07-17',
+		type: 'Concert',
+		eventUrl: 'https://electriccastle.ro/daily-schedule/',
+		venueName: 'Bonțida',
+		canceled: ''
+	},
+	{
+		act: 'Made from Scratch',
+		date: '2019-07-17',
+		type: 'DJ Set',
+		eventUrl: 'https://electriccastle.ro/daily-schedule/',
+		venueName: 'Bonțida',
+		canceled: ''
+	},
+	{
+		act: 'Gorgasm',
+		date: '2019-07-19',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/243741589835688/',
+		venueName: 'Flying Circus',
 		canceled: ''
 	}
 ];
