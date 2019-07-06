@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Zimbru',
-		date: '2019-07-05',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/371805763683973/',
-		venueName: 'Parcul Central',
-		canceled: ''
-	},
-	{
-		act: 'Ghost-Note',
-		date: '2019-07-05',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/395891447797812/',
-		venueName: 'Parcul Central',
-		canceled: ''
-	},
-	{
-		act: 'Gal Kadan',
-		date: '2019-07-05',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/312044103008609/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Chassol',
 		date: '2019-07-06',
 		type: 'Concert',
