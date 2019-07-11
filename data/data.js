@@ -1,5 +1,13 @@
 exports.events = [
 	{
+		act: 'Enter Shikari',
+		date: '2019-07-10',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/409657539768988/',
+		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
 		act: 'Flaviu Moldovan',
 		date: '2019-07-11',
 		type: 'Vernissage',
@@ -8,11 +16,27 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Laurențiu Ruță',
+		date: '2019-07-12',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/462119834354447/',
+		venueName: 'Galeria Quadro 21',
+		canceled: ''
+	},
+	{
 		act: 'Frontierer',
 		date: '2019-07-12',
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/2393384950725833/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Vox Lux',
+		date: '2019-07-12',
+		type: 'Movie',
+		eventUrl: 'https://www.facebook.com/events/2306419546104458/',
+		venueName: 'Cinema Victoria',
 		canceled: ''
 	},
 	{
@@ -197,6 +221,38 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/243741589835688/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Louis C.K.',
+		date: '2019-07-20',
+		type: 'Stand-up Comedy',
+		eventUrl: 'https://www.facebook.com/events/196352844644962/',
+		venueName: 'Casa de Cultură a Studenților',
+		canceled: ''
+	},
+	{
+		act: 'Jah Cuzzi',
+		date: '2019-07-21',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/1147403628795686/',
+		venueName: 'A-casă',
+		canceled: ''
+	},
+	{
+		act: 'God Is An Astronaut',
+		date: '2019-07-23',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/605340749947702/',
+		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Nionde Plågan',
+		date: '2019-07-23',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/539255416562561/',
+		venueName: 'Urania Palace',
 		canceled: ''
 	}
 ];
