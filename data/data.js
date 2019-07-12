@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Enter Shikari',
-		date: '2019-07-10',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/409657539768988/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
-		act: 'Flaviu Moldovan',
-		date: '2019-07-11',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/2870211539871043/',
-		venueName: 'Plankton Gallery',
-		canceled: ''
-	},
-	{
 		act: 'Laurențiu Ruță',
 		date: '2019-07-12',
 		type: 'Performance Art',
