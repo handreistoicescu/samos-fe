@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Laurențiu Ruță',
-		date: '2019-07-12',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/462119834354447/',
-		venueName: 'Galeria Quadro 21',
-		canceled: ''
-	},
-	{
-		act: 'Frontierer',
-		date: '2019-07-12',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2393384950725833/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
-		act: 'Vox Lux',
-		date: '2019-07-12',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/2306419546104458/',
-		venueName: 'Cinema Victoria',
-		canceled: ''
-	},
-	{
 		act: 'Niboowin',
 		date: '2019-07-14',
 		type: 'Concert',
