@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Niboowin',
-		date: '2019-07-14',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/1110752449132390/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
 		act: 'Grandmaster Flash',
 		date: '2019-07-17',
 		type: 'DJ Set',
