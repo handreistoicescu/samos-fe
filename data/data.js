@@ -1,37 +1,5 @@
 exports.events = [
 	{
-		act: 'Made from Scratch',
-		date: '2019-07-17',
-		type: 'DJ Set',
-		eventUrl: 'https://electriccastle.ro/schedule',
-		venueName: 'Bonțida',
-		canceled: ''
-	},
-	{
-		act: 'FUNKorporation',
-		date: '2019-07-17',
-		type: 'Concert',
-		eventUrl: 'https://electriccastle.ro/schedule',
-		venueName: 'Bonțida',
-		canceled: ''
-	},
-	{
-		act: 'Elderbrook',
-		date: '2019-07-17',
-		type: 'Live Set',
-		eventUrl: 'https://electriccastle.ro/schedule',
-		venueName: 'Bonțida',
-		canceled: ''
-	},
-	{
-		act: 'Grandmaster Flash',
-		date: '2019-07-17',
-		type: 'DJ Set',
-		eventUrl: 'https://electriccastle.ro/schedule',
-		venueName: 'Bonțida',
-		canceled: ''
-	},
-	{
 		act: 'The Shapeshifters',
 		date: '2019-07-18',
 		type: 'DJ Set',
