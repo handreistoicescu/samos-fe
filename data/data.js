@@ -10,22 +10,6 @@ exports.events = [
 	},
 	{
 		act: 'Louis C.K.',
-		date: '2019-07-20',
-		type: 'Stand-up Comedy',
-		eventUrl: 'https://www.facebook.com/events/196352844644962/',
-		venueName: 'Casa de Cultură a Studenților',
-		canceled: ''
-	},
-	{
-		act: 'Louis C.K.',
-		date: '2019-07-20',
-		type: 'Stand-up Comedy',
-		eventUrl: 'https://www.facebook.com/events/196352844644962/',
-		venueName: 'Casa de Cultură a Studenților',
-		canceled: ''
-	},
-	{
-		act: 'Louis C.K.',
 		date: '2019-07-21',
 		type: 'Stand-up Comedy',
 		eventUrl: 'https://www.facebook.com/events/196352844644962/',
