@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Matei Curtașu',
-		date: '2019-07-26',
-		type: 'Discussion',
-		eventUrl: 'https://www.facebook.com/events/2253686121390830',
-		venueName: 'Cluj Hub',
-		canceled: ''
-	},
-	{
-		act: 'Lazzaro Felice',
-		date: '2019-07-26',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/2423597624591708/',
-		venueName: 'Cinema Victoria',
-		canceled: ''
-	},
-	{
 		act: 'Raisa Hagiu',
 		date: '2019-07-27',
 		type: 'Vernissage',
