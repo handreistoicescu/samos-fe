@@ -1,10 +1,26 @@
 exports.events = [
 	{
-		act: 'Andy Benz',
+		act: 'Snorks',
+		date: '2019-07-31',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/335684314048701',
+		venueName: 'Sisters',
+		canceled: ''
+	},
+	{
+		act: 'Stat, Poliție, Violență',
 		date: '2019-08-01',
-		type: 'Live Set',
-		eventUrl: 'https://untold.com',
-		venueName: 'Untold - Earth Spirits',
+		type: 'Discussion',
+		eventUrl: 'https://www.facebook.com/events/2010254429056158',
+		venueName: 'A-casă',
+		canceled: ''
+	},
+	{
+		act: 'Banksy',
+		date: '2019-08-01',
+		type: 'Vernissage',
+		eventUrl: 'https://expozitiatheartofbanksy.ro/cluj/',
+		venueName: 'Casa Vaida Voevod',
 		canceled: ''
 	},
 	{
@@ -221,6 +237,22 @@ exports.events = [
 		type: 'DJ Set',
 		eventUrl: 'https://untold.com',
 		venueName: 'Untold - Galaxy',
+		canceled: ''
+	},
+	{
+		act: 'The Secret Garden',
+		date: '2019-08-08',
+		type: 'Zine Launch',
+		eventUrl: 'https://www.facebook.com/events/2373006626281168/',
+		venueName: 'Colectiva Gazette',
+		canceled: ''
+	},
+	{
+		act: 'The Man Who Killed Don Quixote',
+		date: '2019-08-09',
+		type: 'Movie',
+		eventUrl: 'https://www.facebook.com/events/308481200087919',
+		venueName: 'Iulius Parc',
 		canceled: ''
 	}
 ];
