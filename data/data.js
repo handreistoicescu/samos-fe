@@ -1,13 +1,5 @@
 exports.events = [
   {
-    "act": "Snorks",
-    "date": "2019-07-31",
-    "type": "Concert",
-    "eventUrl": "https://www.facebook.com/events/335684314048701",
-    "venueName": "Sisters",
-    "canceled": ""
-  },
-  {
     "act": "Stat, Poliție, Violență",
     "date": "2019-08-01",
     "type": "Discussion",
