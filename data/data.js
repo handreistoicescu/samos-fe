@@ -1,5 +1,13 @@
 exports.events = [
   {
+    "act": "Snorks",
+    "date": "2019-07-31",
+    "type": "Concert",
+    "eventUrl": "https://www.facebook.com/events/335684314048701",
+    "venueName": "Sisters",
+    "canceled": ""
+  },
+  {
     "act": "Stat, Poliție, Violență",
     "date": "2019-08-01",
     "type": "Discussion",
@@ -101,6 +109,14 @@ exports.events = [
     "type": "DJ Set",
     "eventUrl": "https://untold.com",
     "venueName": "Untold - Galaxy",
+    "canceled": ""
+  },
+  {
+    "act": "Kjartan & Hét Hat Club",
+    "date": "2019-08-01",
+    "type": "Concert",
+    "eventUrl": "http://www.meraworldmusic.com/en/program",
+    "venueName": "Mera",
     "canceled": ""
   },
   {
@@ -232,6 +248,14 @@ exports.events = [
     "canceled": ""
   },
   {
+    "act": "Trei parale",
+    "date": "2019-08-02",
+    "type": "Concert",
+    "eventUrl": "http://www.meraworldmusic.com/en/program",
+    "venueName": "Mera",
+    "canceled": ""
+  },
+  {
     "act": "Black Motion",
     "date": "2019-08-03",
     "type": "Live Set",
@@ -293,6 +317,14 @@ exports.events = [
     "type": "DJ Set",
     "eventUrl": "https://untold.com",
     "venueName": "Untold - Daydreaming",
+    "canceled": ""
+  },
+  {
+    "act": "Near East Collective",
+    "date": "2019-08-03",
+    "type": "Concert",
+    "eventUrl": "http://www.meraworldmusic.com/en/program",
+    "venueName": "Mera",
     "canceled": ""
   },
   {
@@ -381,6 +413,22 @@ exports.events = [
     "type": "DJ Set",
     "eventUrl": "https://untold.com",
     "venueName": "Untold - Galaxy",
+    "canceled": ""
+  },
+  {
+    "act": "Vassvik",
+    "date": "2019-08-04",
+    "type": "Concert",
+    "eventUrl": "http://www.meraworldmusic.com/en/program",
+    "venueName": "Mera",
+    "canceled": ""
+  },
+  {
+    "act": "Dikanda",
+    "date": "2019-08-04",
+    "type": "Concert",
+    "eventUrl": "http://www.meraworldmusic.com/en/program",
+    "venueName": "Mera",
     "canceled": ""
   },
   {
