@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Climate Justice Action',
-		date: '2019-08-08',
-		type: 'Discussion',
-		eventUrl: 'https://www.facebook.com/events/2010254429056158',
-		venueName: 'A-casă',
-		canceled: ''
-	},
-	{
-		act: 'Radu Valcu Quartet',
-		date: '2019-08-08',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/1232377296935707/',
-		venueName: 'Sisters',
-		canceled: ''
-	},
-	{
-		act: 'The Secret Garden',
-		date: '2019-08-08',
-		type: 'Zine Launch',
-		eventUrl: 'https://www.facebook.com/events/2373006626281168/',
-		venueName: 'Colectiva Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Manifesto',
 		date: '2019-08-09',
 		type: 'Movie',
@@ -51,7 +27,7 @@ exports.events = [
 		act: 'Mihaela Hudrea',
 		date: '2019-08-16',
 		type: 'Vernissage',
-		eventUrl: '',
+		eventUrl: 'https://www.facebook.com/events/413677912602128/',
 		venueName: 'White Cuib',
 		canceled: ''
 	},
