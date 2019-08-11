@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Manifesto',
-		date: '2019-08-09',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/517541075453598/',
-		venueName: 'Colectiva Gazette',
-		canceled: ''
-	},
-	{
-		act: 'The Man Who Killed Don Quixote',
-		date: '2019-08-09',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/308481200087919',
-		venueName: 'Iulius Parc',
-		canceled: ''
-	},
-	{
 		act: 'Nik Bärtsch’s Ronin',
 		date: '2019-08-15',
 		type: 'Concert',
