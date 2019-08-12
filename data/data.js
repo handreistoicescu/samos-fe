@@ -8,6 +8,14 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Romhány Veronika',
+		date: '2019-08-15',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/462030647684932/',
+		venueName: 'Lateral ArtSpace',
+		canceled: ''
+	},
+	{
 		act: 'Nik Bärtsch’s Ronin',
 		date: '2019-08-15',
 		type: 'Concert',
@@ -21,6 +29,14 @@ exports.events = [
 		type: 'Vernissage',
 		eventUrl: 'https://www.facebook.com/events/413677912602128/',
 		venueName: 'White Cuib',
+		canceled: ''
+	},
+	{
+		act: 'Márton Zoltán',
+		date: '2019-08-16',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/812275262523452/',
+		venueName: 'BAZIS Project Space',
 		canceled: ''
 	},
 	{
@@ -40,6 +56,14 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Lea Rasovzsky și Flaviu Cacoveanu',
+		date: '2019-08-17',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/364235144270382/',
+		venueName: 'MATCA artspace',
+		canceled: ''
+	},
+	{
 		act: 'Mammal Hands',
 		date: '2019-08-17',
 		type: 'Concert',
@@ -48,11 +72,27 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Kiméra',
+		date: '2019-08-19',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/407337869891253/',
+		venueName: 'Casa Tranzit',
+		canceled: ''
+	},
+	{
 		act: 'Rómeó és Júlia',
 		date: '2019-08-19',
 		type: 'Musical',
 		eventUrl: 'https://www.facebook.com/events/484795245600771/',
 		venueName: 'Opera Maghiară Cluj',
+		canceled: ''
+	},
+	{
+		act: 'Being Elsewhere',
+		date: '2019-08-21',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/482069085701598/',
+		venueName: 'Casa Tranzit',
 		canceled: ''
 	},
 	{
