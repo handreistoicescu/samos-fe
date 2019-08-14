@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Gy. Szabó Béla',
-		date: '2019-08-14',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/2906648286072947/',
-		venueName: 'Galeria Quadro',
-		canceled: ''
-	},
-	{
 		act: 'Romhány Veronika',
 		date: '2019-08-15',
 		type: 'Vernissage',
