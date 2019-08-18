@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'Lea Rasovzsky și Flaviu Cacoveanu',
-		date: '2019-08-17',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/364235144270382/',
-		venueName: 'MATCA artspace',
-		canceled: ''
-	},
-	{
-		act: 'Mammal Hands',
-		date: '2019-08-17',
-		type: 'Concert',
-		eventUrl: 'www.smidajazz.ro',
-		venueName: 'Smida',
-		canceled: ''
-	},
-	{
 		act: 'Kiméra',
 		date: '2019-08-19',
 		type: 'Concert',
