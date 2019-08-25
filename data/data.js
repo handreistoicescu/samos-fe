@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Barac',
-		date: '2019-08-24',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/356178915273758/',
-		venueName: 'CREIC',
-		canceled: ''
-	},
-	{
 		act: 'Lizz',
 		date: '2019-08-30',
 		type: 'DJ Set',
