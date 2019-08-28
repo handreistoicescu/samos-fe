@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Serabulho',
-		date: '2019-08-27',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/303454587197268/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
 		act: 'Lizz',
 		date: '2019-08-30',
 		type: 'DJ Set',
