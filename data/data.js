@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Lizz',
-		date: '2019-08-30',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/363349191228199/',
-		venueName: 'Cluj Arena',
-		canceled: ''
-	},
-	{
 		act: 'Wings of Desire (1987)',
 		date: '2019-08-31',
 		type: 'Movie',
