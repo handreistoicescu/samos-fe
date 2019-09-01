@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Wings of Desire (1987)',
-		date: '2019-08-31',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/413598925953312/',
-		venueName: 'Colectiva Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Lera Auerbach',
 		date: '2019-09-03',
 		type: 'Concert',
