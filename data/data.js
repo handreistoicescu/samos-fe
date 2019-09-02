@@ -58,7 +58,7 @@ exports.events = [
 	{
 		act: 'Amorf',
 		date: '2019-09-07',
-		type: 'DJ Set',
+		type: 'Live Set',
 		eventUrl: 'https://www.facebook.com/events/755564701567720/',
 		venueName: 'Sala Polivalentă',
 		canceled: ''
