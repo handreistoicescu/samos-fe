@@ -16,11 +16,27 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Decizia',
+		date: '2019-09-06',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/2202445510045943/',
+		venueName: 'Casa Tranzit',
+		canceled: ''
+	},
+	{
 		act: 'Apollo 11',
 		date: '2019-09-06',
 		type: 'Documentary',
 		eventUrl: 'https://www.facebook.com/events/483236582242121/',
 		venueName: 'Cinema Victoria',
+		canceled: ''
+	},
+	{
+		act: 'Canson',
+		date: '2019-09-06',
+		type: 'Live Set',
+		eventUrl: 'https://www.facebook.com/events/499335817564232/',
+		venueName: 'Gazette',
 		canceled: ''
 	},
 	{
@@ -56,11 +72,35 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Lulu',
+		date: '2019-09-08',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/2135603996740764/',
+		venueName: 'Teatrul Maghiar',
+		canceled: ''
+	},
+	{
 		act: 'Elisabeth Leonskaja',
 		date: '2019-09-10',
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/457902801631810/',
 		venueName: 'Filarmonica de Stat Transilvania',
+		canceled: ''
+	},
+	{
+		act: 'Totul e bine când se termină',
+		date: '2019-09-11',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/501216693786725/',
+		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
+		act: 'Totul e bine când se termină',
+		date: '2019-09-12',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/452376588686023/',
+		venueName: 'REACTOR de creație și experiment',
 		canceled: ''
 	},
 	{
@@ -101,6 +141,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/879865329051520/',
 		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'The Rumjacks',
+		date: '2019-09-18',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/1143827235799497/',
+		venueName: 'Flying Circus',
 		canceled: ''
 	}
 ];
