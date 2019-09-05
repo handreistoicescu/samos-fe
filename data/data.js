@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Charles Hamelin',
-		date: '2019-09-04',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2611424115558459/',
-		venueName: 'Filarmonica de Stat Transilvania',
-		canceled: ''
-	},
-	{
 		act: 'Monte Piano Trio',
 		date: '2019-09-05',
 		type: 'Concert',
