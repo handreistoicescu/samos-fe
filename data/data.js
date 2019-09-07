@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Decizia',
-		date: '2019-09-06',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/2202445510045943/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
-		act: 'Apollo 11',
-		date: '2019-09-06',
-		type: 'Documentary',
-		eventUrl: 'https://www.facebook.com/events/483236582242121/',
-		venueName: 'Cinema Victoria',
-		canceled: ''
-	},
-	{
-		act: 'Canson',
-		date: '2019-09-06',
-		type: 'Live Set',
-		eventUrl: 'https://www.facebook.com/events/499335817564232/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
 		act: 'Dans contemporan',
 		date: '2019-09-07',
 		type: 'Workshop',
@@ -133,6 +109,30 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/1143827235799497/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Lulu',
+		date: '2019-09-20',
+		type: 'Performance Art',
+		eventUrl: 'https://www.facebook.com/events/2135603996740764/',
+		venueName: 'Teatrul Maghiar',
+		canceled: ''
+	},
+	{
+		act: 'Taraf de Caliu',
+		date: '2019-09-20',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/293105484873039/',
+		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Giolì & Assia',
+		date: '2019-09-20',
+		type: 'Live Set',
+		eventUrl: 'https://www.facebook.com/events/391837114808187/',
+		venueName: 'Cluj Arena',
 		canceled: ''
 	}
 ];
