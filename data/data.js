@@ -1,45 +1,5 @@
 exports.events = [
 	{
-		act: 'Dans contemporan',
-		date: '2019-09-07',
-		type: 'Workshop',
-		eventUrl: 'https://www.facebook.com/events/477585419732259/',
-		venueName: 'Fabrica de Pensule',
-		canceled: ''
-	},
-	{
-		act: 'Primărie',
-		date: '2019-09-07',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/517000599069357/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Amorf',
-		date: '2019-09-07',
-		type: 'Live Set',
-		eventUrl: 'https://www.facebook.com/events/755564701567720/',
-		venueName: 'Sala Polivalentă',
-		canceled: ''
-	},
-	{
-		act: 'Ziyu He',
-		date: '2019-09-08',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/583320192190470/',
-		venueName: 'Filarmonica de Stat Transilvania',
-		canceled: ''
-	},
-	{
-		act: 'Lulu',
-		date: '2019-09-08',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/2135603996740764/',
-		venueName: 'Teatrul Maghiar',
-		canceled: ''
-	},
-	{
 		act: 'Elisabeth Leonskaja',
 		date: '2019-09-10',
 		type: 'Concert',
