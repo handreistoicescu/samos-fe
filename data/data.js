@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Elisabeth Leonskaja',
-		date: '2019-09-10',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/457902801631810/',
-		venueName: 'Filarmonica de Stat Transilvania',
-		canceled: ''
-	},
-	{
 		act: 'Totul e bine când se termină',
 		date: '2019-09-11',
 		type: 'Performance Art',
