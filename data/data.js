@@ -1,14 +1,6 @@
 exports.events = [
 	{
 		act: 'Totul e bine când se termină',
-		date: '2019-09-11',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/501216693786725/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Totul e bine când se termină',
 		date: '2019-09-12',
 		type: 'Performance Art',
 		eventUrl: 'https://www.facebook.com/events/452376588686023/',
@@ -85,6 +77,22 @@ exports.events = [
 		type: 'Live Set',
 		eventUrl: 'https://www.facebook.com/events/391837114808187/',
 		venueName: 'Cluj Arena',
+		canceled: ''
+	},
+	{
+		act: 'Dans contemporan',
+		date: '2019-09-22',
+		type: 'Workshop',
+		eventUrl: 'https://www.facebook.com/events/477585419732259/',
+		venueName: 'Fabrica de Pensule',
+		canceled: ''
+	},
+	{
+		act: 'Stoned Jesus',
+		date: '2019-09-26',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/380005205962990/',
+		venueName: 'Flying Circus',
 		canceled: ''
 	}
 ];
