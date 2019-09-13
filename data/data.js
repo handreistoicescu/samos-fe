@@ -1,18 +1,18 @@
 exports.events = [
 	{
-		act: 'Totul e bine când se termină',
-		date: '2019-09-12',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/452376588686023/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
 		act: 'Downfall of Gaia',
 		date: '2019-09-13',
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/380775452415400/',
 		venueName: 'Form Space',
+		canceled: ''
+	},
+	{
+		act: 'Oana Cliţan',
+		date: '2019-09-13',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/2526962710867961/',
+		venueName: 'White Cuib',
 		canceled: ''
 	},
 	{
@@ -29,6 +29,14 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/619327428534323/',
 		venueName: 'Filarmonica de Stat Transilvania',
+		canceled: ''
+	},
+	{
+		act: 'Rumble Fish',
+		date: '2019-09-14',
+		type: 'Movie',
+		eventUrl: 'https://www.facebook.com/events/1386198151528427/',
+		venueName: 'Colectiva Gazette',
 		canceled: ''
 	},
 	{
@@ -56,6 +64,14 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Nicolae Grigorescu',
+		date: '2019-09-18',
+		type: 'Vernissage',
+		eventUrl: 'https://www.facebook.com/events/485948498621826/',
+		venueName: 'Muzeul de artă',
+		canceled: ''
+	},
+	{
 		act: 'Lulu',
 		date: '2019-09-20',
 		type: 'Performance Art',
@@ -80,6 +96,14 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'În umbra marelui plan',
+		date: '2019-09-21',
+		type: 'Theatre',
+		eventUrl: 'https://www.facebook.com/events/1677549462377441/',
+		venueName: 'REACTOR de creație și experiment',
+		canceled: ''
+	},
+	{
 		act: 'Dans contemporan',
 		date: '2019-09-22',
 		type: 'Workshop',
@@ -88,11 +112,51 @@ exports.events = [
 		canceled: ''
 	},
 	{
+		act: 'Monștri',
+		date: '2019-09-25',
+		type: 'Movie',
+		eventUrl: 'https://www.facebook.com/events/379889556275652/',
+		venueName: 'Cinema Victoria',
+		canceled: ''
+	},
+	{
 		act: 'Stoned Jesus',
 		date: '2019-09-26',
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/380005205962990/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'One Burning Match',
+		date: '2019-09-30',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2557925154268082/',
+		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'Sânziana și Pepelea',
+		date: '2019-10-01',
+		type: 'Theatre',
+		eventUrl: 'https://www.facebook.com/events/2204948262948074/',
+		venueName: 'Teatrul Naţional',
+		canceled: ''
+	},
+	{
+		act: 'Varsovie',
+		date: '2019-10-04',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/1659755900824780/',
+		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Cassus',
+		date: '2019-10-06',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/734478917021069/',
+		venueName: 'Urania Palace',
 		canceled: ''
 	}
 ];
