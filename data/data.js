@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Kentawr',
-		date: '2019-09-16',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/879865329051520/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
 		act: 'The Rumjacks',
 		date: '2019-09-18',
 		type: 'Concert',
@@ -93,6 +85,30 @@ exports.events = [
 		type: 'Concert',
 		eventUrl: 'https://www.facebook.com/events/380005205962990/',
 		venueName: 'Flying Circus',
+		canceled: ''
+	},
+	{
+		act: 'Henry Saiz',
+		date: '2019-09-28',
+		type: 'DJ Set',
+		eventUrl: 'https://www.facebook.com/events/1314124728747843/',
+		venueName: 'Club Midi',
+		canceled: ''
+	},
+	{
+		act: 'One Burning Match',
+		date: '2019-09-30',
+		type: 'Concert',
+		eventUrl: 'https://www.facebook.com/events/2557925154268082/',
+		venueName: 'Urania Palace',
+		canceled: ''
+	},
+	{
+		act: 'Sânziana și Pepelea',
+		date: '2019-10-01',
+		type: 'Theatre',
+		eventUrl: 'https://www.facebook.com/events/2204948262948074/',
+		venueName: 'Teatrul Naţional',
 		canceled: ''
 	}
 ];
