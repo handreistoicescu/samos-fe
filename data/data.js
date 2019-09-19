@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'The Rumjacks',
-		date: '2019-09-18',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/1143827235799497/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
-		act: 'Nicolae Grigorescu',
-		date: '2019-09-18',
-		type: 'Vernissage',
-		eventUrl: 'https://www.facebook.com/events/485948498621826/',
-		venueName: 'Muzeul de artă',
-		canceled: ''
-	},
-	{
 		act: 'Lulu',
 		date: '2019-09-20',
 		type: 'Performance Art',
