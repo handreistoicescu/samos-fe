@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Monștri',
-		date: '2019-09-25',
-		type: 'Movie',
-		eventUrl: 'https://www.facebook.com/events/379889556275652/',
-		venueName: 'Cinema Victoria',
-		canceled: ''
-	},
-	{
 		act: 'Stoned Jesus',
 		date: '2019-09-26',
 		type: 'Concert',
