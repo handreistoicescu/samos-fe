@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: 'Stoned Jesus',
-		date: '2019-09-26',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/380005205962990/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
 		act: 'Henry Saiz',
 		date: '2019-09-28',
 		type: 'DJ Set',
