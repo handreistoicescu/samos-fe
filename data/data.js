@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: "ABUZ - mâine plec acasă",
-		date: "2019-10-06",
-		type: "Theatre",
-		eventUrl: "https://www.facebook.com/events/240624160197237/",
-		venueName: "REACTOR de creație și experiment",
-		canceled: ""
-	},
-	{
-		act: "Cold Brats",
-		date: "2019-10-06",
-		type: "Concert",
-		eventUrl: "https://www.facebook.com/events/734478917021069/",
-		venueName: "Urania Palace",
-		canceled: ""
-	},
-	{
-		act: "Arapu",
-		date: "2019-10-06",
-		type: "DJ Set",
-		eventUrl: "https://www.facebook.com/events/247999449463356/",
-		venueName: "Mioritmic",
-		canceled: ""
-	},
-	{
 		act: "JOKER",
 		date: "2019-10-07",
 		type: "Movie",
