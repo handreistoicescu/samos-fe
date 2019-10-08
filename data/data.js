@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: "JOKER",
-		date: "2019-10-07",
-		type: "Movie",
-		eventUrl: "https://www.facebook.com/events/1034672666703152/",
-		venueName: "Cinema Victoria",
-		canceled: ""
-	},
-	{
 		act: "Calatoria Fantastică a Maronei",
 		date: "2019-10-08",
 		type: "Movie",
