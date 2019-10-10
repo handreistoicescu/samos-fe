@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		"act": "Ovidiu Anton",
-		"date": "2019-10-09",
-		"type": "Discussion",
-		"eventUrl": "https://www.facebook.com/events/519574281943899/",
-		"venueName": "Fabrica de Pensule",
-		"canceled": ""
-	},
-	{
-		"act": "Hooverphonic",
-		"date": "2019-10-09",
-		"type": "Concert",
-		"eventUrl": "https://www.facebook.com/events/322095941840382/",
-		"venueName": "Form Space",
-		"canceled": ""
-	},
-	{
 		"act": "Mirage",
 		"date": "2019-10-10",
 		"type": "Performance Art",
@@ -173,6 +157,22 @@ exports.events = [
 		"type": "Movie",
 		"eventUrl": "https://www.facebook.com/events/579152832579231/",
 		"venueName": "Cinema Victoria",
+		"canceled": ""
+	},
+	{
+		"act": "KUMM",
+		"date": "2019-10-24",
+		"type": "Concert",
+		"eventUrl": "https://www.facebook.com/events/414428322842944/",
+		"venueName": "Form Space",
+		"canceled": ""
+	},
+	{
+		"act": "Convictions",
+		"date": "2019-10-24",
+		"type": "Concert",
+		"eventUrl": "https://www.facebook.com/events/389729068334795/",
+		"venueName": "Flying Circus",
 		"canceled": ""
 	}
 ]
