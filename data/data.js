@@ -1,109 +1,5 @@
 exports.events = [
 	{
-		"act": "Mirage",
-		"date": "2019-10-10",
-		"type": "Performance Art",
-		"eventUrl": "https://www.facebook.com/events/430832624219905/",
-		"venueName": "Universitatea Sapienția",
-		"canceled": ""
-	},
-	{
-		"act": "99,6%",
-		"date": "2019-10-10",
-		"type": "Theatre",
-		"eventUrl": "https://www.facebook.com/events/1391164044384793/",
-		"venueName": "REACTOR de creație și experiment",
-		"canceled": ""
-	},
-	{
-		"act": "Renegades Of Jazz",
-		"date": "2019-10-10",
-		"type": "Concert",
-		"eventUrl": "https://www.facebook.com/events/2122963434665218/",
-		"venueName": "Atelier Cafe",
-		"canceled": ""
-	},
-	{
-		"act": "Enric Fort Ballester",
-		"date": "2019-10-11",
-		"type": "Vernissage",
-		"eventUrl": "https://www.facebook.com/events/2374257079492147/",
-		"venueName": "Quadro 21 Gallery",
-		"canceled": ""
-	},
-	{
-		"act": "BLIND DATE #3",
-		"date": "2019-10-11",
-		"type": "Vernissage",
-		"eventUrl": "https://www.facebook.com/events/2829763377053395/",
-		"venueName": "Lateral ArtSpace",
-		"canceled": ""
-	},
-	{
-		"act": "Totally F***ed Up",
-		"date": "2019-10-11",
-		"type": "Movie",
-		"eventUrl": "https://www.facebook.com/events/1466593046813693/",
-		"venueName": "Cinema Arta",
-		"canceled": ""
-	},
-	{
-		"act": "Faster",
-		"date": "2019-10-11",
-		"type": "DJ Set",
-		"eventUrl": "https://www.facebook.com/events/459882141280058/",
-		"venueName": "Gazette",
-		"canceled": ""
-	},
-	{
-		"act": "Body of Defiance",
-		"date": "2019-10-12",
-		"type": "Theatre",
-		"eventUrl": "https://www.facebook.com/events/2391777727705584/",
-		"venueName": "REACTOR de creație și experiment",
-		"canceled": ""
-	},
-	{
-		"act": "Tarnation",
-		"date": "2019-10-12",
-		"type": "Movie",
-		"eventUrl": "https://www.facebook.com/events/1466593046813693/",
-		"venueName": "Cinema Arta",
-		"canceled": ""
-	},
-	{
-		"act": "Tulbure",
-		"date": "2019-10-12",
-		"type": "DJ Set",
-		"eventUrl": "https://www.facebook.com/events/531160484319376/",
-		"venueName": "Club Midi",
-		"canceled": ""
-	},
-	{
-		"act": "Aleksa Alaska",
-		"date": "2019-10-12",
-		"type": "DJ Set",
-		"eventUrl": "https://www.facebook.com/events/2603151116409643/",
-		"venueName": "Gazette",
-		"canceled": ""
-	},
-	{
-		"act": "Micul nostru centenar",
-		"date": "2019-10-13",
-		"type": "Theatre",
-		"eventUrl": "https://www.facebook.com/events/606351703102284/",
-		"venueName": "REACTOR de creație și experiment",
-		"canceled": ""
-	},
-	{
-		"act": "The Watermelon Woman",
-		"date": "2019-10-13",
-		"type": "Movie",
-		"eventUrl": "https://www.facebook.com/events/1466593046813693/",
-		"venueName": "Cinema Arta",
-		"canceled": ""
-	},
-	{
 		"act": "Thomas Bîrzan",
 		"date": "2019-10-14",
 		"type": "Workshop",
@@ -128,6 +24,38 @@ exports.events = [
 		"canceled": ""
 	},
 	{
+		"act": "Șerban Savu",
+		"date": "2019-10-17",
+		"type": "Vernissage",
+		"eventUrl": "https://www.facebook.com/events/956632491336038/",
+		"venueName": "Muzeul Național de Istorie",
+		"canceled": ""
+	},
+	{
+		"act": "Monrovia, Indiana",
+		"date": "2019-10-17",
+		"type": "Movie",
+		"eventUrl": "https://www.facebook.com/events/527172371192229/",
+		"venueName": "Cinema Victoria",
+		"canceled": ""
+	},
+	{
+		"act": "Les Poissons Voyageurs",
+		"date": "2019-10-17",
+		"type": "Concert",
+		"eventUrl": "https://www.facebook.com/events/2956871311009147/",
+		"venueName": "Atelier Cafe",
+		"canceled": ""
+	},
+	{
+		"act": "Laylla Dane",
+		"date": "2019-10-18",
+		"type": "DJ Set",
+		"eventUrl": "https://www.facebook.com/events/412932629410612/",
+		"venueName": "Gazette",
+		"canceled": ""
+	},
+	{
 		"act": "Barbara Boeing",
 		"date": "2019-10-18",
 		"type": "DJ Set",
@@ -136,11 +64,27 @@ exports.events = [
 		"canceled": ""
 	},
 	{
+		"act": "Îmi place sushi",
+		"date": "2019-10-19",
+		"type": "Theatre",
+		"eventUrl": "https://www.facebook.com/events/438268103485628/",
+		"venueName": "REACTOR de creație și experiment",
+		"canceled": ""
+	},
+	{
 		"act": "Perturbator",
 		"date": "2019-10-19",
 		"type": "Concert",
 		"eventUrl": "https://www.facebook.com/events/1174228352745395/",
 		"venueName": "Form Space",
+		"canceled": ""
+	},
+	{
+		"act": "Pisica lui Schrödinger",
+		"date": "2019-10-20",
+		"type": "Performance Art",
+		"eventUrl": "https://www.facebook.com/events/409744649712104/",
+		"venueName": "Universitatea Sapienția",
 		"canceled": ""
 	},
 	{
@@ -160,6 +104,14 @@ exports.events = [
 		"canceled": ""
 	},
 	{
+		"act": "Addressless",
+		"date": "2019-10-24",
+		"type": "Theatre",
+		"eventUrl": "https://www.facebook.com/events/1511467012328796/",
+		"venueName": "Fabrica de Pensule",
+		"canceled": ""
+	},
+	{
 		"act": "KUMM",
 		"date": "2019-10-24",
 		"type": "Concert",
@@ -173,6 +125,102 @@ exports.events = [
 		"type": "Concert",
 		"eventUrl": "https://www.facebook.com/events/389729068334795/",
 		"venueName": "Flying Circus",
+		"canceled": ""
+	},
+	{
+		"act": "Julien Lefort",
+		"date": "2019-10-25",
+		"type": "Discussion",
+		"eventUrl": "https://www.facebook.com/events/534941890586476",
+		"venueName": "ClujHub",
+		"canceled": ""
+	},
+	{
+		"act": "Swans: Where Does A Body End?",
+		"date": "2019-10-25",
+		"type": "Documentary",
+		"eventUrl": "https://www.facebook.com/events/960432744317001/",
+		"venueName": "Cinema Arta",
+		"canceled": ""
+	},
+	{
+		"act": "De Staat",
+		"date": "2019-10-25",
+		"type": "Concert",
+		"eventUrl": "https://www.facebook.com/events/961480030704398/",
+		"venueName": "Form Space",
+		"canceled": ""
+	},
+	{
+		"act": "Neverdogs",
+		"date": "2019-10-25",
+		"type": "DJ Set",
+		"eventUrl": "https://www.facebook.com/events/1176743659183736/",
+		"venueName": "Club Midi",
+		"canceled": ""
+	},
+	{
+		"act": "Swans: Where Does A Body End?",
+		"date": "2019-10-25",
+		"type": "Documentary",
+		"eventUrl": "https://www.facebook.com/events/960432744317001/",
+		"venueName": "Cinema Arta",
+		"canceled": ""
+	},
+	{
+		"act": "De Staat",
+		"date": "2019-10-25",
+		"type": "Concert",
+		"eventUrl": "https://www.facebook.com/events/961480030704398/",
+		"venueName": "Form Space",
+		"canceled": ""
+	},
+	{
+		"act": "Neverdogs",
+		"date": "2019-10-25",
+		"type": "DJ Set",
+		"eventUrl": "https://www.facebook.com/events/1176743659183736/",
+		"venueName": "Club Midi",
+		"canceled": ""
+	},
+	{
+		"act": "Michael Gira & Norman Westberg",
+		"date": "2019-10-26",
+		"type": "Documentary",
+		"eventUrl": "https://www.facebook.com/events/683121002192358/",
+		"venueName": "Cinema Arta",
+		"canceled": ""
+	},
+	{
+		"act": "Acid Mothers Temple",
+		"date": "2019-10-26",
+		"type": "Concert",
+		"eventUrl": "https://www.facebook.com/events/332402184337486/",
+		"venueName": "Flying Circus",
+		"canceled": ""
+	},
+	{
+		"act": "Dinsubsol",
+		"date": "2019-10-26",
+		"type": "DJ Set",
+		"eventUrl": "https://www.facebook.com/events/450224112230640/",
+		"venueName": "Club Midi",
+		"canceled": ""
+	},
+	{
+		"act": "Dopethrone",
+		"date": "2019-10-27",
+		"type": "Concert",
+		"eventUrl": "https://www.facebook.com/events/675759286201875/",
+		"venueName": "Flying Circus",
+		"canceled": ""
+	},
+	{
+		"act": "Xzibit",
+		"date": "2019-10-27",
+		"type": "Concert",
+		"eventUrl": "https://www.facebook.com/events/2273383126212755/",
+		"venueName": "Form Space",
 		"canceled": ""
 	}
 ]
