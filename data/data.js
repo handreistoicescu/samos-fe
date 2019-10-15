@@ -1,14 +1,6 @@
 exports.events = [
 	{
 		"act": "Thomas Bîrzan",
-		"date": "2019-10-14",
-		"type": "Workshop",
-		"eventUrl": "https://www.facebook.com/events/386270928929859/",
-		"venueName": "Fabrica de Pensule",
-		"canceled": ""
-	},
-	{
-		"act": "Thomas Bîrzan",
 		"date": "2019-10-15",
 		"type": "Workshop",
 		"eventUrl": "https://www.facebook.com/events/386270928929859/",
