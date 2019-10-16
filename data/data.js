@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		"act": "Thomas Bîrzan",
-		"date": "2019-10-15",
-		"type": "Workshop",
-		"eventUrl": "https://www.facebook.com/events/386270928929859/",
-		"venueName": "Fabrica de Pensule",
-		"canceled": ""
-	},
-	{
-		"act": "Föllakzoid",
-		"date": "2019-10-15",
-		"type": "Live Set",
-		"eventUrl": "https://www.facebook.com/events/950164308697397/",
-		"venueName": "Form Space",
-		"canceled": ""
-	},
-	{
 		"act": "Șerban Savu",
 		"date": "2019-10-17",
 		"type": "Vernissage",
