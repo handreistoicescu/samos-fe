@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		"act": "Șerban Savu",
-		"date": "2019-10-17",
-		"type": "Vernissage",
-		"eventUrl": "https://www.facebook.com/events/956632491336038/",
-		"venueName": "Muzeul Național de Istorie",
-		"canceled": ""
-	},
-	{
-		"act": "Monrovia, Indiana",
-		"date": "2019-10-17",
-		"type": "Movie",
-		"eventUrl": "https://www.facebook.com/events/527172371192229/",
-		"venueName": "Cinema Victoria",
-		"canceled": ""
-	},
-	{
-		"act": "Les Poissons Voyageurs",
-		"date": "2019-10-17",
-		"type": "Concert",
-		"eventUrl": "https://www.facebook.com/events/2956871311009147/",
-		"venueName": "Atelier Cafe",
-		"canceled": ""
-	},
-	{
 		"act": "Laylla Dane",
 		"date": "2019-10-18",
 		"type": "DJ Set",
