@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: "Pisica lui Schrödinger",
-		date: "2019-10-20",
-		type: "Performance Art",
-		eventUrl: "https://www.facebook.com/events/409744649712104/",
-		venueName: "Universitatea Sapienția",
-		canceled: ""
-	},
-	{
-		act: "In the Name of Love",
-		date: "2019-10-20",
-		type: "Theatre",
-		eventUrl: "https://www.facebook.com/events/1505915426217489/",
-		venueName: "REACTOR de creație și experiment",
-		canceled: ""
-	},
-	{
 		act: "BANFF World Tour",
 		date: "2019-10-22",
 		type: "Movie",
