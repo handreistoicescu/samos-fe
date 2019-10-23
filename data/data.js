@@ -1,13 +1,5 @@
 exports.events = [
 	{
-		act: "BANFF World Tour",
-		date: "2019-10-22",
-		type: "Movie",
-		eventUrl: "https://www.facebook.com/events/579152832579231/",
-		venueName: "Cinema Victoria",
-		canceled: ""
-	},
-	{
 		act: "Addressless",
 		date: "2019-10-24",
 		type: "Theatre",
@@ -124,6 +116,14 @@ exports.events = [
 		date: "2019-10-27",
 		type: "Concert",
 		eventUrl: "https://www.facebook.com/events/2273383126212755/",
+		venueName: "Form Space",
+		canceled: ""
+	},
+	{
+		act: "Shahmen",
+		date: "2019-11-06",
+		type: "Concert",
+		eventUrl: "https://www.facebook.com/events/416138199018719/",
 		venueName: "Form Space",
 		canceled: ""
 	}
