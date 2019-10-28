@@ -1,45 +1,5 @@
 exports.events = [
 	{
-		act: "Watermark",
-		date: "2019-10-27",
-		type: "Movie",
-		eventUrl: "https://www.facebook.com/events/757997557946261/",
-		venueName: "Cinema Arta",
-		canceled: ""
-	},
-	{
-		act: "This is where we draw the line",
-		date: "2019-10-27",
-		type: "Performance Art",
-		eventUrl: "https://www.facebook.com/events/2512791028956201/",
-		venueName: "Fabrica de Pensule",
-		canceled: ""
-	},
-	{
-		act: "Fire At Will",
-		date: "2019-10-27",
-		type: "Concert",
-		eventUrl: "https://www.facebook.com/events/431140030758810/",
-		venueName: "Urania Palace",
-		canceled: "TRUE"
-	},
-	{
-		act: "Dopethrone",
-		date: "2019-10-27",
-		type: "Concert",
-		eventUrl: "https://www.facebook.com/events/675759286201875/",
-		venueName: "Flying Circus",
-		canceled: ""
-	},
-	{
-		act: "Xzibit",
-		date: "2019-10-27",
-		type: "Concert",
-		eventUrl: "https://www.facebook.com/events/2273383126212755/",
-		venueName: "Form Space",
-		canceled: ""
-	},
-	{
 		act: "Paul-André Bempéchat",
 		date: "2019-10-28",
 		type: "Conference",
