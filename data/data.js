@@ -1,61 +1,5 @@
 exports.events = [
 	{
-		act: "Paul-André Bempéchat",
-		date: "2019-10-28",
-		type: "Conference",
-		eventUrl: "https://www.facebook.com/events/444736486158339/",
-		venueName: "Muzeul de artă",
-		canceled: ""
-	},
-	{
-		act: "Reverse Discourse",
-		date: "2019-10-28",
-		type: "Theatre",
-		eventUrl: "https://www.facebook.com/events/446817215962844/",
-		venueName: "REACTOR de creație și experiment",
-		canceled: "TRUE"
-	},
-	{
-		act: "Corina Oprea",
-		date: "2019-10-29",
-		type: "Vernissage",
-		eventUrl: "https://www.facebook.com/events/922275428141435/",
-		venueName: "Atelier Patru",
-		canceled: ""
-	},
-	{
-		act: "Un Someș mai curat",
-		date: "2019-10-29",
-		type: "Discussion",
-		eventUrl: "https://www.facebook.com/events/757997557946261/",
-		venueName: "Cinema Arta",
-		canceled: ""
-	},
-	{
-		act: "Totul e bine când se termină cu bine",
-		date: "2019-10-29",
-		type: "Discussion",
-		eventUrl: "https://www.facebook.com/events/1414979238657907/",
-		venueName: "Fabrica de Pensule",
-		canceled: ""
-	},
-	{
-		act: "Totul e foarte normal",
-		date: "2019-10-29",
-		type: "Theatre",
-		eventUrl: "https://www.facebook.com/events/434279677215356/",
-		venueName: "REACTOR de creație și experiment",
-		canceled: ""
-	},
-	{
-		act: "The Balkan Coconut Tree",
-		date: "2019-10-29",
-		type: "Concert",
-		eventUrl: "https://www.facebook.com/events/758145704624613/",
-		venueName: "Atelier Cafe",
-		canceled: ""
-	},
-	{
 		act: "M. Houellebecq",
 		date: "2019-10-30",
 		type: "Book club",
@@ -197,6 +141,30 @@ exports.events = [
 		type: "Concert",
 		eventUrl: "https://www.facebook.com/events/641538432993161/",
 		venueName: "Flying Circus",
+		canceled: ""
+	},
+	{
+		act: "Amenra",
+		date: "2019-11-09",
+		type: "Concert",
+		eventUrl: "https://www.facebook.com/events/472093046870679/",
+		venueName: "Form Space",
+		canceled: ""
+	},
+	{
+		act: "Dulce-acrișor",
+		date: "2019-11-12",
+		type: "Theatre",
+		eventUrl: "https://www.facebook.com/events/257345365194932/",
+		venueName: "ZUG.zone",
+		canceled: ""
+	},
+	{
+		act: "Bogdan Vaida",
+		date: "2019-11-12",
+		type: "Concert",
+		eventUrl: "https://www.facebook.com/events/1505409752935603/",
+		venueName: "REACTOR de creație și experiment",
 		canceled: ""
 	}
 ];
