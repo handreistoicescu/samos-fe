@@ -1,45 +1,5 @@
 exports.events = [
 	{
-		act: 'Sheldon Drake',
-		date: '2019-11-01',
-		type: 'Live Set',
-		eventUrl: 'https://www.facebook.com/events/384025882483859/',
-		venueName: 'Gazette',
-		canceled: ''
-	},
-	{
-		act: 'Saboar',
-		date: '2019-11-01',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/522826144929354/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
-		act: 'Totul e bine când se termină',
-		date: '2019-11-02',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/1402631273224731/',
-		venueName: 'REACTOR de creație și experiment',
-		canceled: ''
-	},
-	{
-		act: 'Aeminium',
-		date: '2019-11-02',
-		type: 'DJ Set',
-		eventUrl: 'https://www.facebook.com/events/434091853907177/',
-		venueName: 'Urania Palace',
-		canceled: ''
-	},
-	{
-		act: 'PE EI!',
-		date: '2019-11-03',
-		type: 'Theatre',
-		eventUrl: 'https://www.facebook.com/events/2157734934528821/',
-		venueName: 'Casa Tranzit',
-		canceled: ''
-	},
-	{
 		act: 'NEVERLAND',
 		date: '2019-11-05',
 		type: 'Performance Art',
