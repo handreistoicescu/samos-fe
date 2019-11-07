@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: 'NEVERLAND',
-		date: '2019-11-05',
-		type: 'Performance Art',
-		eventUrl: 'https://www.facebook.com/events/2404863549611911/',
-		venueName: 'ZUG.zone',
-		canceled: ''
-	},
-	{
-		act: 'Shahmen',
-		date: '2019-11-06',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/416138199018719/',
-		venueName: 'Form Space',
-		canceled: ''
-	},
-	{
 		act: 'Nightstalker',
 		date: '2019-11-07',
 		type: 'Concert',
