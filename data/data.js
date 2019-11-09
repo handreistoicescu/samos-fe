@@ -1,29 +1,5 @@
 exports.events = [
 	{
-		act: 'Nightstalker',
-		date: '2019-11-07',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/2175394965919529/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
-		act: 'Nunki Bay Starship',
-		date: '2019-11-07',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/541626589935639/',
-		venueName: 'Atelier Cafe',
-		canceled: ''
-	},
-	{
-		act: 'E-an-na',
-		date: '2019-11-08',
-		type: 'Concert',
-		eventUrl: 'https://www.facebook.com/events/641538432993161/',
-		venueName: 'Flying Circus',
-		canceled: ''
-	},
-	{
 		act: 'Amenra',
 		date: '2019-11-09',
 		type: 'Concert',
