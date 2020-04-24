@@ -1,21 +1,5 @@
 exports.events = [
 	{
-		act: "Ziua Cărții",
-		date: "2020-04-23",
-		type: "Book Club",
-		eventUrl: "https://www.facebook.com/events/159948842017061/",
-		venueName: "Cărturești Cluj",
-		canceled: "",
-	},
-	{
-		act: "Giacomo Puccini: Tosca",
-		date: "2020-04-23",
-		type: "Opera",
-		eventUrl: "https://www.facebook.com/events/681840782577980/",
-		venueName: "Opera Maghiară",
-		canceled: "",
-	},
-	{
 		act: "Gabriel Bota",
 		date: "2020-04-24",
 		type: "Gathering",
