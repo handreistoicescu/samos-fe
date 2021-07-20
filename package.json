@@ -4,7 +4,6 @@
 	"description": "svmic",
 	"main": "index.html",
 	"scripts": {
-		"test": "ok",
 		"start": "gulp",
 		"build": "gulp build"
 	},
