@@ -23,7 +23,6 @@ var inputMain = "./scss/main.scss";
 var output = siteOutput + "/css";
 var inputTemplates = "./pages/*.html";
 var sassOptions = { outputStyle: "expanded" };
-var samosEvents = require("./data/data");
 
 // File where the favicon markups are stored
 var FAVICON_DATA_FILE = "faviconData.json";
@@ -61,9 +60,11 @@ function nunjucksTask() {
 		environment.addFilter("date", dateFilter);
 	};
 
-	const getDataForFile = function (file) {
+	const getDataForFile = function () {
+		const fileData = require("./data/data");
+
 		return {
-			events: samosEvents.events,
+			...fileData,
 		};
 	};
 
