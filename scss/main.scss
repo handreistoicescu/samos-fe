@@ -1,270 +1,272 @@
 // main.scss
 
 // Imports
-@import '../node_modules/normalize.css/normalize';
+@import "../node_modules/normalize.css/normalize";
 
 @font-face {
-  font-family: system;
-  font-style: normal;
-  font-weight: 300;
-  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+	font-family: system;
+	font-style: normal;
+	font-weight: 300;
+	src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"),
+		local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"),
+		local("Roboto-Light"), local("DroidSans"), local("Tahoma");
 }
 
 html {
-  font-family: 'system', sans-serif;
-  font-size: 18px;
+	font-family: "system", sans-serif;
+	font-size: 18px;
 }
 
 h1 {
-  margin: 0;
+	margin: 0;
 }
 
 h2 {
-  font-size: 1rem;
-  margin: 0;
+	font-size: 1rem;
+	margin: 0;
 }
 
 p {
-  margin: 0;
+	margin: 0;
 }
 
 .color-violet {
-  color: #9A14CC;
+	color: #9a14cc;
 }
 
 .color-dark-green {
-  color: #4a5a4a;
+	color: #4a5a4a;
 }
 
 .m-8px {
-  margin: 8px;
+	margin: 8px;
 }
 
 .mb-24px {
-  margin-bottom: 24px;
+	margin-bottom: 24px;
 }
 
 .mt-24px {
-  margin-top: 24px;
+	margin-top: 24px;
 }
 
 .mb-12px {
-  margin-bottom: 12px;
+	margin-bottom: 12px;
 }
 
 .mt-16px {
-  margin-top: 16px;
+	margin-top: 16px;
 }
 
 .my-24px {
-  margin-bottom: 24px;
-  margin-top: 24px;
+	margin-bottom: 24px;
+	margin-top: 24px;
 }
 
 .mx-20px {
-  margin-left: 20px;
-  margin-right: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 .mb-8px {
-  margin-bottom: 8px;
+	margin-bottom: 8px;
 }
 
 .mt-8px {
-  margin-top: 8px;
+	margin-top: 8px;
 }
 
 .px-20px {
-  padding-left: 20px;
-  padding-right: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .py-8px {
-  padding-bottom: 8px;
-  padding-top: 8px;
+	padding-bottom: 8px;
+	padding-top: 8px;
 }
 
 .py-24px {
-  padding-bottom: 24px;
-  padding-top: 24px;
+	padding-bottom: 24px;
+	padding-top: 24px;
 }
 
 .px-6px {
-  padding-left: 6px;
-  padding-right: 6px;
+	padding-left: 6px;
+	padding-right: 6px;
 }
 
 .py-2px {
-  padding-bottom: 2px;
-  padding-top: 2px;
+	padding-bottom: 2px;
+	padding-top: 2px;
 }
 
 .text-normal {
-  font-size: 1rem;
+	font-size: 1rem;
 }
 
 .text-small {
-  font-size: 0.6rem;
+	font-size: 0.6rem;
 }
 
 .text-medium {
-  font-size: 14px;
+	font-size: 14px;
 }
 
 .font-normal {
-  font-weight: normal;
+	font-weight: normal;
 }
 
 .font-bold {
-  font-weight: 700;
+	font-weight: 700;
 }
 
 .font-italic {
-  font-style: italic;
+	font-style: italic;
 }
 
 .font-style-normal {
-  font-style: normal;
+	font-style: normal;
 }
 
 .no-underline {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 .bg-color-lime {
-  background-color: lime;
+	background-color: lime;
 }
 
 .height-64px {
-  height: 64px;
+	height: 64px;
 }
 
 .fill-violet {
-  fill: #9A14CC;
+	fill: #9a14cc;
 }
 
 .flex {
-  display: flex;
+	display: flex;
 }
 
 .flex-col {
-  flex-direction: column;
+	flex-direction: column;
 }
 
 .items-center {
-  align-items: center;
+	align-items: center;
 }
 
 ///////////////
 
 .item-container .item-container__item {
-  &:nth-child(2n + 1) {
-    background-color: #f5f5f5;
-  }
-  &:nth-child(2n) {
-    background-color: #e0e0e0;
-  }
+	&:nth-child(2n + 1) {
+		background-color: #f5f5f5;
+	}
+	&:nth-child(2n) {
+		background-color: #e0e0e0;
+	}
 }
 
 .badge {
-  flex-basis: 3rem; // TODO: replace magic number
-  margin-right: 10px;
-  text-align: center;
+	flex-basis: 3rem; // TODO: replace magic number
+	margin-right: 10px;
+	text-align: center;
 }
 
-  .badge__day-number {
-    font-size: 24px;
-  }
+.badge__day-number {
+	font-size: 24px;
+}
 
-  .badge__day-name {
-    font-size: 10px;
-  }
+.badge__day-name {
+	font-size: 10px;
+}
 
-  .badge__canceled {
-    background-color: red;
-    color: white;
-    font-size: 10px;
-  }
+.badge__canceled {
+	background-color: red;
+	color: white;
+	font-size: 10px;
+}
 
 .info-elem {
-  flex: 1;
+	flex: 1;
 }
 
 // Color scheme trial
 
 .fill-salmon-01 {
-  fill: #F63700;
+	fill: #f63700;
 }
 
 .fill-deepblue {
-  fill: #004853;
+	fill: #004853;
 }
 
 .color-deepblue {
-  color: #004853;
+	color: #004853;
 }
 
 .color-gray {
-  color: gray;
+	color: gray;
 }
 
 .color-lightestblue {
-  color: #00B9BD;
+	color: #00b9bd;
 }
 
 .color-salmon-01 {
-  color: #F63700;
+	color: #f63700;
 }
 
 .color-orange-01 {
-  color: #FB6900;
+	color: #fb6900;
 }
 
 .bg-lighterblue {
-  background-color: #007E80;
+	background-color: #007e80;
 }
 
 .bg-deepblue {
-  background-color: #004853;
+	background-color: #004853;
 }
 
 .bg-salmon-01 {
-  background-color: #F63700;
+	background-color: #f63700;
 }
 
 .border-stylish {
-  position: relative;
+	position: relative;
 
-  &:before {
-    content: '';
+	&:before {
+		content: "";
 
-    display: block;
-    height: 1em;
+		display: block;
+		height: 1em;
 
-    position: absolute;
-    bottom: -.5em;
-    left: 0;
-    right: 0;
+		position: absolute;
+		bottom: -0.5em;
+		left: 0;
+		right: 0;
 
-    background-size: .7em 1em;
-    background-position: 0 -.5em;
-  }
+		background-size: 0.7em 1em;
+		background-position: 0 -0.5em;
+	}
 }
 
 .border-stylish--lightgray-bottom {
-  &:before {
-    background-image: radial-gradient(circle, transparent 70%, #f5f5f5 70%);
-  }
+	&:before {
+		background-image: radial-gradient(circle, transparent 70%, #f5f5f5 70%);
+	}
 }
 
 .border-stylish--darkgray-bottom {
-  &:before {
-    background-image: radial-gradient(circle, transparent 70%, #e0e0e0 70%);
-  }
+	&:before {
+		background-image: radial-gradient(circle, transparent 70%, #e0e0e0 70%);
+	}
 }
 
 .border-stylish--deepblue {
-  &:before {
-    background-image: radial-gradient(circle, transparent 70%, #004853 70%);
-  }
+	&:before {
+		background-image: radial-gradient(circle, transparent 70%, #004853 70%);
+	}
 }
