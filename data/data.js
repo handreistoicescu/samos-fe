@@ -5,22 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Simon Endre",
-		date: "2021-07-20",
-		type: "Vernissage",
-		eventUrl: "https://www.facebook.com/events/250875593171955",
-		venueName: "Muzeul de artă",
-		canceled: "",
-	},
-	{
-		act: "The Nest",
-		date: "2021-07-20",
-		type: "Movie",
-		eventUrl: "https://www.facebook.com/events/174503884709386",
-		venueName: "Cinema Victoria",
-		canceled: "",
-	},
-	{
 		act: "Adieu les cons!",
 		date: "2021-07-21",
 		type: "Movie",
@@ -58,6 +42,15 @@ exports.events = [
 		type: "DJ Set",
 		eventUrl: "https://www.facebook.com/events/231065005400636",
 		venueName: "Cotton Club",
+		canceled: "",
+	},
+	{
+		act: "Mirrors of Brâncuși @ TIFF",
+		date: "2021-07-23",
+		type: "Exhibition",
+		eventUrl:
+			"https://www.facebook.com/events/s/expozitie-mirrors-of-brancusi-/561046768388677/",
+		venueName: "Muzeul de artă",
 		canceled: "",
 	},
 	{
@@ -101,6 +94,14 @@ exports.events = [
 		type: "Movie",
 		eventUrl: "https://tiff.eventbook.ro/film/bilete-tiff-2021-cenzor-censor",
 		venueName: "Cinema Florin Piersic",
+		canceled: "",
+	},
+	{
+		act: "te doare",
+		date: "2021-07-23",
+		type: "DJ Set",
+		eventUrl: "https://www.facebook.com/events/s/kineto/235492208256833/",
+		venueName: "L'Autre Café",
 		canceled: "",
 	},
 	{
@@ -311,6 +312,41 @@ exports.events = [
 		canceled: "",
 	},
 	{
+		act: "Dancer",
+		date: "2021-07-28",
+		type: "Movie",
+		eventUrl: "https://tiff.eventbook.ro/music/bilete-tiff-2021-dancer",
+		venueName: "Casa de cultură a studenților",
+		canceled: "",
+	},
+	{
+		act: "Indes Galantes",
+		date: "2021-07-28",
+		type: "Movie",
+		eventUrl:
+			"https://tiff.eventbook.ro/film/bilete-tiff-2021-indiile-galante-gallant-indies",
+		venueName: "Cinema Arta",
+		canceled: "",
+	},
+	{
+		act: "Final Report @ TIFF",
+		date: "2021-07-28",
+		type: "Movie",
+		eventUrl:
+			"https://tiff.eventbook.ro/film/bilete-tiff-2021-raport-final-final-report",
+		venueName: "Cinema Victoria",
+		canceled: "",
+	},
+	{
+		act: "The student of prague @ TIFF",
+		date: "2021-07-28",
+		type: "Ciné Concert",
+		eventUrl:
+			"https://tiff.eventbook.ro/music/bilete-tiff-2021-cine-concert-studentul-din-praga-irina-margareta-nistor-cellofun",
+		venueName: "Biserica Piaristă",
+		canceled: "",
+	},
+	{
 		act: "Us against us @ TIFF",
 		date: "2021-07-29",
 		type: "Movie",
@@ -377,6 +413,41 @@ exports.events = [
 		eventUrl:
 			"https://tiff.eventbook.ro/film/bilete-tiff-2021-swamp-city-swamp-city",
 		venueName: "UBB Open Air",
+		canceled: "",
+	},
+	{
+		act: "Supernova @ TIFF",
+		date: "2021-07-31",
+		type: "Movie",
+		eventUrl:
+			"https://tiff.eventbook.ro/film/bilete-tiff-2021-supernova-supernova",
+		venueName: "Cinema Victoria",
+		canceled: "",
+	},
+	{
+		act: "Romanian shorts II @ TIFF",
+		date: "2021-07-31",
+		type: "Movie",
+		eventUrl:
+			"https://tiff.eventbook.ro/film/bilete-tiff-20-scurtmetraje-romanesti-2",
+		venueName: "Cinema Florin Piersic",
+		canceled: "",
+	},
+	{
+		act: "Ane is missing @ TIFF",
+		date: "2021-07-31",
+		type: "Movie",
+		eventUrl:
+			"https://tiff.eventbook.ro/film/bilete-tiff-2021-ana-a-disparut-ane-is-missing",
+		venueName: "Cinema Arta",
+		canceled: "",
+	},
+	{
+		act: "Armen Miran & Hraach",
+		date: "2021-07-31",
+		type: "Live Set",
+		eventUrl: "https://www.facebook.com/events/139456464965527",
+		venueName: "Aroma Cluj",
 		canceled: "",
 	},
 ];
