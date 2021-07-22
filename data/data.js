@@ -5,14 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Adieu les cons!",
-		date: "2021-07-21",
-		type: "Movie",
-		eventUrl: "https://www.facebook.com/events/874961666791298",
-		venueName: "Cinema Victoria",
-		canceled: "",
-	},
-	{
 		act: "interior-lumină",
 		date: "2021-07-22",
 		type: "Theatre",
@@ -448,6 +440,15 @@ exports.events = [
 		type: "Live Set",
 		eventUrl: "https://www.facebook.com/events/139456464965527",
 		venueName: "Aroma Cluj",
+		canceled: "",
+	},
+	{
+		act: "Enfant terrible @ TIFF",
+		date: "2021-08-01",
+		type: "Movie",
+		eventUrl:
+			"https://tiff.eventbook.ro/film/bilete-tiff-2021-copilul-teribil-enfant-terrible",
+		venueName: "Cinema Victoria",
 		canceled: "",
 	},
 ];
