@@ -21,14 +21,6 @@ exports.events = [
 		canceled: "",
 	},
 	{
-		act: "Matrioșka",
-		date: "2021-07-22",
-		type: "Vernissage",
-		eventUrl: "https://www.facebook.com/events/321350719466220",
-		venueName: "Rubik",
-		canceled: "",
-	},
-	{
 		act: "Neprevăzutu",
 		date: "2021-07-22",
 		type: "DJ Set",
