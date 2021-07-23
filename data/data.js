@@ -5,30 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "interior-lumină",
-		date: "2021-07-22",
-		type: "Theatre",
-		eventUrl: "https://www.facebook.com/events/1448038295570250",
-		venueName: "Reactor de creație și experiment",
-		canceled: "",
-	},
-	{
-		act: "Adelina Cacio",
-		date: "2021-07-22",
-		type: "Vernissage",
-		eventUrl: "https://www.facebook.com/events/972914523475214",
-		venueName: "White Cuib",
-		canceled: "",
-	},
-	{
-		act: "Neprevăzutu",
-		date: "2021-07-22",
-		type: "DJ Set",
-		eventUrl: "https://www.facebook.com/events/231065005400636",
-		venueName: "Cotton Club",
-		canceled: "",
-	},
-	{
 		act: "Mirrors of Brâncuși @ TIFF",
 		date: "2021-07-23",
 		type: "Exhibition",
