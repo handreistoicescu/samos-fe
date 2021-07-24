@@ -5,71 +5,12 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Mirrors of Brâncuși @ TIFF",
-		date: "2021-07-23",
-		type: "Exhibition",
+		act: "SHOW-OFF 4",
+		date: "2021-07-24",
+		type: "Vernissage",
 		eventUrl:
-			"https://www.facebook.com/events/s/expozitie-mirrors-of-brancusi-/561046768388677/",
-		venueName: "Muzeul de artă",
-		canceled: "",
-	},
-	{
-		act: "Wheel of fortune and fantasy @ TIFF",
-		date: "2021-07-23",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-roata-norocului-wheel-of-fortune-and-fantasy",
-		venueName: "Cinema Florin Piersic",
-		canceled: "",
-	},
-	{
-		act: "Ane is missing @ TIFF",
-		date: "2021-07-23",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-ana-a-disparut-ane-is-missing",
-		venueName: "Cercul militar",
-		canceled: "",
-	},
-	{
-		act: "Lux Æterna @ TIFF",
-		date: "2021-07-23",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-lux-aeterna-lux-aeterna",
-		venueName: "Bonțida",
-		canceled: "",
-	},
-	{
-		act: "The people upstairs @ TIFF",
-		date: "2021-07-23",
-		type: "Movie",
-		eventUrl: "https://www.facebook.com/events/940855936727964",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
-		act: "Censor @ TIFF",
-		date: "2021-07-23",
-		type: "Movie",
-		eventUrl: "https://tiff.eventbook.ro/film/bilete-tiff-2021-cenzor-censor",
-		venueName: "Cinema Florin Piersic",
-		canceled: "",
-	},
-	{
-		act: "te doare",
-		date: "2021-07-23",
-		type: "DJ Set",
-		eventUrl: "https://www.facebook.com/events/s/kineto/235492208256833/",
-		venueName: "L'Autre Café",
-		canceled: "",
-	},
-	{
-		act: "Macarie @ Alandala",
-		date: "2021-07-23",
-		type: "DJ Set",
-		eventUrl: "https://www.facebook.com/events/250444616539207",
-		venueName: "Motel Gilău",
+			"https://www.facebook.com/events/s/show-off-4-matca-artspace/533793640999691/",
+		venueName: "Matca artspace",
 		canceled: "",
 	},
 	{
@@ -417,6 +358,14 @@ exports.events = [
 		eventUrl:
 			"https://tiff.eventbook.ro/film/bilete-tiff-2021-copilul-teribil-enfant-terrible",
 		venueName: "Cinema Victoria",
+		canceled: "",
+	},
+	{
+		act: "Daniela Groza",
+		date: "2021-08-02",
+		type: "Photography Workshop",
+		eventUrl: "https://www.facebook.com/events/1170102563486541",
+		venueName: "Casa Tranzit",
 		canceled: "",
 	},
 ];
