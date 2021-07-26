@@ -5,50 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Restul vieții noastre",
-		date: "2021-07-25",
-		type: "Theatre",
-		eventUrl: "https://www.facebook.com/events/345982446922957",
-		venueName: "Reactor de creație și experiment",
-		canceled: "",
-	},
-	{
-		act: "Marygoround @ TIFF",
-		date: "2021-07-25",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-marygoround-marygoround",
-		venueName: "Cinema Florin Piersic",
-		canceled: "",
-	},
-	{
-		act: "Conte d'été @ TIFF",
-		date: "2021-07-25",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-poveste-de-vara-a-summer39s-tale",
-		venueName: "Cinema Arta",
-		canceled: "",
-	},
-	{
-		act: "Pebbles @ TIFF",
-		date: "2021-07-25",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-pietricele-pebbles",
-		venueName: "Cinema Florin Piersic",
-		canceled: "",
-	},
-	{
-		act: "Another Round @ TIFF",
-		date: "2021-07-25",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-inca-un-rand-another-round",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
 		act: "Truman & Tennessee: An intimate conversation @ TIFF",
 		date: "2021-07-26",
 		type: "Movie",
@@ -200,6 +156,15 @@ exports.events = [
 		date: "2021-07-29",
 		type: "Movie",
 		eventUrl: "https://tiff.eventbook.ro/film/bilete-tiff-2021-tigri-tigers",
+		venueName: "Piața Unirii",
+		canceled: "",
+	},
+	{
+		act: "Critical Mass",
+		date: "2021-07-30",
+		type: "Gathering",
+		eventUrl:
+			"https://www.facebook.com/events/863712474236513/?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&notif_id=1627111188535722&notif_t=plan_user_invited&ref=notif",
 		venueName: "Piața Unirii",
 		canceled: "",
 	},
