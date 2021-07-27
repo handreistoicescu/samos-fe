@@ -5,32 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Truman & Tennessee: An intimate conversation @ TIFF",
-		date: "2021-07-26",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-truman-tennessee-o-conversatie-intima-truman-tennessee-an-intimate-conversation",
-		venueName: "Cinema Arta",
-		canceled: "",
-	},
-	{
-		act: "Fargo by Fragments @ TIFF",
-		date: "2021-07-26",
-		type: "Ciné Concert",
-		eventUrl: "https://www.facebook.com/events/159562609513338/",
-		venueName: "Casa de cultură a studenților",
-		canceled: "",
-	},
-	{
-		act: "The Mauritanian @ TIFF",
-		date: "2021-07-26",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-mauritanul-the-mauritanian",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
 		act: "Bad luck banging or loony porn @ TIFF",
 		date: "2021-07-27",
 		type: "Movie",
