@@ -5,49 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Bad luck banging or loony porn @ TIFF",
-		date: "2021-07-27",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-babardeala-cu-bucluc-sau-porno-balamuc-bad-luck-banging-or-loony-porn",
-		venueName: "Cinema Victoria",
-		canceled: "",
-	},
-	{
-		act: "Teddy @ TIFF",
-		date: "2021-07-27",
-		type: "Movie",
-		eventUrl: "https://tiff.eventbook.ro/film/bilete-tiff-2021-teddy-teddy",
-		venueName: "Dacia - Mănăștur Cinema",
-		canceled: "",
-	},
-	{
-		act: "Inferno by Edison Studio @ TIFF",
-		date: "2021-07-27",
-		type: "Ciné Concert",
-		eventUrl: "https://www.facebook.com/events/949007105913700/",
-		venueName: "Casa de cultură a studenților",
-		canceled: "",
-	},
-	{
-		act: "„Răsună tulnicele” - Ceata melopoică & Floriman @ TIFF",
-		date: "2021-07-27",
-		type: "Concert",
-		eventUrl:
-			"https://tiff.eventbook.ro/music/bilete-tiff-20-concert-rasuna-tulnicele-proiectie-holy-father",
-		venueName: "Arkhai Sculpture Park Vlaha",
-		canceled: "",
-	},
-	{
-		act: "The mystery of the pink flamingo @ TIFF",
-		date: "2021-07-27",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-misterul-flamingoului-roz-the-mystery-of-the-pink-flamingo",
-		venueName: "Cinema Arta",
-		canceled: "",
-	},
-	{
 		act: "Preparations to be together for an unknown period of time @ TIFF",
 		date: "2021-07-28",
 		type: "Movie",
