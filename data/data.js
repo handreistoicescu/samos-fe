@@ -5,50 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Preparations to be together for an unknown period of time @ TIFF",
-		date: "2021-07-28",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-pregatire-pentru-a-fi-impreuna-o-perioada-nedeterminata-preparations-to-be-together-for-an-unknown-period-of-ti",
-		venueName: "Cinema Florin Piersic",
-		canceled: "",
-	},
-	{
-		act: "Dancer",
-		date: "2021-07-28",
-		type: "Movie",
-		eventUrl: "https://tiff.eventbook.ro/music/bilete-tiff-2021-dancer",
-		venueName: "Casa de cultură a studenților",
-		canceled: "",
-	},
-	{
-		act: "Indes Galantes",
-		date: "2021-07-28",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-indiile-galante-gallant-indies",
-		venueName: "Cinema Arta",
-		canceled: "",
-	},
-	{
-		act: "Final Report @ TIFF",
-		date: "2021-07-28",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-raport-final-final-report",
-		venueName: "Cinema Victoria",
-		canceled: "",
-	},
-	{
-		act: "The student of prague @ TIFF",
-		date: "2021-07-28",
-		type: "Ciné Concert",
-		eventUrl:
-			"https://tiff.eventbook.ro/music/bilete-tiff-2021-cine-concert-studentul-din-praga-irina-margareta-nistor-cellofun",
-		venueName: "Biserica Piaristă",
-		canceled: "",
-	},
-	{
 		act: "Us against us @ TIFF",
 		date: "2021-07-29",
 		type: "Movie",
@@ -176,6 +132,14 @@ exports.events = [
 		type: "Photography Workshop",
 		eventUrl: "https://www.facebook.com/events/1170102563486541",
 		venueName: "Casa Tranzit",
+		canceled: "",
+	},
+	{
+		act: "Bastos",
+		date: "2021-08-08",
+		type: "Concert",
+		eventUrl: "https://www.facebook.com/events/228952032441070",
+		venueName: "Urania Palace",
 		canceled: "",
 	},
 ];
