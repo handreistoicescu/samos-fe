@@ -5,48 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Us against us @ TIFF",
-		date: "2021-07-29",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-noi-impotriva-noastra-us-against-us",
-		venueName: "Cinema Victoria",
-		canceled: "",
-	},
-	{
-		act: "My night at Maud's @ TIFF",
-		date: "2021-07-29",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-noaptea-mea-cu-maud-my-night-at-maud39s",
-		venueName: "Casa de cultură a studenților",
-		canceled: "",
-	},
-	{
-		act: "Malombra by Julie Roué @ TIFF",
-		date: "2021-07-29",
-		type: "Ciné Concert",
-		eventUrl: "https://www.facebook.com/events/583876479227003/",
-		venueName: "Muzeul de artă",
-		canceled: "",
-	},
-	{
-		act: "Sergei Polunin @ TIFF",
-		date: "2021-07-29",
-		type: "Performance Art",
-		eventUrl: "https://www.facebook.com/events/4208828052540286/",
-		venueName: "Bonțida",
-		canceled: "",
-	},
-	{
-		act: "Tigers @ TIFF",
-		date: "2021-07-29",
-		type: "Movie",
-		eventUrl: "https://tiff.eventbook.ro/film/bilete-tiff-2021-tigri-tigers",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
 		act: "Critical Mass",
 		date: "2021-07-30",
 		type: "Gathering",
