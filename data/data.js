@@ -5,42 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Critical Mass",
-		date: "2021-07-30",
-		type: "Gathering",
-		eventUrl:
-			"https://www.facebook.com/events/863712474236513/?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&notif_id=1627111188535722&notif_t=plan_user_invited&ref=notif",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
-		act: "Romanian shorts I @ TIFF",
-		date: "2021-07-30",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-20-scurtmetraje-romanesti-1",
-		venueName: "Cinema Florin Piersic",
-		canceled: "",
-	},
-	{
-		act: "Întregalde @ TIFF",
-		date: "2021-07-30",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-intregalde-intregalde",
-		venueName: "USAMV Open Air",
-		canceled: "",
-	},
-	{
-		act: "Swamp City @ TIFF",
-		date: "2021-07-30",
-		type: "Documentary",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-swamp-city-swamp-city",
-		venueName: "UBB Open Air",
-		canceled: "",
-	},
-	{
 		act: "Supernova @ TIFF",
 		date: "2021-07-31",
 		type: "Movie",
