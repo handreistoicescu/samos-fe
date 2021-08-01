@@ -5,41 +5,6 @@ exports.header_tagline_uptodate =
 
 exports.events = [
 	{
-		act: "Supernova @ TIFF",
-		date: "2021-07-31",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-supernova-supernova",
-		venueName: "Cinema Victoria",
-		canceled: "",
-	},
-	{
-		act: "Romanian shorts II @ TIFF",
-		date: "2021-07-31",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-20-scurtmetraje-romanesti-2",
-		venueName: "Cinema Florin Piersic",
-		canceled: "",
-	},
-	{
-		act: "Ane is missing @ TIFF",
-		date: "2021-07-31",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-ana-a-disparut-ane-is-missing",
-		venueName: "Cinema Arta",
-		canceled: "",
-	},
-	{
-		act: "Armen Miran & Hraach",
-		date: "2021-07-31",
-		type: "Live Set",
-		eventUrl: "https://www.facebook.com/events/139456464965527",
-		venueName: "Aroma Cluj",
-		canceled: "",
-	},
-	{
 		act: "Enfant terrible @ TIFF",
 		date: "2021-08-01",
 		type: "Movie",
