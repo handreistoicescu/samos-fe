@@ -1,7 +1,6 @@
 exports.header_tagline = "A freshly curated list of events in Cluj-Napoca";
 
-exports.header_tagline_uptodate =
-	"July-August 2021 // So much happening these days!";
+exports.header_tagline_uptodate = "August 2021";
 
 exports.events = [
 	{
