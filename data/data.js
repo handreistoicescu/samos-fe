@@ -4,15 +4,6 @@ exports.header_tagline_uptodate = "August 2021";
 
 exports.events = [
 	{
-		act: "Enfant terrible @ TIFF",
-		date: "2021-08-01",
-		type: "Movie",
-		eventUrl:
-			"https://tiff.eventbook.ro/film/bilete-tiff-2021-copilul-teribil-enfant-terrible",
-		venueName: "Cinema Victoria",
-		canceled: "",
-	},
-	{
 		act: "Daniela Groza",
 		date: "2021-08-02",
 		type: "Photography Workshop",
