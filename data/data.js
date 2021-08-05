@@ -28,9 +28,17 @@ exports.events = [
 		canceled: "",
 	},
 	{
+		act: "Mitsoura @ Electric Castle",
+		date: "2021-08-07",
+		type: "Concert",
+		eventUrl: "https://electriccastle.com/ec-special-schedule",
+		venueName: "Bonțida",
+		canceled: "",
+	},
+	{
 		act: "Pantaloons @ Electric Castle",
 		date: "2021-08-07",
-		type: "Live Set",
+		type: "Concert",
 		eventUrl: "https://electriccastle.com/ec-special-schedule",
 		venueName: "Bonțida",
 		canceled: "",
@@ -69,6 +77,14 @@ exports.events = [
 	},
 	{
 		act: "Keiyaa @ Electric Castle",
+		date: "2021-08-08",
+		type: "DJ Set",
+		eventUrl: "https://electriccastle.com/ec-special-schedule",
+		venueName: "Bonțida",
+		canceled: "",
+	},
+	{
+		act: "Fazer @ Electric Castle",
 		date: "2021-08-08",
 		type: "DJ Set",
 		eventUrl: "https://electriccastle.com/ec-special-schedule",
