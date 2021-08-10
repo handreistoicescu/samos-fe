@@ -4,46 +4,6 @@ exports.header_tagline_uptodate = "August 2021";
 
 exports.events = [
 	{
-		act: "Zimbru @ Electric Castle",
-		date: "2021-08-09",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Rectorat UBB",
-		canceled: "",
-	},
-	{
-		act: "Bruja @ Electric Castle",
-		date: "2021-08-09",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Liceul Reformat",
-		canceled: "",
-	},
-	{
-		act: "Zdob și Zdub @ Electric Castle",
-		date: "2021-08-10",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
-		act: "Asaf Avidan @ Electric Castle",
-		date: "2021-08-10",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
-		act: "Cardinal @ Electric Castle",
-		date: "2021-08-10",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Muzeul de artă",
-		canceled: "",
-	},
-	{
 		act: "Slowthai @ Electric Castle",
 		date: "2021-08-11",
 		type: "Concert",
