@@ -4,30 +4,6 @@ exports.header_tagline_uptodate = "August 2021";
 
 exports.events = [
 	{
-		act: "Slowthai @ Electric Castle",
-		date: "2021-08-11",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
-		act: "Nova Materia @ Electric Castle",
-		date: "2021-08-11",
-		type: "Live Set",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Muzeul de artă",
-		canceled: "",
-	},
-	{
-		act: "The Mauskovic Dance Band @ Electric Castle",
-		date: "2021-08-11",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Rectorat UBB",
-		canceled: "",
-	},
-	{
 		act: "Coma @ Electric Castle",
 		date: "2021-08-12",
 		type: "Concert",
