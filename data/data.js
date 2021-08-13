@@ -4,46 +4,6 @@ exports.header_tagline_uptodate = "August 2021";
 
 exports.events = [
 	{
-		act: "Coma @ Electric Castle",
-		date: "2021-08-12",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
-		act: "IAMDDB @ Electric Castle",
-		date: "2021-08-12",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Piața Unirii",
-		canceled: "",
-	},
-	{
-		act: "Molchat Doma @ Electric Castle",
-		date: "2021-08-12",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Liceul Reformat",
-		canceled: "",
-	},
-	{
-		act: "Igorr @ Electric Castle",
-		date: "2021-08-12",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Rectorat UBB",
-		canceled: "",
-	},
-	{
-		act: "YĪN YĪN @ Electric Castle",
-		date: "2021-08-12",
-		type: "Concert",
-		eventUrl: "https://electriccastle.com/ec-special-schedule",
-		venueName: "Liceul Reformat",
-		canceled: "",
-	},
-	{
 		act: "Killa Fonic @ Electric Castle",
 		date: "2021-08-13",
 		type: "Concert",
